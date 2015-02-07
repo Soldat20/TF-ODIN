@@ -6,14 +6,14 @@
 #define GUI_GRID_HAbs	(1)
 
 
-class meb_loadoutmgr_dlg {
+class tfo_loadoutmgr_dlg {
 	idd = 12487531;
 	movingEnable = true;
-	onLoad = "uiNamespace setVariable ['meb_loadoutmgr_dlg', (_this select 0)];_nop = [] call meb_fnc_LoMgrGuiOnload;";
+	onLoad = "uiNamespace setVariable ['tfo_loadoutmgr_dlg', (_this select 0)];_nop = [] call tfo_fnc_LoMgrGuiOnload;";
 	objects[] = {};
 	class controlsBackground {
 
-			class background: meb_IGUIBack
+			class background: tfo_IGUIBack
 			{
 				idc = 2200;
 				x = -3.5 * GUI_GRID_W + GUI_GRID_X;
@@ -22,10 +22,10 @@ class meb_loadoutmgr_dlg {
 				h = 19.5 * GUI_GRID_H;
 			};
 
-			class frame: meb_RscFrame
+			class frame: tfo_RscFrame
 			{
 				idc = 1800;
-				text = "MEB Loadout Manager"; //--- ToDo: Localize;
+				text = "tfo Loadout Manager"; //--- ToDo: Localize;
 				x = -3 * GUI_GRID_W + GUI_GRID_X;
 				y = 3 * GUI_GRID_H + GUI_GRID_Y;
 				w = 46.5079 * GUI_GRID_W;
@@ -37,7 +37,7 @@ class meb_loadoutmgr_dlg {
 
 	class controls {
 
-			class saveBox: meb_RscEdit
+			class saveBox: tfo_RscEdit
 			{
 				idc = 1401;
 				text = "Type here to name loadout"; //--- ToDo: Localize;
@@ -47,7 +47,7 @@ class meb_loadoutmgr_dlg {
 				h = 1.5 * GUI_GRID_H;
 				tooltip = "Type here to name loadout";
 			};
-			class loLIst: meb_RscListbox
+			class loLIst: tfo_RscListbox
 			{
 				idc = 1500;
 				x = -1.88 * GUI_GRID_W + GUI_GRID_X;
@@ -55,7 +55,7 @@ class meb_loadoutmgr_dlg {
 				w = 13.2619 * GUI_GRID_W;
 				h = 14.996 * GUI_GRID_H;
 			};
-			class saveBtn: meb_RscButton
+			class saveBtn: tfo_RscButton
 			{
 				idc = 2400;
 				text = "Save"; //--- ToDo: Localize;
@@ -63,10 +63,10 @@ class meb_loadoutmgr_dlg {
 				y = 4.01 * GUI_GRID_H + GUI_GRID_Y;
 				w = 7 * GUI_GRID_W;
 				h = 1.5 * GUI_GRID_H;
-				action = "_nop = [] call meb_fnc_saveLoadout;";
+				action = "_nop = [] call tfo_fnc_saveLoadout;";
 				tooltip = "Save current loadout";
 			};
-			class loadBtn: meb_RscButton
+			class loadBtn: tfo_RscButton
 			{
 				idc = 2401;
 				text = "Load"; //--- ToDo: Localize;
@@ -74,10 +74,10 @@ class meb_loadoutmgr_dlg {
 				y = 6.61 * GUI_GRID_H + GUI_GRID_Y;
 				w = 7 * GUI_GRID_W;
 				h = 3.5 * GUI_GRID_H;
-				action = "_nop = [] call meb_fnc_loadLoadout";
+				action = "_nop = [] call tfo_fnc_loadLoadout";
 				tooltip = "Load the selected loadout";
 			};
-			class deleteBtn: meb_RscButton
+			class deleteBtn: tfo_RscButton
 			{
 				idc = 2402;
 				text = "Delete"; //--- ToDo: Localize;
@@ -85,10 +85,10 @@ class meb_loadoutmgr_dlg {
 				y = 19.18 * GUI_GRID_H + GUI_GRID_Y;
 				w = 7 * GUI_GRID_W;
 				h = 1.5 * GUI_GRID_H;
-				action = "_nop = [] call meb_fnc_deleteLoadout";
+				action = "_nop = [] call tfo_fnc_deleteLoadout";
 				tooltip = "Delete the selected loadout!";
 			};
-			class curgearList: meb_RscListbox
+			class curgearList: tfo_RscListbox
 			{
 				idc = 1501;
 				x = 20.96 * GUI_GRID_W + GUI_GRID_X;
@@ -97,7 +97,7 @@ class meb_loadoutmgr_dlg {
 				h = 15.6667 * GUI_GRID_H;
 				tooltip = "Your current gear on your person.";
 			};
-			class gearTxt: meb_RscText
+			class gearTxt: tfo_RscText
 			{
 				idc = 1000;
 				text = "Current Gear"; //--- ToDo: Localize;
@@ -106,7 +106,7 @@ class meb_loadoutmgr_dlg {
 				w = 6.5 * GUI_GRID_W;
 				h = 1.5 * GUI_GRID_H;
 			};
-			class exitBtn: meb_RscButton
+			class exitBtn: tfo_RscButton
 			{
 				idc = 2403;
 				text = "Exit"; //--- ToDo: Localize;
@@ -119,7 +119,7 @@ class meb_loadoutmgr_dlg {
 			};
 
 			/*
-			class RscCheckbox_2500: meb_RscCheckbox
+			class RscCheckbox_2500: tfo_RscCheckbox
 			{
 				idc = 2500;
 				x = 12.8 * GUI_GRID_W + GUI_GRID_X;
