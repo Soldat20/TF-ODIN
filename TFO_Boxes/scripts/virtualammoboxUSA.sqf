@@ -1,10 +1,7 @@
-/*
 [nameOfBox,_type] call TFO_fnc_VirtualAmmoBoxUSA
 nameOfBox - Object
 type - Number, 0: all gear, 1: only ammo
-
 you can use it on whatever you want :)
-
 author: reyhard
 */
 
