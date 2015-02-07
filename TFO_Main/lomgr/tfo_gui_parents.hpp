@@ -95,7 +95,7 @@
 ///////////////////////////////////////////////////////////////////////////
 /// Base Classes
 ///////////////////////////////////////////////////////////////////////////
-class meb_RscText
+class tfo_RscText
 {
 	access = 0;
 	type = 0;
@@ -154,7 +154,7 @@ class meb_RscText
 		0.65
 	};
 };
-class meb_RscStructuredText
+class tfo_RscStructuredText
 {
 	access = 0;
 	type = 13;
@@ -182,7 +182,7 @@ class meb_RscStructuredText
 	size = "(((((safezoneW / safezoneH) min 1.2) / 1.2) / 25) * 1)";
 	shadow = 1;
 };
-class meb_RscPicture
+class tfo_RscPicture
 {
 	access = 0;
 	type = 0;
@@ -234,7 +234,7 @@ class meb_RscPicture
 		0.65
 	};
 };
-class meb_RscEdit
+class tfo_RscEdit
 {
 	access = 0;
 	type = 2;
@@ -300,7 +300,7 @@ class meb_RscEdit
 		0.65
 	};
 };
-class meb_RscCombo
+class tfo_RscCombo
 {
 	access = 0;
 	type = 4;
@@ -415,7 +415,7 @@ class meb_RscCombo
 		0.65
 	};
 };
-class meb_RscListBox
+class tfo_RscListBox
 {
 	access = 0;
 	type = 5;
@@ -590,7 +590,7 @@ class meb_RscListBox
 		0.65
 	};
 };
-class meb_RscButton
+class tfo_RscButton
 {
 	access = 0;
 	type = 1;
@@ -672,7 +672,7 @@ class meb_RscButton
 	offsetPressedY = 0.002;
 	borderSize = 0;
 };
-class meb_RscShortcutButton
+class tfo_RscShortcutButton
 {
 	type = 16;
 	x = 0.1;
@@ -795,7 +795,7 @@ class meb_RscShortcutButton
 		align = "left";
 	};
 };
-class meb_RscShortcutButtonMain
+class tfo_RscShortcutButtonMain
 {
 	idc = -1;
 	style = 0;
@@ -863,7 +863,7 @@ class meb_RscShortcutButtonMain
 		align = "false";
 	};
 };
-class meb_RscFrame
+class tfo_RscFrame
 {
 	type = 0;
 	idc = -1;
@@ -887,7 +887,7 @@ class meb_RscFrame
 	sizeEx = 0.02;
 	text = "";
 };
-class meb_RscSlider
+class tfo_RscSlider
 {
 	access = 0;
 	type = 3;
@@ -910,7 +910,7 @@ class meb_RscSlider
 	shadow = 0;
 	h = 0.025;
 };
-class meb_IGUIBack
+class tfo_IGUIBack
 {
 	type = 0;
 	idc = 124;
@@ -938,7 +938,7 @@ class meb_IGUIBack
 		"(profilenamespace getvariable ['IGUI_BCG_RGB_A',0.8])"
 	};
 };
-class meb_RscCheckbox
+class tfo_RscCheckbox
 {
 	idc = -1;
 	type = 7;
@@ -1025,7 +1025,7 @@ class meb_RscCheckbox
 		"CHECKED"
 	};
 };
-class meb_RscButtonMenu
+class tfo_RscButtonMenu
 {
 	idc = -1;
 	type = 16;
@@ -1156,7 +1156,7 @@ class meb_RscButtonMenu
 		1
 	};
 };
-class meb_RscButtonMenuOK
+class tfo_RscButtonMenuOK
 {
 	idc = 1;
 	shortcuts[] = 
@@ -1175,7 +1175,7 @@ class meb_RscButtonMenuOK
 		1
 	};
 };
-class meb_RscButtonMenuCancel
+class tfo_RscButtonMenuCancel
 {
 	idc = 2;
 	shortcuts[] = 
@@ -1184,7 +1184,7 @@ class meb_RscButtonMenuCancel
 	};
 	text = "Cancel";
 };
-class meb_RscControlsGroup
+class tfo_RscControlsGroup
 {
 	class VScrollbar
 	{
