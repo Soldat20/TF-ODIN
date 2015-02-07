@@ -1,4 +1,4 @@
-/*
+
 [nameOfBox,_type] call TFO_fnc_VirtualAmmoBoxBAF
 nameOfBox - Object
 type - Number, 0: all gear, 1: only ammo
@@ -33,7 +33,7 @@ _tfo_weapons = [
 	"rhs_weap_fgm148"
 ];
 
-_tfotfo_magazines = [
+_tfo_magazines = [
 	"rhs_mag_mk84",
 	"SmokeShell",
 	"SmokeShellRed",
