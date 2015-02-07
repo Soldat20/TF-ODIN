@@ -43,7 +43,7 @@ class CfgPatches {
 			class Box_NATO_Wps_F;	// External class reference
 			
 			class tfo_baf_crate : Box_NATO_Wps_F {
-				displayName = "TFO UKSF Crate (Virtual)";
+				displayName = "[TFO] UKSF Crate (Virtual)";
 				scope = public;
 				icon = "iconCrateLarge";
 				transportMaxWeapons = 40;
@@ -61,7 +61,7 @@ class CfgPatches {
 			};
 			
 			class tfo_usa_crate : Box_NATO_Wps_F {
-				displayName = "TFO US Army Crate (Virtual)";
+				displayName = "[TFO] US Army Crate (Virtual)";
 				scope = public;
 				icon = "iconCrateLarge";
 				transportMaxWeapons = 40;
