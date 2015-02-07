@@ -13,25 +13,7 @@ _tfo_weapons = [
 
 	"CUP_arifle_L85A2",
 	"CUP_arifle_L85A2_GL",
-	"CUP_arifle_L86A2",
-	
-	
-	"rhs_weap_m4_grip",
-	"rhs_weap_m4_grip2",
-	"rhs_weap_m4_bipod",
-	"rhs_weap_m4_carryhandle",
-	"rhs_weap_m4_carryhandle_pmag",
-	"rhs_m4_m320",
-	"rhs_m4a1_m320",
-	"rhs_weap_m4a1",
-	"rhs_weap_m4a1_grip",
-	"rhs_weap_m4a1_grip2",
-	"rhs_weap_m4a1_bipod",
-	"rhs_weap_M136",
-	"rhs_weap_M136_hedp",
-	"rhs_weap_M136_hp",
-	"rhs_weap_fim92",
-	"rhs_weap_fgm148"
+	"CUP_arifle_L86A2"
 ];
 
 _tfo_magazines = [
