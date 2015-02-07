@@ -51,7 +51,7 @@ _tfo_weapons = [
 	"CUP_launch_FIM92Stinger",
 	"CUP_lmg_M249_para",
 	"CUP_lmg_Mk48_des",
-	"CUP_lmg_Mk48_wdl"
+	"CUP_lmg_Mk48_wdl",
 	"CUP_launch_Javelin"
 ];
 
@@ -69,89 +69,89 @@ _tfo_magazines = [
 	"Chemlight_red",
 	"Chemlight_yellow",
 	"Chemlight_blue",
-	"CUP_Javelin_M"
-	"CUP_15Rnd_9x19_M9"
-	"CUP_Dragon_EP1_M"
-	"CUP_10Rnd_127x99_m107"
-	"CUP_M136_M"
-	"CUP_8Rnd_B_Beneli_74Slug"
-	"CUP_30Rnd_9x19_MP5"
-	"CUP_NLAW_M"
-	"CUP_Stinger_M"
+	"CUP_Javelin_M",
+	"CUP_15Rnd_9x19_M9",
+	"CUP_Dragon_EP1_M",
+	"CUP_10Rnd_127x99_m107",
+	"CUP_M136_M",
+	"CUP_8Rnd_B_Beneli_74Slug",
+	"CUP_30Rnd_9x19_MP5",
+	"CUP_NLAW_M",
+	"CUP_Stinger_M",
 	
 	
 	//7.62
-	"CUP_5Rnd_762x51_M24"
+	"CUP_5Rnd_762x51_M24",
 	"CUP_20Rnd_762x51_DMR",
 	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_DMR",
 	"CUP_20Rnd_TE1_Red_Tracer_762x51_DMR",
 	"CUP_20Rnd_TE1_Green_Tracer_762x51_DMR",
 	"CUP_20Rnd_TE1_White_Tracer_762x51_DMR",
-	"CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M"
-	"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M"
-	"CUP_20Rnd_762x51_B_M110"
-	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_M110"
-	"CUP_20Rnd_TE1_Red_Tracer_762x51_M110"
-	"CUP_20Rnd_TE1_Green_Tracer_762x51_M110"
-	"CUP_20Rnd_TE1_White_Tracer_762x51_M110"
-	"CUP_20Rnd_762x51_B_SCAR"
-	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_SCAR"
-	"CUP_20Rnd_TE1_Red_Tracer_762x51_SCAR"
-	"CUP_20Rnd_TE1_Green_Tracer_762x51_SCAR"
-	"CUP_20Rnd_TE1_White_Tracer_762x51_SCAR"
+	"CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M",
+	"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",
+	"CUP_20Rnd_762x51_B_M110",
+	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_M110",
+	"CUP_20Rnd_TE1_Red_Tracer_762x51_M110",
+	"CUP_20Rnd_TE1_Green_Tracer_762x51_M110",
+	"CUP_20Rnd_TE1_White_Tracer_762x51_M110",
+	"CUP_20Rnd_762x51_B_SCAR",
+	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_SCAR",
+	"CUP_20Rnd_TE1_Red_Tracer_762x51_SCAR",
+	"CUP_20Rnd_TE1_Green_Tracer_762x51_SCAR",
+	"CUP_20Rnd_TE1_White_Tracer_762x51_SCAR",
 	
 //5.56 mags
-	"CUP_30Rnd_556x45_Stanag"
-	"CUP_30Rnd_556x45_G36"
-	"CUP_30Rnd_TE1_Red_Tracer_556x45_G36"
-	"CUP_30Rnd_TE1_Green_Tracer_556x45_G36"
-	"CUP_30Rnd_TE1_Yellow_Tracer_556x45_G36"
-	"CUP_100Rnd_556x45_BetaCMag"
-	"CUP_100Rnd_TE1_Red_Tracer_556x45_BetaCMag"
-	"CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag"
-	"CUP_100Rnd_TE1_Yellow_Tracer_556x45_BetaCMag"
-	"30Rnd_556x45_Stanag"
-	"30Rnd_556x45_Stanag_Tracer_Red"
-	"30Rnd_556x45_Stanag_Tracer_Green"
-	"30Rnd_556x45_Stanag_Tracer_Yellow"
-	"CUP_20Rnd_556x45_Stanag"
+	"CUP_30Rnd_556x45_Stanag",
+	"CUP_30Rnd_556x45_G36",
+	"CUP_30Rnd_TE1_Red_Tracer_556x45_G36",
+	"CUP_30Rnd_TE1_Green_Tracer_556x45_G36",
+	"CUP_30Rnd_TE1_Yellow_Tracer_556x45_G36",
+	"CUP_100Rnd_556x45_BetaCMag",
+	"CUP_100Rnd_TE1_Red_Tracer_556x45_BetaCMag",
+	"CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",
+	"CUP_100Rnd_TE1_Yellow_Tracer_556x45_BetaCMag",
+	"30Rnd_556x45_Stanag",
+	"30Rnd_556x45_Stanag_Tracer_Red",
+	"30Rnd_556x45_Stanag_Tracer_Green",
+	"30Rnd_556x45_Stanag_Tracer_Yellow",
+	"CUP_20Rnd_556x45_Stanag",
 
 //M320 ammo
-	"CUP_1Rnd_HE_M203"
-	"CUP_1Rnd_HEDP_M203"
-	"CUP_FlareWhite_M203"
-	"CUP_FlareGreen_M203"
-	"CUP_FlareRed_M203"
-	"CUP_FlareYellow_M203"
-	"CUP_1Rnd_Smoke_M203"
-	"CUP_1Rnd_SmokeRed_M203"
-	"CUP_1Rnd_SmokeGreen_M203"
-	"CUP_1Rnd_SmokeYellow_M203"
-	"1Rnd_HE_Grenade_shell"
-	"UGL_FlareWhite_F"
-	"UGL_FlareGreen_F"
-	"UGL_FlareRed_F"
-	"UGL_FlareYellow_F"
-	"UGL_FlareCIR_F"
-	"1Rnd_Smoke_Grenade_shell"
-	"1Rnd_SmokeRed_Grenade_shell"
-	"1Rnd_SmokeGreen_Grenade_shell"
-	"1Rnd_SmokeYellow_Grenade_shell"
-	"1Rnd_SmokePurple_Grenade_shell"
-	"1Rnd_SmokeBlue_Grenade_shell"
-	"1Rnd_SmokeOrange_Grenade_shell"
+	"CUP_1Rnd_HE_M203",
+	"CUP_1Rnd_HEDP_M203",
+	"CUP_FlareWhite_M203",
+	"CUP_FlareGreen_M203",
+	"CUP_FlareRed_M203",
+	"CUP_FlareYellow_M203",
+	"CUP_1Rnd_Smoke_M203",
+	"CUP_1Rnd_SmokeRed_M203",
+	"CUP_1Rnd_SmokeGreen_M203",
+	"CUP_1Rnd_SmokeYellow_M203",
+	"1Rnd_HE_Grenade_shell",
+	"UGL_FlareWhite_F",
+	"UGL_FlareGreen_F",
+	"UGL_FlareRed_F",
+	"UGL_FlareYellow_F",
+	"UGL_FlareCIR_F",
+	"1Rnd_Smoke_Grenade_shell",
+	"1Rnd_SmokeRed_Grenade_shell",
+	"1Rnd_SmokeGreen_Grenade_shell",
+	"1Rnd_SmokeYellow_Grenade_shell",
+	"1Rnd_SmokePurple_Grenade_shell",
+	"1Rnd_SmokeBlue_Grenade_shell",
+	"1Rnd_SmokeOrange_Grenade_shell",
 
 //M249 mag
 	
-	"CUP_200Rnd_TE4_Red_Tracer_556x45_M249"
-	"CUP_200Rnd_TE4_Yellow_Tracer_556x45_M249"
-	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249"
-	"CUP_100Rnd_TE4_Green_Tracer_556x45_M249"
-	"CUP_100Rnd_TE4_Red_Tracer_556x45_M249"
-	"CUP_100Rnd_TE4_Yellow_Tracer_556x45_M249"
-	"CUP_200Rnd_TE4_Green_Tracer_556x45_L110A1"
-	"CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1"
-	"CUP_200Rnd_TE4_Yellow_Tracer_556x45_L110A1"
+	"CUP_200Rnd_TE4_Red_Tracer_556x45_M249",
+	"CUP_200Rnd_TE4_Yellow_Tracer_556x45_M249",
+	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249",
+	"CUP_100Rnd_TE4_Green_Tracer_556x45_M249",
+	"CUP_100Rnd_TE4_Red_Tracer_556x45_M249",
+	"CUP_100Rnd_TE4_Yellow_Tracer_556x45_M249",
+	"CUP_200Rnd_TE4_Green_Tracer_556x45_L110A1",
+	"CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1",
+	"CUP_200Rnd_TE4_Yellow_Tracer_556x45_L110A1",
 
 //M240 mag
 	"rhsusf_100Rnd_762x51",
@@ -177,31 +177,31 @@ _tfo_items = [
 	"toolkit",
 	"medikit",
 	"MineDetector",
-	"cse_bandage_basic"
-	"cse_packing_bandage"
-	"cse_tourniquet"
-	"cse_splint"
-	"cse_morphine"
-	"cse_atropine"
-	"cse_epinephrine"
-	"cse_plasma_iv"
-	"cse_plasma_iv_500"
-	"cse_plasma_iv_250"
-	"cse_blood_iv"
-	"cse_blood_iv_500"
-	"cse_blood_iv_250"
-	"cse_saline_iv"
-	"cse_saline_iv_500"
-	"cse_saline_iv_250"
-	"cse_quikclot"
-	"cse_nasopharyngeal_tube"
-	"cse_opa"
-	"cse_bandageElastic"
-	"cse_liquidSkin"
-	"cse_chestseal"
-	"cse_personal_aid_kit"
-	"cse_surgical_kit"
-	"cse_itemBodyBag"
+	"cse_bandage_basic",
+	"cse_packing_bandage",
+	"cse_tourniquet",
+	"cse_splint",
+	"cse_morphine",
+	"cse_atropine",
+	"cse_epinephrine",
+	"cse_plasma_iv",
+	"cse_plasma_iv_500",
+	"cse_plasma_iv_250",
+	"cse_blood_iv",
+	"cse_blood_iv_500",
+	"cse_blood_iv_250",
+	"cse_saline_iv",
+	"cse_saline_iv_500",
+	"cse_saline_iv_250",
+	"cse_quikclot",
+	"cse_nasopharyngeal_tube",
+	"cse_opa",
+	"cse_bandageElastic",
+	"cse_liquidSkin",
+	"cse_chestseal",
+	"cse_personal_aid_kit",
+	"cse_surgical_kit",
+	"cse_itemBodyBag",
 	
 	//nvg
 	"rhsusf_ANPVS_14",
@@ -285,23 +285,106 @@ _tfo_items = [
 	"G_mas_wpn_shemag_mask"
 
 	//accessories
-	"CUP_muzzle_mfsup_SCAR_H"
-	"CUP_muzzle_snds_SCAR_H"
-	"CUP_muzzle_mfsup_SCAR_L"
-	"CUP_muzzle_snds_SCAR_L"
-	"CUP_muzzle_snds_M16"
-	"CUP_muzzle_snds_M16_camo"
-	"CUP_muzzle_snds_M9"
-	"CUP_muzzle_snds_M14"
-	"CUP_muzzle_snds_M110"
+	"CUP_muzzle_mfsup_SCAR_H",
+	"CUP_muzzle_snds_SCAR_H",
+	"CUP_muzzle_mfsup_SCAR_L",
+	"CUP_muzzle_snds_SCAR_L",
+	"CUP_muzzle_snds_M16",
+	"CUP_muzzle_snds_M16_camo",
+	"CUP_muzzle_snds_M9",
+	"CUP_muzzle_snds_M14",
+	"CUP_muzzle_snds_M110",
+	"RH_eotech553",
+	"RH_eotech553mag",
+"RH_eotech553_tan",
+"RH_eotech553mag_tan",
+"RH_eotexps3",
+"RH_eotexps3_tan",
+"RH_eothhs1",
+"RH_eothhs1_tan",
+"RH_compm4s",
+"RH_compm2",
+"RH_compm2l",
+"RH_compm2_tan",
+"RH_compm2l_tan",
+"RH_t1",
+"RH_t1_tan",
+"RH_reflex",
+"RH_shortdot",
+"RH_m3lr",
+"RH_ta01nsn",
+"RH_ta01nsn_2D"
+"RH_ta31rco"
+"RH_ta31rco_2D"
+"RH_ta31rmr"
+"RH_ta31rmr_2D"
+"RH_ta01nsn_tan"
+"RH_ta01nsn_tan_2D"
+"RH_ta31rco_tan"
+"RH_ta31rco_tan_2D"
+"RH_ta31rmr_tan"
+"RH_ta31rmr_tan_2D"
+"RH_ta648"
+"RH_accupoint"
+"RH_leu_mk4"
+"RH_c79"
+"RH_c79_2D"
+"RH_m145"
+"RH_barska_rds"
+"RH_cmore"
+"RH_LTdocter"
+"RH_LTdocterl"
+"RH_zpoint"
+"RH_anpvs4"
+"RH_anpvs10"
+"RH_pas13cl"
+"RH_pas13cm"
+"RH_pas13cmg"
+"RH_pas13ch"
+"RH_peq15"
+"RH_peq15_top"
+"RH_peq15b"
+"RH_peq15b_top"
+"RH_peq2"
+"RH_peq2_top"
+"RH_SFM952V"
+"RH_SFM952V_tan"
+"RH_qdss_nt4"
+"RH_qdss_nt4_tg"
+"RH_qdss_nt4_des"
+"RH_qdss_nt4_wdl"
+"RH_saker"
+"RH_saker_tg",
+"RH_saker_des",
+"RH_saker_wdl",
+"RH_Saker762",
+"RH_Saker762_tg",
+"RH_Saker762_des",
+"RH_Saker762_wdl",
+"RH_fa556",
+"RH_fa556_tg",
+"RH_fa556_des",
+"RH_fa556_wdl",
+"RH_fa762",
+"RH_fa762_tg",
+"RH_fa762_des",
+"RH_fa762_wdl",
+"RH_spr_mbs",
+"RH_spr_mbs_tg",
+"RH_spr_mbs_des",
+"RH_spr_mbs_wdl",
+"RH_tundra",
+"RH_tundra_tg",
+"RH_tundra_des",
+"RH_tundra_wdl",
+"RH_m110sd",
+"RH_m110sd_t"
 	
 
 ];
 
 _tfo_backpacks = [
-	"rhsusf_assault_eagleaiii_ucp",
-	"rhsusf_assault_eagleaiii_ocp",
-	"rhsusf_falconii"
+
 ];
 
 
