@@ -28,11 +28,11 @@ class CfgPatches {
 				class functions {
 					class virtualAmmoBoxBAF {
 						file = "\TFO_Boxes\scripts\virtualAmmoBoxBAF.sqf";
-						description = "[nameOfObject,type (type number: 0 - all gear, 1 - ammo only)] call rhs_fnc_virtualAmmoBoxBAF, make a object virtual ammo box with american gear inside";
+						description = "[nameOfObject,type (type number: 0 - all gear, 1 - ammo only)] call tfo_fnc_virtualAmmoBoxBAF, make a object virtual ammo box with american gear inside";
 					};
 					class virtualAmmoBoxUSA {
 						file = "\TFO_Boxes\scripts\virtualAmmoBoxUSA.sqf";
-						description = "[nameOfObject,type (type number: 0 - all gear, 1 - ammo only)] call rhs_fnc_virtualAmmoBoxUSA, make a object virtual ammo box with american gear inside";
+						description = "[nameOfObject,type (type number: 0 - all gear, 1 - ammo only)] call tfo_fnc_virtualAmmoBoxUSA, make a object virtual ammo box with american gear inside";
 					};
 				};
 			};
