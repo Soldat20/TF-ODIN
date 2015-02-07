@@ -1,4 +1,3 @@
-
 [nameOfBox,_type] call TFO_fnc_VirtualAmmoBoxBAF
 nameOfBox - Object
 type - Number, 0: all gear, 1: only ammo
