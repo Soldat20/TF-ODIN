@@ -311,23 +311,33 @@ _tfo_items = [
  	"H_mas_uk_helmet_pro_gog",
  	"H_mas_uk_helmet_pro_gog_b",
 
-	//accesories
-	"rhsusf_acc_compm4",
-	"rhsusf_acc_LEUPOLDMK4",
-	"rhsusf_acc_LEUPOLDMK4_2",
-	"rhsusf_acc_HAMR",
-	"rhsusf_acc_EOTECH",
-	"rhsusf_acc_ELCAN",
-	"rhsusf_acc_ACOG",
-	"rhsusf_acc_ACOG2",
-	"rhsusf_acc_ACOG3",
-	"rhsusf_acc_M2010S",
-	"rhsusf_acc_anpeq15",
-	"rhsusf_acc_anpeq15_light",
-	"rhsusf_acc_anpeq15side",
-	"rhsusf_acc_anpeq15A",
-	"muzzle_snds_M"
-
+	//medical
+	"cse_bandage_basic",
+	"cse_packing_bandage",
+	"cse_tourniquet",
+	"cse_splint",
+	"cse_morphine",
+	"cse_atropine",
+	"cse_epinephrine",
+	"cse_plasma_iv",
+	"cse_plasma_iv_500",
+	"cse_plasma_iv_250",
+	"cse_blood_iv",
+	"cse_blood_iv_500",
+	"cse_blood_iv_250",
+	"cse_saline_iv",
+	"cse_saline_iv_500",
+	"cse_saline_iv_250",
+	"cse_quikclot",
+	"cse_nasopharyngeal_tube",
+	"cse_opa",
+	"cse_bandageElastic",
+	"cse_liquidSkin",
+	"cse_chestseal",
+	"cse_personal_aid_kit",
+	"cse_surgical_kit",
+	"cse_itemBodyBag"
+	
 ];
 
 _tfo_backpacks = [
