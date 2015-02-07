@@ -112,6 +112,12 @@ _tfo_magazines = [
 	"30Rnd_556x45_Stanag_Tracer_Green",
 	"30Rnd_556x45_Stanag_Tracer_Yellow",
 	"CUP_20Rnd_556x45_Stanag",
+	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
+	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
+	"rhs_mag_30Rnd_556x45_M855A1_Stanag",
+	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red",
+	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green",
+	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
 
 //M320 ammo
 	"CUP_1Rnd_HE_M203",
