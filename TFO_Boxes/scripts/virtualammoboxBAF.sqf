@@ -13,6 +13,8 @@ _type = _this select 1;
 _tfo_weapons = [
 
 	"CUP_arifle_L85A2",
+	"CUP_arifle_L85A2_GL",
+	"CUP_arifle_L86A2",
 	
 	
 	"rhs_weap_m4_grip",
@@ -26,7 +28,7 @@ _tfo_weapons = [
 	"rhs_weap_m4a1_grip",
 	"rhs_weap_m4a1_grip2",
 	"rhs_weap_m4a1_bipod",
-"rhs_weap_M136",
+	"rhs_weap_M136",
 	"rhs_weap_M136_hedp",
 	"rhs_weap_M136_hp",
 	"rhs_weap_fim92",
@@ -49,6 +51,7 @@ _tfo_magazines = [
 
 //5.56 mags
 	"CUP_30Rnd_556x45_Stanag",
+	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
 	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red",
