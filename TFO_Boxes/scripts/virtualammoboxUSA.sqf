@@ -16,45 +16,47 @@ _tfo_weapons = [
 
 	"Binocular",
 
-	"rhs_weap_m4",
-	"rhs_weap_m4_grip",
-	"rhs_weap_m4_grip2",
-	"rhs_weap_m4_bipod",
-	"rhs_weap_m4_carryhandle",
-	"rhs_weap_m4_carryhandle_pmag",
-	"rhs_m4_m320",
-	"rhs_m4a1_m320",
-	"rhs_weap_m4a1",
-	"rhs_weap_m4a1_grip",
-	"rhs_weap_m4a1_grip2",
-	"rhs_weap_m4a1_bipod",
+	"CUP_hgun_Colt1911",
+	"CUP_srifle_DMR_LeupoldMk4",
+	"CUP_glaunch_Mk13",
+	"CUP_hgun_M9",
+	"CUP_srifle_M14",
+	"CUP_arifle_M4A1",
+	"CUP_arifle_M4A1_camo",
+	"CUP_srifle_Mk12SPR",
+	"CUP_srifle_M24_wdl",
+	"CUP_srifle_M24_des",
+	"CUP_srifle_M40A3",
+	"CUP_launch_M47",
+	"CUP_arifle_M16A2"
+	"CUP_arifle_M16A2_GL"
+	"CUP_lmg_M60A4",
+	"CUP_srifle_M107_Base",
+	"CUP_srifle_M110",
+	"CUP_launch_M136",
+	"CUP_lmg_M240",
 
-	"rhs_weap_m16a4",
-	"rhs_weap_m16a4_grip",
-	"rhs_weap_m16a4_bipod",
-	"rhs_weap_m16a4_carryhandle",
-	"rhs_weap_m16a4_carryhandle_pmag",
+	"CUP_lmg_M249",
+	"CUP_sgun_M1014",
 
-	"rhs_weap_m249_pip",
-	"rhs_weap_m240B",
+	"CUP_smg_MP5SD6",
+	"CUP_smg_MP5A5",
+	"CUP_launch_NLAW",
+	"CUP_arifle_Mk16_CQC",
+	"CUP_arifle_Mk16_STD",
 
-	"rhs_weap_m14ebrri",
-	"rhs_weap_XM2010",
-	"rhs_weap_XM2010_d",
-	"rhs_weap_XM2010_wd",
-	"rhs_weap_XM2010_sa",
+	"CUP_arifle_Mk17_CQC",
 
-	"rhs_weap_M320",
-
-	"rhs_weap_M136",
-	"rhs_weap_M136_hedp",
-	"rhs_weap_M136_hp",
-	"rhs_weap_fim92",
-	"rhs_weap_fgm148"
+	"CUP_arifle_Mk17_STD",
+	"CUP_launch_FIM92Stinger",
+	"CUP_lmg_M249_para",
+	"CUP_lmg_Mk48_des",
+	"CUP_lmg_Mk48_wdl"
+	"CUP_launch_Javelin"
 ];
 
 _tfo_magazines = [
-	"rhs_mag_m67",
+	"CUP_7Rnd_45ACP_1911",
 	"rhs_mag_mk84",
 	"SmokeShell",
 	"SmokeShellRed",
@@ -67,30 +69,89 @@ _tfo_magazines = [
 	"Chemlight_red",
 	"Chemlight_yellow",
 	"Chemlight_blue",
-
+	"CUP_Javelin_M"
+	"CUP_15Rnd_9x19_M9"
+	"CUP_Dragon_EP1_M"
+	"CUP_10Rnd_127x99_m107"
+	"CUP_M136_M"
+	"CUP_8Rnd_B_Beneli_74Slug"
+	"CUP_30Rnd_9x19_MP5"
+	"CUP_NLAW_M"
+	"CUP_Stinger_M"
+	
+	
+	//7.62
+	"CUP_5Rnd_762x51_M24"
+	"CUP_20Rnd_762x51_DMR",
+	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_DMR",
+	"CUP_20Rnd_TE1_Red_Tracer_762x51_DMR",
+	"CUP_20Rnd_TE1_Green_Tracer_762x51_DMR",
+	"CUP_20Rnd_TE1_White_Tracer_762x51_DMR",
+	"CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M"
+	"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M"
+	"CUP_20Rnd_762x51_B_M110"
+	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_M110"
+	"CUP_20Rnd_TE1_Red_Tracer_762x51_M110"
+	"CUP_20Rnd_TE1_Green_Tracer_762x51_M110"
+	"CUP_20Rnd_TE1_White_Tracer_762x51_M110"
+	"CUP_20Rnd_762x51_B_SCAR"
+	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_SCAR"
+	"CUP_20Rnd_TE1_Red_Tracer_762x51_SCAR"
+	"CUP_20Rnd_TE1_Green_Tracer_762x51_SCAR"
+	"CUP_20Rnd_TE1_White_Tracer_762x51_SCAR"
+	
 //5.56 mags
-	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
-	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
+	"CUP_30Rnd_556x45_Stanag"
+	"CUP_30Rnd_556x45_G36"
+	"CUP_30Rnd_TE1_Red_Tracer_556x45_G36"
+	"CUP_30Rnd_TE1_Green_Tracer_556x45_G36"
+	"CUP_30Rnd_TE1_Yellow_Tracer_556x45_G36"
+	"CUP_100Rnd_556x45_BetaCMag"
+	"CUP_100Rnd_TE1_Red_Tracer_556x45_BetaCMag"
+	"CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag"
+	"CUP_100Rnd_TE1_Yellow_Tracer_556x45_BetaCMag"
+	"30Rnd_556x45_Stanag"
+	"30Rnd_556x45_Stanag_Tracer_Red"
+	"30Rnd_556x45_Stanag_Tracer_Green"
+	"30Rnd_556x45_Stanag_Tracer_Yellow"
+	"CUP_20Rnd_556x45_Stanag"
 
 //M320 ammo
-	"rhs_mag_M441_HE",
-	"rhs_mag_M433_HEDP",
-	"rhs_mag_M4009",
-	"rhs_mag_m576",
-	"rhs_mag_M585_white",
-	"rhs_mag_M661_green",
-	"rhs_mag_M662_red",
-	"rhs_mag_M713_red",
-	"rhs_mag_M714_white",
-	"rhs_mag_M715_green",
-	"rhs_mag_M716_yellow",
+	"CUP_1Rnd_HE_M203"
+	"CUP_1Rnd_HEDP_M203"
+	"CUP_FlareWhite_M203"
+	"CUP_FlareGreen_M203"
+	"CUP_FlareRed_M203"
+	"CUP_FlareYellow_M203"
+	"CUP_1Rnd_Smoke_M203"
+	"CUP_1Rnd_SmokeRed_M203"
+	"CUP_1Rnd_SmokeGreen_M203"
+	"CUP_1Rnd_SmokeYellow_M203"
+	"1Rnd_HE_Grenade_shell"
+	"UGL_FlareWhite_F"
+	"UGL_FlareGreen_F"
+	"UGL_FlareRed_F"
+	"UGL_FlareYellow_F"
+	"UGL_FlareCIR_F"
+	"1Rnd_Smoke_Grenade_shell"
+	"1Rnd_SmokeRed_Grenade_shell"
+	"1Rnd_SmokeGreen_Grenade_shell"
+	"1Rnd_SmokeYellow_Grenade_shell"
+	"1Rnd_SmokePurple_Grenade_shell"
+	"1Rnd_SmokeBlue_Grenade_shell"
+	"1Rnd_SmokeOrange_Grenade_shell"
 
 //M249 mag
-	"rhsusf_100Rnd_556x45_soft_pouch",
+	
+	"CUP_200Rnd_TE4_Red_Tracer_556x45_M249"
+	"CUP_200Rnd_TE4_Yellow_Tracer_556x45_M249"
+	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249"
+	"CUP_100Rnd_TE4_Green_Tracer_556x45_M249"
+	"CUP_100Rnd_TE4_Red_Tracer_556x45_M249"
+	"CUP_100Rnd_TE4_Yellow_Tracer_556x45_M249"
+	"CUP_200Rnd_TE4_Green_Tracer_556x45_L110A1"
+	"CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1"
+	"CUP_200Rnd_TE4_Yellow_Tracer_556x45_L110A1"
 
 //M240 mag
 	"rhsusf_100Rnd_762x51",
@@ -115,101 +176,125 @@ _tfo_items = [
 	"Binocular",
 	"toolkit",
 	"medikit",
-	"firstaidkit",
 	"MineDetector",
+	"cse_bandage_basic"
+	"cse_packing_bandage"
+	"cse_tourniquet"
+	"cse_splint"
+	"cse_morphine"
+	"cse_atropine"
+	"cse_epinephrine"
+	"cse_plasma_iv"
+	"cse_plasma_iv_500"
+	"cse_plasma_iv_250"
+	"cse_blood_iv"
+	"cse_blood_iv_500"
+	"cse_blood_iv_250"
+	"cse_saline_iv"
+	"cse_saline_iv_500"
+	"cse_saline_iv_250"
+	"cse_quikclot"
+	"cse_nasopharyngeal_tube"
+	"cse_opa"
+	"cse_bandageElastic"
+	"cse_liquidSkin"
+	"cse_chestseal"
+	"cse_personal_aid_kit"
+	"cse_surgical_kit"
+	"cse_itemBodyBag"
+	
 	//nvg
 	"rhsusf_ANPVS_14",
 	"rhsusf_ANPVS_15",
 
 	//uniforms
-	"rhs_uniform_cu_ocp",
-	"rhs_uniform_cu_ucp",
-	"rhs_uniform_cu_ocp_patchless",
-	"rhs_uniform_cu_ucp_patchless",
+	"U_mas_usr_B_IndUniform1_o",
+	"U_mas_usr_B_IndUniform2_o",
+	"U_mas_usr_B_IndUniform1_v",
+	"U_mas_usr_B_IndUniform2_v",
+	"U_mas_usr_B_IndUniform1_d",
+	"U_mas_usr_B_IndUniform2_d",
 
 	//vests
-	"rhsusf_iotv_ocp",
-	"rhsusf_iotv_ocp_Grenadier",
-	"rhsusf_iotv_ocp_Medic",
-	"rhsusf_iotv_ocp_Repair",
-	"rhsusf_iotv_ocp_Rifleman",
-	"rhsusf_iotv_ocp_SAW",
-	"rhsusf_iotv_ocp_Squadleader",
-	"rhsusf_iotv_ocp_teamleader",
-
-	"rhsusf_iotv_ucp",
-	"rhsusf_iotv_ucp_Grenadier",
-	"rhsusf_iotv_ucp_Medic",
-	"rhsusf_iotv_ucp_Repair",
-	"rhsusf_iotv_ucp_Rifleman",
-	"rhsusf_iotv_ucp_SAW",
-	"rhsusf_iotv_ucp_Squadleader",
-	"rhsusf_iotv_ucp_teamleader",
+	"V_mas_usr_Rangemaster_belt",
+	"V_mas_usr_BandollierB_rgr",
+	"V_mas_usr_PlateCarrier1_rgr",
+	"V_mas_usr_PlateCarrier2_rgr",
+	"V_mas_usr_PlateCarrierGL_rgr",
+	"V_mas_usr_ChestrigB_rgr",
+	"V_mas_usr_Rangemaster_belt_d",
+	"V_mas_usr_BandollierB_rgr_d",
+	"V_mas_usr_PlateCarrier1_rgr_d",
+	"V_mas_usr_PlateCarrier2_rgr_d",
+	"V_mas_usr_PlateCarrierGL_rgr_d",
+	"V_mas_usr_ChestrigB_rgr_d",
+	"V_mas_usr_Rangemaster_belt_g",
+	"V_mas_usr_BandollierB_rgr_g",
+	"V_mas_usr_PlateCarrier1_rgr_g",
+	"V_mas_usr_PlateCarrier2_rgr_g",
+	"V_mas_usr_PlateCarrierGL_rgr_g",
+	"V_mas_usr_ChestrigB_rgr_g",
 
 	//headgear
-	"rhsusf_patrolcap_ocp",
-	"rhsusf_patrolcap_ucp",
-	"rhsusf_ach_helmet_ocp",
-	"rhsusf_ach_helmet_ucp",
-	"rhsusf_ach_helmet_m81",
-	"rhsusf_ach_helmet_camo_ocp",
-	"rhsusf_ach_helmet_headset_ocp",
-	"rhsusf_ach_helmet_headset_ucp",
-	"rhsusf_ach_helmet_ess_ocp",
-	"rhsusf_ach_helmet_ess_ucp",
-	"rhsusf_ach_helmet_headset_ess_ocp",
-	"rhsusf_ach_helmet_headset_ess_ucp",
-	"rhsusf_ach_bare",
-	"rhsusf_ach_bare_ess",
-	"rhsusf_ach_bare_headset",
-	"rhsusf_ach_bare_headset_ess",
-	"rhsusf_ach_bare_tan",
-	"rhsusf_ach_bare_tan_ess",
-	"rhsusf_ach_bare_tan_headset",
-	"rhsusf_ach_bare_tan_headset_ess",
-	"rhsusf_ach_bare_wood",
-	"rhsusf_ach_bare_wood_ess",
-	"rhsusf_ach_bare_wood_headset",
-	"rhsusf_ach_bare_wood_headset_ess",
-	"rhsusf_ach_bare_des",
-	"rhsusf_ach_bare_des_ess",
-	"rhsusf_ach_bare_des_headset",
-	"rhsusf_ach_bare_des_headset_ess",
-	"rhsusf_ach_bare_semi",
-	"rhsusf_ach_bare_semi_ess",
-	"rhsusf_ach_bare_semi_headset",
-	"rhsusf_ach_bare_semi_headset_ess",
-	"rhsusf_opscore_01",
-	"rhsusf_opscore_01_tan",
-	"rhsusf_opscore_02",
-	"rhsusf_opscore_02_tan",
-	"rhsusf_opscore_03_ocp",
-	"rhsusf_opscore_04_ocp",
-	"rhsusf_cvc_helmet",
-	"rhsusf_cvc_ess",
-	"rhsusf_cvc_green_helmet",
-	"rhsusf_cvc_green_ess",
-	"rhsusf_hgu56p",
-	"rhsusf_hgu56p_mask",
-	"rhs_Booniehat_ocp",
-	"rhs_Booniehat_ucp",
+	"H_mas_usr_off",
+	"H_mas_usr_off_v",
+	"H_mas_usr_off_d",
+	"H_mas_usr_off_g",
+	"H_mas_usr_beret",
+	"H_mas_usr_Booniehat_rgr",
+	"H_mas_usr_Booniehat_des",
+	"G_mas_wpn_gog",
+	"G_mas_wpn_gog_d",
+	"G_mas_wpn_gog_m",
+	"G_mas_wpn_gog_md",
+	"G_mas_wpn_gog_g",
+	"G_mas_wpn_gog_gd",
+	"G_mas_wpn_mask",
+	"G_mas_wpn_mask_b",
+	"G_mas_wpn_wrap",
+	"G_mas_wpn_wrap_f",
+	"G_mas_wpn_wrap_t",
+	"G_mas_wpn_wrap_b", 
+	"G_mas_wpn_wrap_c", 
+	"G_mas_wpn_wrap_g", 
+	"G_mas_wpn_wrap_gog",
+	"G_mas_wpn_wrap_gog_f", 
+	"G_mas_wpn_wrap_gog_t",
+	"G_mas_wpn_wrap_gog_b", 
+	"G_mas_wpn_wrap_gog_c", 
+	"G_mas_wpn_wrap_gog_g", 
+	"G_mas_wpn_wrap_mask", 
+	"G_mas_wpn_wrap_mask_t",
+	"G_mas_wpn_wrap_mask_f",
+	"G_mas_wpn_wrap_mask_b", 
+	"G_mas_wpn_wrap_mask_c", 
+	"G_mas_wpn_wrap_mask_g", 
+	"G_mas_wpn_bala", 
+	"G_mas_wpn_bala_b", 
+	"G_mas_wpn_bala_t", 
+	"G_mas_wpn_bala_gog", 
+	"G_mas_wpn_bala_gog_b", 
+	"G_mas_wpn_bala_gog_t", 
+	"G_mas_wpn_bala_mask",
+	"G_mas_wpn_bala_mask_b",
+	"G_mas_wpn_bala_mask_t",
+	"G_mas_wpn_shemag", 
+	"G_mas_wpn_shemag_r", 
+	"G_mas_wpn_shemag_w", 
+	"G_mas_wpn_shemag_gog",
+	"G_mas_wpn_shemag_mask"
 
-	//accesories
-	"rhsusf_acc_compm4",
-	"rhsusf_acc_LEUPOLDMK4",
-	"rhsusf_acc_LEUPOLDMK4_2",
-	"rhsusf_acc_HAMR",
-	"rhsusf_acc_EOTECH",
-	"rhsusf_acc_ELCAN",
-	"rhsusf_acc_ACOG",
-	"rhsusf_acc_ACOG2",
-	"rhsusf_acc_ACOG3",
-	"rhsusf_acc_M2010S",
-	"rhsusf_acc_anpeq15",
-	"rhsusf_acc_anpeq15_light",
-	"rhsusf_acc_anpeq15side",
-	"rhsusf_acc_anpeq15A",
-	"muzzle_snds_M"
+	//accessories
+	"CUP_muzzle_mfsup_SCAR_H"
+	"CUP_muzzle_snds_SCAR_H"
+	"CUP_muzzle_mfsup_SCAR_L"
+	"CUP_muzzle_snds_SCAR_L"
+	"CUP_muzzle_snds_M16"
+	"CUP_muzzle_snds_M16_camo"
+	"CUP_muzzle_snds_M9"
+	"CUP_muzzle_snds_M14"
+	"CUP_muzzle_snds_M110"
+	
 
 ];
 
