@@ -14,11 +14,8 @@ _type = _this select 1;
 
 _tfo_weapons = [
 
-	"Binocular",
-
 	"CUP_hgun_Colt1911",
 	"CUP_srifle_DMR_LeupoldMk4",
-	"CUP_glaunch_Mk13",
 	"CUP_hgun_M9",
 	"CUP_srifle_M14",
 	"CUP_arifle_M4A1",
@@ -28,8 +25,6 @@ _tfo_weapons = [
 	"CUP_srifle_M24_des",
 	"CUP_srifle_M40A3",
 	"CUP_launch_M47",
-	"CUP_arifle_M16A2"
-	"CUP_arifle_M16A2_GL"
 	"CUP_lmg_M60A4",
 	"CUP_srifle_M107_Base",
 	"CUP_srifle_M110",
@@ -263,7 +258,7 @@ _tfo_items = [
 	"G_mas_wpn_shemag_r", 
 	"G_mas_wpn_shemag_w", 
 	"G_mas_wpn_shemag_gog",
-	"G_mas_wpn_shemag_mask"
+	"G_mas_wpn_shemag_mask",
 
 	//accessories
 	"CUP_muzzle_mfsup_SCAR_H",
@@ -275,7 +270,7 @@ _tfo_items = [
 	"CUP_muzzle_snds_M9",
 	"CUP_muzzle_snds_M14",
 	"CUP_muzzle_snds_M110",
-		"RH_eotech553",
+	"RH_eotech553",
 	"RH_eotech553mag",
 	"RH_eotech553_tan",
 	"RH_eotech553mag_tan",
@@ -364,6 +359,12 @@ _tfo_items = [
 
 _tfo_backpacks = [
 
+	"B_AssaultPack_rgr",
+	"B_AssaultPack_mcamo",
+	"B_Kitbag_rgr",
+	"B_Kitbag_mcamo",
+	"B_TacticalPack_blk",
+	"B_TacticalPack_mcamo"
 ];
 
 
