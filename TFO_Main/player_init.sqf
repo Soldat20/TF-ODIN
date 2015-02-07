@@ -1,1 +1,1 @@
-call compile preprocessFileLineNumbers "\meb_main\lomgr\player_init.sqf";
+call compile preprocessFileLineNumbers "\tfo_main\lomgr\player_init.sqf";
