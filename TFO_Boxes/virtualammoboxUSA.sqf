@@ -1,5 +1,5 @@
 /*
-[nameOfBox,_type] call RHS_fnc_VirtualAmmoBoxUSA
+[nameOfBox,_type] call TFO_fnc_VirtualAmmoBoxUSA
 nameOfBox - Object
 type - Number, 0: all gear, 1: only ammo
 
@@ -8,11 +8,11 @@ you can use it on whatever you want :)
 author: reyhard
 */
 
-private["_ammoBox","_type","_rhs_magazines","_rhs_weapons","_rhs_items","_rhs_backpacks"];
+private["_ammoBox","_type","_tfo_magazines","_tfo_weapons","_tfo_items","_tfo_backpacks"];
 _ammoBox = _this select 0;
 _type = _this select 1;
 
-_rhs_weapons = [
+_tfo_weapons = [
 
 	"Binocular",
 
@@ -53,7 +53,7 @@ _rhs_weapons = [
 	"rhs_weap_fgm148"
 ];
 
-_rhs_magazines = [
+_tfo_magazines = [
 	"rhs_mag_m67",
 	"rhs_mag_mk84",
 	"SmokeShell",
@@ -109,7 +109,7 @@ _rhs_magazines = [
 	"rhs_mine_M19_mag"
 ];
 
-_rhs_items = [
+_tfo_items = [
 
 	//misc items
 	"Binocular",
@@ -213,7 +213,7 @@ _rhs_items = [
 
 ];
 
-_rhs_backpacks = [
+_tfo_backpacks = [
 	"rhsusf_assault_eagleaiii_ucp",
 	"rhsusf_assault_eagleaiii_ocp",
 	"rhsusf_falconii"
@@ -225,12 +225,12 @@ _rhs_backpacks = [
 ["AmmoboxInit",[_ammoBox]] call BIS_fnc_arsenal;
 
 if(_type == 0)then{
-	[_ammoBox,_rhs_weapons,true] call BIS_fnc_addVirtualWeaponCargo;
-	[_ammoBox,_rhs_items,true] call BIS_fnc_addVirtualItemCargo;
-	[_ammoBox,_rhs_backpacks,true] call BIS_fnc_addVirtualBackPackCargo;
+	[_ammoBox,_tfo_weapons,true] call BIS_fnc_addVirtualWeaponCargo;
+	[_ammoBox,_tfo_items,true] call BIS_fnc_addVirtualItemCargo;
+	[_ammoBox,_tfo_backpacks,true] call BIS_fnc_addVirtualBackPackCargo;
 };
 
-[_ammoBox,_rhs_magazines,true] call BIS_fnc_addVirtualMagazineCargo;
+[_ammoBox,_tfo_magazines,true] call BIS_fnc_addVirtualMagazineCargo;
 
 
 //_ammoBox setvariable ["bis_fnc_arsenal_condition",{true},true];
