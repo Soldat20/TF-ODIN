@@ -1,4 +1,4 @@
-#define PREFIX meb_main
+#define PREFIX tfo_main
 #define COMPONENT main
 #define MAJOR 1
 #define MINOR 0
@@ -12,17 +12,17 @@
 
 class CfgPatches
 {
-	class PREFIX  // meb
+	class PREFIX  // tfo
 		{
 			units[] = {};
 			weapons[] = {};
 			requiredVersion = REQUIRED_VERSION;
 			requiredAddons[] = {"CBA_MAIN"};
-			versionDesc = "11th MEU(SOC) Ammoboxes";
+			versionDesc = "TF-ODIN Ammoboxes";
 			versionAct = "";
 			VERSION_CONFIG;
-			author[] = {"11th MEU(SOC) Mod Team"};
-			authorUrl = "http://www.11thmeu.org";
+			author[] = {"TF-ODIN Mod Team"};
+			authorUrl = "http://www.TFODIN.us";
 		};
 };
 
@@ -46,12 +46,12 @@ class CfgSettings
 class CfgMods {
 	class PREFIX {
 		dir = "@MARSOC_Boxes";
-		name = "11th MEU(SOC) MOD Pack";
+		name = "TF-ODIN MOD Pack";
 		picture = "";
 		hidePicture = "True";
 		hideName = "False";
 		actionName = "Website";
-		action = "http://www.11thmeu.org";
+		authorUrl = "http://www.TFODIN.us";
 		description = "";
 	};
 };
@@ -59,9 +59,9 @@ class Extended_PostInit_EventHandlers
 {
 	class PREFIX
 	{
-		clientInit = QUOTE(call COMPILE_FILE2(\meb_main\player_init.sqf));
+		clientInit = QUOTE(call COMPILE_FILE2(\tfo_main\player_init.sqf));
 
-		//serverInit = QUOTE(call COMPILE_FILE2(\meb_main\server_init.sqf));
+		//serverInit = QUOTE(call COMPILE_FILE2(\tfo_main\server_init.sqf));
 	};
 };
 
@@ -88,6 +88,6 @@ class CfgVehicles
 };
 
 
-#include <\meb_main\lomgr\meb_gui_parents.hpp>
+#include <\tfo_main\lomgr\tfo_gui_parents.hpp>
 
-#include <\meb_main\lomgr\loadoutmgr_gui.hpp>
+#include <\tfo_main\lomgr\loadoutmgr_gui.hpp>
