@@ -14,44 +14,28 @@ _type = _this select 1;
 
 _tfo_weapons = [
 
-	"CUP_hgun_Colt1911",
-	"CUP_srifle_DMR_LeupoldMk4",
 	"CUP_hgun_M9",
-	"CUP_srifle_M14",
 	"CUP_arifle_M4A1",
 	"CUP_arifle_M4A1_camo",
 	"CUP_srifle_Mk12SPR",
 	"CUP_srifle_M24_wdl",
 	"CUP_srifle_M24_des",
-	"CUP_srifle_M40A3",
-	"CUP_launch_M47",
-	"CUP_lmg_M60A4",
 	"CUP_srifle_M107_Base",
 	"CUP_srifle_M110",
 	"CUP_launch_M136",
 	"CUP_lmg_M240",
-
 	"CUP_lmg_M249",
 	"CUP_sgun_M1014",
-
-	"CUP_smg_MP5SD6",
-	"CUP_smg_MP5A5",
 	"CUP_launch_NLAW",
-	"CUP_arifle_Mk16_CQC",
-	"CUP_arifle_Mk16_STD",
-
 	"CUP_arifle_Mk17_CQC",
-
 	"CUP_arifle_Mk17_STD",
 	"CUP_launch_FIM92Stinger",
-	"CUP_lmg_M249_para",
 	"CUP_lmg_Mk48_des",
 	"CUP_lmg_Mk48_wdl",
 	"CUP_launch_Javelin"
 ];
 
 _tfo_magazines = [
-	"CUP_7Rnd_45ACP_1911",
 	"rhs_mag_mk84",
 	"SmokeShell",
 	"SmokeShellRed",
@@ -66,7 +50,6 @@ _tfo_magazines = [
 	"Chemlight_blue",
 	"CUP_Javelin_M",
 	"CUP_15Rnd_9x19_M9",
-	"CUP_Dragon_EP1_M",
 	"CUP_10Rnd_127x99_m107",
 	"CUP_M136_M",
 	"CUP_8Rnd_B_Beneli_74Slug",
