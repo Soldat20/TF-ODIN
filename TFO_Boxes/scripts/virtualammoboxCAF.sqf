@@ -34,12 +34,15 @@ _tfo_weapons = [
 "caf_ar10t",
 "caf_ar10t_ar",
 "caf_ar10t_ac",
-"caf_ar10t_tw"
+"caf_ar10t_tw",
+"caf_c6gpmg",
+"CUP_srifle_M107_Base",
+"CUP_hgun_M9"
 
 ];
 
 _tfo_magazines = [
-	"rhs_mag_mk84",
+	"CUP_HandGrenade_M67",
 	"SmokeShell",
 	"SmokeShellRed",
 	"SmokeShellGreen",
@@ -51,19 +54,40 @@ _tfo_magazines = [
 	"Chemlight_red",
 	"Chemlight_yellow",
 	"Chemlight_blue",
+	"CUP_10Rnd_127x99_m107",
+	"CUP_1Rnd_HE_M203",
+	"CUP_1Rnd_HEDP_M203",
+	"CUP_FlareWhite_M203",
+	"CUP_FlareGreen_M203",
+	"CUP_FlareRed_M203",
+	"CUP_FlareYellow_M203",
+	"CUP_1Rnd_Smoke_M203",
+	"CUP_1Rnd_SmokeRed_M203",
+	"CUP_1Rnd_SmokeGreen_M203",
+	"CUP_1Rnd_SmokeYellow_M203",
 
-//5.56 mags
+//5.56 mags 
+	"20Rnd_762x51_Mag",
+	"220rnd_762x51_Belt",
 	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
 	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
+	
+//9mm mags
+
+	"CUP_15Rnd_9x19_M9",
 
 //M249 mag
 
+	"rhsusf_100Rnd_556x45_soft_pouch",
+	"CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1",
+	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249",
+
 //M240 mag
-	"rhsusf_100Rnd_762x51",
+	"220rnd_762x51_Belt"
 
 ];
 
@@ -120,6 +144,11 @@ _tfo_items = [
  	"G_mas_wpn_shemag_w",
  	"G_mas_wpn_shemag_gog",
  	"G_mas_wpn_shemag_mask",
+ 	"G_Diving",
+ 	"Mask_M50",
+ 	"Mask_M40",
+ 	"Mask_M40_OD",
+ 	
 
 	//uniforms
 "U_CAF_uniform1_cadpatTW",
@@ -173,6 +202,12 @@ _tfo_items = [
 "CAF_muzzle_snds_556_WOOD",
 "CAF_muzzle_snds_556_ARCTIC",
 "CAF_muzzle_snds_556_aR",
+"optic_carryhandle", 
+"optic_elcan", 
+"optic_elcan_arid", 
+"optic_elcan_wood", 
+"optic_elcan_arctic", 
+"optic_elcan3d"
 	"RH_eotech553",
 	"RH_eotech553mag",
 	"RH_eotech553_tan",
@@ -272,7 +307,10 @@ _tfo_backpacks = [
 "B_caf_KitBag_AR",
 "B_caf_Kitbag_TW",
 "B_caf_Bergen_AR",
-"B_caf_Bergen_TW"
+"B_caf_Bergen_TW",
+"tf_rt1523g",
+"tf_rt1523g_bwmod",
+"B_MAV_B_BACKPACK"
 ];
 
 
