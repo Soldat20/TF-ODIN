@@ -11,29 +11,29 @@ _ammoBox = _this select 0;
 _type = _this select 1;
 
 _tfo_weapons = [
-"ONS_C7A2",
-"ONS_C7A2_Virt",
-"ONS_C7A2_M203",
-"ONS_C8A2",
-"ONS_C8A2_Virt",
-"ONS_C8A2_M203",
-"ONS_C8A3",
-"ONS_C8A3_Virt",
-"ONS_C8A3_M203",
-"ONS_C8A3_CQB",
-"ONS_C8IUR",
-"ONS_C8IUR_AR",
-"ONS_C8a2_AR",
-"ONS_C8a2_Virt_AR",
-"ONS_C8a2_M203_AR",
-"ONS_C8IUR_TW",
-"ONS_C8a3_AR",
-"ONS_C8a3_Virt_AR",
-"ONS_C8a3_M203_AR",
-"ONS_C8a3_CQB_AR",
-"ONS_C8IURV2",
-"CUP_srifle_M107_Base",
-"CUP_hgun_M9"
+
+	"rhs_weap_m4",
+	"rhs_weap_m4_grip",
+	"rhs_weap_m4_grip2",
+	"rhs_weap_m4_bipod",
+	"rhs_weap_m4_carryhandle",
+	"rhs_weap_m4_carryhandle_pmag",
+	"rhs_m4_m320",
+	"rhs_m4a1_m320",
+	"rhs_weap_m4a1",
+	"rhs_weap_m4a1_grip",
+	"rhs_weap_m4a1_grip2",
+	"rhs_weap_m4a1_bipod",
+
+	"rhs_weap_m16a4",
+	"rhs_weap_m16a4_grip",
+	"rhs_weap_m16a4_bipod",
+	"rhs_weap_m16a4_carryhandle",
+	"rhs_weap_m16a4_carryhandle_pmag",
+	"CUP_srifle_M107_Base",
+	"CUP_lmg_M249",
+	"CUP_launch_MAAWS_Scope",
+	"CUP_hgun_M9"
 
 ];
 
@@ -51,6 +51,8 @@ _tfo_magazines = [
 	"Chemlight_yellow",
 	"Chemlight_blue",
 	"CUP_10Rnd_127x99_m107",
+
+	//M320 ammo
 	"CUP_1Rnd_HE_M203",
 	"CUP_1Rnd_HEDP_M203",
 	"CUP_FlareWhite_M203",
@@ -61,6 +63,24 @@ _tfo_magazines = [
 	"CUP_1Rnd_SmokeRed_M203",
 	"CUP_1Rnd_SmokeGreen_M203",
 	"CUP_1Rnd_SmokeYellow_M203",
+	"rhs_mag_M441_HE",
+	"rhs_mag_M433_HEDP",
+	"rhs_mag_M4009",
+	"rhs_mag_m576",
+	"rhs_mag_M585_white",
+	"rhs_mag_M661_green",
+	"rhs_mag_M662_red",
+	"rhs_mag_M713_red",
+	"rhs_mag_M714_white",
+	"rhs_mag_M715_green",
+	"rhs_mag_M716_yellow",
+	"1Rnd_Smoke_Grenade_shell",
+	"1Rnd_SmokeRed_Grenade_shell",
+	"1Rnd_SmokeGreen_Grenade_shell",
+	"1Rnd_SmokeYellow_Grenade_shell",
+	"1Rnd_SmokePurple_Grenade_shell",
+	"1Rnd_SmokeBlue_Grenade_shell",
+	"1Rnd_SmokeOrange_Grenade_shell",
 
 //5.56 mags 
 	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
@@ -69,8 +89,6 @@ _tfo_magazines = [
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
-	"30Rnd_556X45_NATO",
-	"30Rnd_556x45_Stanag_Tracer_Red",
 	
 //9mm mags
 
@@ -80,9 +98,15 @@ _tfo_magazines = [
 
 	"rhsusf_100Rnd_556x45_soft_pouch",
 	"CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1",
-	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249"
+	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249",
 
+//rockets
+"CUP_MAAWS_HEAT_M",
+"CUP_MAAWS_HEDP_M",	
+	
 //M240 mag
+
+	"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M"
 
 ];
 
@@ -140,20 +164,66 @@ _tfo_items = [
  	"G_mas_wpn_shemag_gog",
  	"G_mas_wpn_shemag_mask",
  	"G_Diving",
+	"SFG_Tac_ChopsD",
+ 	"SFG_Tac_ChopsB",
+ 	"SFG_Tac_ChopsG",
+ 	"SFG_Tac_ChopsO",
+ 	"SFG_Tac_moustacheD",
+ 	"SFG_Tac_moustacheG",
+ 	"SFG_Tac_moustacheB",
+ 	"SFG_Tac_moustacheO",
+ 	"SFG_Tac_chinlessbD",
+ 	"SFG_Tac_chinlessbG",
+ 	"SFG_Tac_chinlessbB",
+ 	"SFG_Tac_chinlessbO",
+ 	"SFG_Tac_smallBeardD",
+ 	"SFG_Tac_smallBeardG",
+ 	"SFG_Tac_smallBeardB",
+ 	"SFG_Tac_smallBeardO",
  	"Mask_M50",
  	"Mask_M40",
  	"Mask_M40_OD",
  	
 
 	//uniforms
+"U_ons_uniform1_cadpatAR",
+"U_ons_uniform2_cadpatAR",
+"U_ons_uniform3_cadpatAR",
+"U_ons_uniform4_cadpatAR",
+"U_ons_uniform5_cadpatAR",
+"U_ons_GhilleSuit_ar",
+"U_ons_uniform1_cadpatTW",
+"U_ons_uniform2_cadpatTW",
+"U_ons_uniform3_cadpatTW",
+"U_ons_uniform4_cadpatTW",
+"U_ons_uniform5_cadpatTW",
+"U_ons_GhilleSuit_tw",
 "ons_csog_multicam",
 "ons_csog_multicam2",
+
 	//vests
 "ons_csog_vest",
 "ons_csog_vest2",
+"ONS_V_TacVest01_TW",
+"ONS_V_TacVest02_TW",
+"ONS_V_TacVest03_TW",
+"ONS_V_TacVest01_ar",
+"ONS_V_TacVest02_ar",
+"ONS_V_TacVest03_ar",
 
 	//headgear
+"H_ons_Boonie_AR",
+"ONS_Helmet_AR_B",
+"ONS_CG634_AR_B",
+"ONS_CG634_Net_AR_B",
+"ONS_CG634_scrim_AR_B",
+"H_ons_Boonie_TW",
+"ONS_Helmet_TW_B",
+"ONS_CG634_TW_B",
+"ONS_CG634_Net_TW_B",
+"ONS_CG634_scrim_TW_B",
 "ONS_CSOG_Helmet",
+"H_Cap_headphones",
 
 	//accessories
 	"RH_eotech553",
@@ -238,15 +308,17 @@ _tfo_items = [
 	"RH_tundra",
 	"RH_tundra_tg",
 	"RH_tundra_des",
-	"RH_tundra_wdl",
-	"RH_m110sd",
-	"RH_m110sd_t",
-	"556Suppressor",
-	"optic_elcan",
-	"optic_elcan_arid",
-	"optic_elcan_wood",
-	"optic_elcan_arctic",
-	"optic_elcan3d"
+	"RH_tundra_wdl",	"rhsusf_acc_HAMR",
+	"rhsusf_acc_EOTECH",
+	"rhsusf_acc_ELCAN",
+	"rhsusf_acc_ACOG",
+	"rhsusf_acc_ACOG2",
+	"rhsusf_acc_ACOG3",
+	"rhsusf_acc_anpeq15",
+	"rhsusf_acc_anpeq15_light",
+	"rhsusf_acc_anpeq15side",
+	"rhsusf_acc_anpeq15A",
+	"muzzle_snds_M"
 	
 ];
 
@@ -254,7 +326,15 @@ _tfo_backpacks = [
 
 "tf_rt1523g",
 "tf_rt1523g_bwmod",
-"B_MAV_B_BACKPACK"
+"B_MAV_B_BACKPACK",
+"B_ons_Carryall",
+"B_ons_Carryall_Medical",
+"B_ons_Carryall_AR",
+"B_ons_Carryall_Medical_AR",
+"B_ons_Carryall_TCCC_TW",
+"B_ons_Carryall_TCCC_AR",
+"B_ons_AssaultPack_TW",
+"B_ons_AssaultPack_AR"
 ];
 
 
