@@ -18,7 +18,7 @@ _tfo_weapons = [
 	"CUP_arifle_L85A2_GL",
 	"CUP_arifle_L86A2",
 	"CUP_arifle_M4A1",
-	"CUP_arifle_M4A1_camo",
+	"CUP_arifle_M4A1_BUIS_GL",
 	"CUP_lmg_L7A2",
 	"CUP_launch_Javelin",
 	"CUP_launch_FIM92Stinger",
