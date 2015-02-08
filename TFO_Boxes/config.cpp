@@ -81,7 +81,7 @@ class CfgPatches {
 				
 				class TransportItems {};
 			};
-			class tfo_usa_crate : Box_NATO_Wps_F {
+			class tfo_caf_crate : Box_NATO_Wps_F {
 				displayName = "[TFO] CSOR Crate (Virtual)";
 				scope = public;
 				icon = "iconCrateLarge";
