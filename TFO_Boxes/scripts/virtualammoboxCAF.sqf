@@ -70,8 +70,7 @@ _tfo_magazines = [
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
 	"30Rnd_556X45_NATO",
-	"30Rnd_556x45_T_stanag",
-	"30rnd_556x45_stanag"
+	"30Rnd_556x45_Stanag_Tracer_Red",
 	
 //9mm mags
 
@@ -147,12 +146,14 @@ _tfo_items = [
  	
 
 	//uniforms
-
+"ons_csog_multicam",
+"ons_csog_multicam2",
 	//vests
-
+"ons_csog_vest",
+"ons_csog_vest2",
 
 	//headgear
-
+"ONS_CSOG_Helmet",
 
 	//accessories
 	"RH_eotech553",
