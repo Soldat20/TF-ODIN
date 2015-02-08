@@ -107,7 +107,7 @@ _tfo_magazines = [
 	"rhs_m136_hedp_mag",
 	"rhs_m136_hp_mag",
 	"CUP_Stinger_M",
-	"CUP_Javelin_M"
+	"CUP_Javelin_M",
 	"CUP_NLAW_M"
 ];
 
