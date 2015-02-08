@@ -4,7 +4,7 @@
 	class B_CargoNet_01_ammo_F;
 	class Box_tfo_equipment : B_CargoNet_01_ammo_F {
 		displayname = "[TFO] Equipment Box";
-		maximumLoad = 999999;
+		maximumLoad = 99999;
 		transportmaxmagazines = 999999;
 		transportmaxweapons = 999999;
 		transportMaxBackpacks = 999999;
