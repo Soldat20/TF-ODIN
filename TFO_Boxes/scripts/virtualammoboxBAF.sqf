@@ -439,7 +439,7 @@ _tfo_items = [
 	"RH_m110sd",
 	"RH_m110sd_t",
 	"Muzzle_MK18D_L",
-	"Muzzle_MK18_L",
+	"Muzzle_MK18_L"
 	
 ];
 

@@ -207,7 +207,7 @@ _tfo_items = [
 "optic_elcan_arid", 
 "optic_elcan_wood", 
 "optic_elcan_arctic", 
-"optic_elcan3d"
+"optic_elcan3d",
 	"RH_eotech553",
 	"RH_eotech553mag",
 	"RH_eotech553_tan",
