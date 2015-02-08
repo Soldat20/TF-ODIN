@@ -11,31 +11,27 @@ _ammoBox = _this select 0;
 _type = _this select 1;
 
 _tfo_weapons = [
-
-"caf_c9a2",
-"caf_C9A2_AC",
-"caf_C9A2_AR",
-"caf_C9A2_TW",
-"caf_c8a3",
-"caf_C8a3_arid",
-"caf_C8a3_wood",
-"caf_C8a3_artic",
-"caf_c8a3_cqb",
-"caf_C8a3_cqb_arid",
-"caf_C8a3_cqb_wood",
-"caf_C8a3_cqb_artic",
-"caf_C8a3_203",
-"caf_C8a3_203_arid",
-"caf_C8a3_203_wood",
-"caf_C8a3_203_artic",
-"caf_C7A2",
-"caf_C7A2_M203", 
-"caf_m72a6", 
-"caf_ar10t",
-"caf_ar10t_ar",
-"caf_ar10t_ac",
-"caf_ar10t_tw",
-"caf_c6gpmg",
+"ONS_C7A2",
+"ONS_C7A2_Virt",
+"ONS_C7A2_M203",
+"ONS_C8A2",
+"ONS_C8A2_Virt",
+"ONS_C8A2_M203",
+"ONS_C8A3",
+"ONS_C8A3_Virt",
+"ONS_C8A3_M203",
+"ONS_C8A3_CQB",
+"ONS_C8IUR",
+"ONS_C8IUR_AR",
+"ONS_C8a2_AR",
+"ONS_C8a2_Virt_AR",
+"ONS_C8a2_M203_AR",
+"ONS_C8IUR_TW",
+"ONS_C8a3_AR",
+"ONS_C8a3_Virt_AR",
+"ONS_C8a3_M203_AR",
+"ONS_C8a3_CQB_AR",
+"ONS_C8IURV2",
 "CUP_srifle_M107_Base",
 "CUP_hgun_M9"
 
@@ -67,8 +63,6 @@ _tfo_magazines = [
 	"CUP_1Rnd_SmokeYellow_M203",
 
 //5.56 mags 
-	"20Rnd_762x51_Mag",
-	"220rnd_762x51_Belt",
 	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
 	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag",
@@ -87,7 +81,6 @@ _tfo_magazines = [
 	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249",
 
 //M240 mag
-	"220rnd_762x51_Belt"
 
 ];
 
@@ -151,63 +144,14 @@ _tfo_items = [
  	
 
 	//uniforms
-"U_CAF_uniform1_cadpatTW",
-"U_CAF_uniform1_cadpat_MIX",
-"U_CAF_uniform2_cadpatTW",
-"U_CAF_uniform2_cadpat_MIX",
-"U_CAF_uniform3_cadpatTW",
-"U_CAF_GhilleSuit_tw",
-"U_CAF_uniform1_cadpatAR",
-"U_CAF_uniform2_cadpatAR",
-"U_CAF_GhilleSuit_AR",
 
 	//vests
-"V_CAF_PlateCarrier1_TW",
-"V_CAF_PlateCarrier2_TW",
-"V_CAF_Chestrig_TW",
-"V_CAF_PlateCarrier1_AR",
-"V_CAF_PlateCarrier2_AR",
-"V_CAF_Chestrig_AR",
+
 
 	//headgear
-"H_CAF_CREWHELMET",
-"H_CAF_WatchCap",
-"H_CAF_BCAP_02",
-"H_CAF_BCAP_01",
-"H_CAF_Boonie_AR",
-"H_CAF_Boonie_hs_AR",
-"H_CAF_CG634_AR",
-"H_CAF_CG634_AR_GDN",
-"H_CAF_CG634_AR_GUP",
-"H_CAF_CG634_AR_net",
-"H_CAF_CG634_AR_net_GDN",
-"H_CAF_CG634_AR_net_GUP",
-"H_CAF_CG634_AR_scrim",
-"H_CAF_CG634_AR_scrim_GDN",
-"H_CAF_CG634_AR_scrim_GUP",
-"H_CAF_Boonie_TW",
-"H_CAF_Boonie_hs_TW",
-"H_CAF_CG634_TW",
-"H_CAF_CG634_TW_GDN",
-"H_CAF_CG634_TW_GUP",
-"H_CAF_CG634_tw_net",
-"H_CAF_CG634_TW_net_GDN",
-"H_CAF_CG634_TW_net_GUP",
-"H_CAF_CG634_tw_scrim",
-"H_CAF_CG634_TW_scrim_GDN",
-"H_CAF_CG634_TW_scrim_GUP",
+
 
 	//accessories
-"CAF_muzzle_snds_556_blk",
-"CAF_muzzle_snds_556_WOOD",
-"CAF_muzzle_snds_556_ARCTIC",
-"CAF_muzzle_snds_556_aR",
-"optic_carryhandle", 
-"optic_elcan", 
-"optic_elcan_arid", 
-"optic_elcan_wood", 
-"optic_elcan_arctic", 
-"optic_elcan3d",
 	"RH_eotech553",
 	"RH_eotech553mag",
 	"RH_eotech553_tan",
@@ -292,22 +236,18 @@ _tfo_items = [
 	"RH_tundra_des",
 	"RH_tundra_wdl",
 	"RH_m110sd",
-	"RH_m110sd_t"
+	"RH_m110sd_t",
+	"556Suppressor",
+	"optic_elcan",
+	"optic_elcan_arid",
+	"optic_elcan_wood",
+	"optic_elcan_arctic",
+	"optic_elcan3d"
 	
 ];
 
 _tfo_backpacks = [
-"B_CAF_Rucksack",
-"B_CAF_Carryall_MEdical_AR",
-"B_CAF_Carryall_AR",
-"B_CAF_Carryall_Medical",
-"B_CAF_Carryall",
-"B_caf_AssaultPack_AR",
-"B_caf_AssaultPack_TW",
-"B_caf_KitBag_AR",
-"B_caf_Kitbag_TW",
-"B_caf_Bergen_AR",
-"B_caf_Bergen_TW",
+
 "tf_rt1523g",
 "tf_rt1523g_bwmod",
 "B_MAV_B_BACKPACK"
