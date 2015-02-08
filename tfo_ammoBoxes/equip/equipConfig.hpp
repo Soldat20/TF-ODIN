@@ -2,60 +2,19 @@
 // {
 
 	class B_CargoNet_01_ammo_F;
-	class Box_tfo_baf : B_CargoNet_01_ammo_F {
-		displayname = "[TFO] UKSF Box";
+	class Box_tfo_equipment : B_CargoNet_01_ammo_F {
+		displayname = "[TFO] Equipment Box";
 		maximumLoad = 999999;
 		transportmaxmagazines = 999999;
 		transportmaxweapons = 999999;
 		transportMaxBackpacks = 999999;
 		SLX_XEH_DISABLED = 0;
+
+			class TransportBackpacks {};
 		
-		class TransportBackpacks {};		
 		class TransportItems {
-			
-		// ACCESSORIES
-			class _xx_ItemWatch {
-				count = 50;
-				name = "ItemWatch";
-			};
-			class _xx_ItemCompass {
-				count = 50;
-				name = "ItemCompass";
-			};
-			class _xx_ItemGPS {
-				count = 50;
-				name = "ItemGPS";
-			};
-			class _xx_ItemRadio {
-				count = 50;
-				name = "ItemRadio";
-			};
-			class _xx_ItemMap {
-				count = 50;
-				name = "ItemMap";
-			};
-			class _xx_Binocular {
-				count = 50;
-				name = "Binocular";
-			};
-			class _xx_Rangefinder {
-				count = 50;
-				name = "Rangefinder";
-			};
-			class _xx_itemandroid {
-				count = 50;
-				name = "itemandroid";
-			};
-			
-			// HELMETS
 
-			class _xx_H_mas_uk_beret {
-				count = 100;
-				name = "H_mas_uk_beret";
-			};		
-			
-			// Medical
-
+// Medical
 			class _xx_cse_bandage_basic {
 				count = 500;
 				name = "cse_bandage_basic";
@@ -68,7 +27,7 @@
 					count = 500;
 					name = "cse_tourniquet";
 			};
-			class _xx_cse_splint {
+			class _xx_cse_splint    {
 					count = 500;
 					name = "cse_splint";
 			};
@@ -152,10 +111,6 @@
 					count = 500;
 					name = "cse_itemBodyBag";
 			};
-			class _xx_cse_surgical_kit {
-					count = 500;
-					name = "cse_surgical_kit";
-			};
 			class _xx_cse_earplugs {
 					count = 500;
 					name = "cse_earplugs";
@@ -168,7 +123,104 @@
 					count = 500;
 					name = "cse_Keycuffs";
 			};
+			class _xx_cse_ab_Kestrel4500 {
+					count = 500;
+					name = "cse_ab_Kestrel4500";
+			};
+			class _xx_cse_ab_ATragMX {
+					count = 500;
+					name = "cse_ab_ATragMX";
+			};
+			class _xx_cse_HIIDE {
+					count = 500;
+					name = "cse_HIIDE";
+			};				
+// ACCESSORIES
+			class _xx_ItemWatch {
+				count = 50;
+				name = "ItemWatch";
+			};
+			class _xx_ItemMS2000 {
+				count = 50;
+				name = "ItemMS2000";
+			};
+			class _xx_ItemCompass {
+				count = 50;
+				name = "ItemCompass";
+			};
+			class _xx_ItemGPS {
+				count = 50;
+				name = "ItemGPS";
+			};
+			class _xx_ItemRadio {
+				count = 50;
+				name = "ItemRadio";
+			};
+			class _xx_tf_anprc152 {
+				count = 100;
+				name = "tf_anprc152";
+			};
+			class _xx_ItemMap {
+				count = 50;
+				name = "ItemMap";
+			};
+			class _xx_Binocular {
+				count = 50;
+				name = "Binocular";
+			};
+			class _xx_Rangefinder {
+				count = 50;
+				name = "Rangefinder";
+			};
+			class _xx_itemctab {
+				count = 50;
+				name = "itemctab";
+			};
+			class _xx_itemandroid {
+				count = 50;
+				name = "itemandroid";
+			};
+			class _xx_ItemcTabHCam {
+				count = 50;
+				name = "ItemcTabHCam";
+			};	
+			class _xx_B_UavTerminal {
+				count = 50;
+				name = "B_UavTerminal";
+			};	
+			class _xx_cse_m_tablet {
+				count = 50;
+				name = "cse_m_tablet";
+			};
+			class _xx_cse_m_pda {
+				count = 50;
+				name = "cse_m_pda";
+			};	
+			class _xx_ALiVE_Tablet {
+				count = 50;
+				name = "ALiVE_Tablet";
+			};
+			class _xx_FirstAidKit {
+				count = 500;
+				name = "FirstAidKit";
+			};	
+			class _xx_ToolKit {
+				count = 100;
+				name = "ToolKit";
+			};
+			class _xx_MineDetector {
+				count = 100;
+				name = "MineDetector";
+			};
+			class _xx_cse_sparebarrelbag {
+				count = 100;
+				name = "cse_sparebarrelbag";
+			};	
 		};
-		class TransportMagazines {};		
-		class TransportWeapons {};
+		
+		class TransportMagazines {};	
+		class TransportWeapons {};	
 	};
+	
+	
+// Dont need this};

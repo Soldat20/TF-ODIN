@@ -14,24 +14,27 @@ class CfgPatches
 {
 	class PREFIX  
 		{
-			units[] = {Box_tfo_baf};
+			units[] = {Box_tfo_equipment};
 			weapons[] = {};
 			requiredVersion = REQUIRED_VERSION;
 			requiredAddons[] = {"CBA_MAIN"};
-			versionDesc = "[TF ODIN] Ammo boxes";
+			versionDesc = "[TFO] AmmoBox";
 			versionAct = "";
 			VERSION_CONFIG;
-			author[] = {"[TF ODIN] Mod Team"};
+			author[] = {"TF-ODIN Mod Team"};
 			authorUrl = "";
 		};
 };
 
 class CfgVehicles
 {
-	#include <\tfo_ammoBoxes\baf\bafConfig.hpp>
+	#include <\tfo_ammoBoxes\equip\equipConfig.hpp>
 };
 
 class Extended_Init_EventHandlers {
 
-	#include <\tfo_ammoBoxes\baf\bafEH.hpp>
+	#include <\tfo_ammoBoxes\equip\equipEH.hpp>
+
 };
+
+
