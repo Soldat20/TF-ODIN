@@ -9,8 +9,6 @@ class CfgPatches {
 };
 
 class CfgWeapons {
-	class CUP_arifle_L85A2_Base;	// External class reference
-	class CUP_arifle_L86A2_Base;    // External class reference
 	class Rifle_Base_F;	// External class reference
 	class Rifle_Long_Base_F; // External Class reference
 	
