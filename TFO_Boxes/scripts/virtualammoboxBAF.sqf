@@ -16,11 +16,40 @@ _tfo_weapons = [
 
 	"CUP_arifle_L85A2",
 	"CUP_arifle_L85A2_GL",
-	"CUP_arifle_L86A2"
+	"CUP_arifle_L86A2",
+	"CUP_arifle_M4A1",
+	"CUP_arifle_M4A1_camo",
+	"CUP_lmg_L7A2",
+	"CUP_launch_Javelin",
+	"CUP_launch_FIM92Stinger",
+	"RHARD_MK18_F",
+	"RHARD_MK18D_F",
+	"RHARD_MK18P_F",
+	"RHARD_MK18PD_F",
+	"RHARD_MK18AFG_F",
+	"RHARD_MK18AFGD_F",
+	"RHARD_MK18AFG_B_F",
+	"RHARD_MK18AFGD_B_F",
+	"RHARD_MK18E_F",
+	"RHARD_MK18ED_F", 
+	"RHARD_M4DDR_F",
+	"RHARD_M4DDRD_F",
+	"RHARD_M4DDR_B_F", 
+	"RHARD_M4DDRD_B_F",
+	"RHARD_M4DDRP_F", 
+	"RHARD_M4DDRPD_F",
+	"RHARD_M4DDRGL_F",
+	"RHARD_M4DDRGLD_F",
+	"RHARD_M4DDRGL_B_F",
+	"RHARD_M4DDRGLD_B_F",
+	"CUP_hgun_Glock17",
+	"CUP_srifle_AWM_des",
+	"CUP_srifle_AWM_wdl"
 ];
 
 _tfo_magazines = [
-	"rhs_mag_mk84",
+	"CUP_HandGrenade_L109A1_HE",
+	"CUP_HandGrenade_L109A2_HE",
 	"SmokeShell",
 	"SmokeShellRed",
 	"SmokeShellGreen",
@@ -34,7 +63,6 @@ _tfo_magazines = [
 	"Chemlight_blue",
 
 //5.56 mags
-	"CUP_30Rnd_556x45_Stanag",
 	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
 	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag",
@@ -43,37 +71,44 @@ _tfo_magazines = [
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
 
 //M320 ammo
-	"rhs_mag_M441_HE",
-	"rhs_mag_M433_HEDP",
-	"rhs_mag_M4009",
-	"rhs_mag_m576",
-	"rhs_mag_M585_white",
-	"rhs_mag_M661_green",
-	"rhs_mag_M662_red",
-	"rhs_mag_M713_red",
-	"rhs_mag_M714_white",
-	"rhs_mag_M715_green",
-	"rhs_mag_M716_yellow",
+	"CUP_1Rnd_HE_M203",
+	"CUP_1Rnd_HEDP_M203",
+	"CUP_FlareWhite_M203",
+	"CUP_FlareGreen_M203",
+	"CUP_FlareRed_M203",
+	"CUP_FlareYellow_M203",
+	"CUP_1Rnd_Smoke_M203",
+	"CUP_1Rnd_SmokeRed_M203",
+	"CUP_1Rnd_SmokeGreen_M203",
+	"CUP_1Rnd_SmokeYellow_M203",
+	"1Rnd_HE_Grenade_shell",
+	"UGL_FlareWhite_F",
+	"UGL_FlareGreen_F",
+	"UGL_FlareRed_F",
+	"UGL_FlareYellow_F",
+	"UGL_FlareCIR_F",
+	"1Rnd_Smoke_Grenade_shell",
+	"1Rnd_SmokeRed_Grenade_shell",
+	"1Rnd_SmokeGreen_Grenade_shell",
+	"1Rnd_SmokeYellow_Grenade_shell",
+	"1Rnd_SmokePurple_Grenade_shell",
+	"1Rnd_SmokeBlue_Grenade_shell",
+	"1Rnd_SmokeOrange_Grenade_shell",
 
 //M249 mag
 	"CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1",
 	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249",
 
 //M240 mag
-	"rhsusf_100Rnd_762x51",
-
-//xm2010
-	"rhsusf_5Rnd_300winmag_xm2010",
+	"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",
 
 //rockets
 	"rhs_m136_mag",
 	"rhs_m136_hedp_mag",
 	"rhs_m136_hp_mag",
-	"rhs_fim92_mag",
-	"rhs_fgm148_magazine_AT",
-
-//mines
-	"rhs_mine_M19_mag"
+	"CUP_Stinger_M",
+	"CUP_Javelin_M"
+	"CUP_NLAW_M"
 ];
 
 _tfo_items = [
@@ -283,15 +318,15 @@ _tfo_items = [
  	"H_mas_uk_helmet_pro_gog_b",
 
 	//accessories
-	"CUP_muzzle_mfsup_SCAR_H",
-	"CUP_muzzle_snds_SCAR_H",
-	"CUP_muzzle_mfsup_SCAR_L",
-	"CUP_muzzle_snds_SCAR_L",
-	"CUP_muzzle_snds_M16",
+	"CUP_optic_SUSAT",
+	"CUP_optic_LeupoldMk4_10x40_LRT_Woodland",
+	"CUP_optic_LeupoldMk4_10x40_LRT_Desert",
+	"CUP_muzzle_snds_L85",
 	"CUP_muzzle_snds_M16_camo",
-	"CUP_muzzle_snds_M9",
-	"CUP_muzzle_snds_M14",
-	"CUP_muzzle_snds_M110",
+	"CUP_muzzle_snds_M16",
+	"CUP_muzzle_snds_AWM",
+	"CUP_acc_Glock17_Flashlight",
+	"muzzle_snds_L",
 	"RH_eotech553",
 	"RH_eotech553mag",
 	"RH_eotech553_tan",
@@ -376,7 +411,9 @@ _tfo_items = [
 	"RH_tundra_des",
 	"RH_tundra_wdl",
 	"RH_m110sd",
-	"RH_m110sd_t"
+	"RH_m110sd_t",
+	"Muzzle_MK18D_L",
+	"Muzzle_MK18_L",
 	
 ];
 
