@@ -69,6 +69,9 @@ _tfo_magazines = [
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green",
 	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
+	"30Rnd_556X45_NATO",
+	"30Rnd_556x45_T_stanag",
+	"30rnd_556x45_stanag"
 	
 //9mm mags
 
@@ -78,7 +81,7 @@ _tfo_magazines = [
 
 	"rhsusf_100Rnd_556x45_soft_pouch",
 	"CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1",
-	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249",
+	"CUP_200Rnd_TE1_Red_Tracer_556x45_M249"
 
 //M240 mag
 
