@@ -33,7 +33,8 @@ _tfo_weapons = [
 	"CUP_srifle_M107_Base",
 	"CUP_lmg_M249",
 	"CUP_launch_MAAWS_Scope",
-	"CUP_hgun_M9"
+	"CUP_hgun_M9",
+	"rifle_AWM_wdl"
 
 ];
 
@@ -51,6 +52,7 @@ _tfo_magazines = [
 	"Chemlight_yellow",
 	"Chemlight_blue",
 	"CUP_10Rnd_127x99_m107",
+	"CUP_5Rnd_86x70_L115A1",
 
 	//M320 ammo
 	"CUP_1Rnd_HE_M203",
