@@ -48,9 +48,9 @@ class CfgPatches {
 		
 		class cfgVehicles {
 
-			class Box_NATO_Wps_F;	// External class reference
+			class B_CargoNet_01_ammo_F;	// External class reference
 			
-			class tfo_baf_crate : Box_NATO_Wps_F {
+			class tfo_baf_crate : B_CargoNet_01_ammo_F {
 				displayName = "[TFO] UKSF Crate (Virtual)";
 				scope = public;
 				icon = "iconCrateLarge";
@@ -68,7 +68,7 @@ class CfgPatches {
 				class TransportItems {};
 			};
 			
-			class tfo_usa_crate : Box_NATO_Wps_F {
+			class tfo_usa_crate : B_CargoNet_01_ammo_F {
 				displayName = "[TFO] US Army Crate (Virtual)";
 				scope = public;
 				icon = "iconCrateLarge";
@@ -85,7 +85,7 @@ class CfgPatches {
 				
 				class TransportItems {};
 			};
-			class tfo_caf_crate : Box_NATO_Wps_F {
+			class tfo_caf_crate : B_CargoNet_01_ammo_F {
 				displayName = "[TFO] CSOR Crate (Virtual)";
 				scope = public;
 				icon = "iconCrateLarge";
@@ -102,7 +102,7 @@ class CfgPatches {
 				
 				class TransportItems {};
 			};
-			class tfo_MAR_crate : Box_NATO_Wps_F {
+			class tfo_MAR_crate : B_CargoNet_01_ammo_F {
 				displayName = "[TFO] MARSOC Crate (Virtual)";
 				scope = public;
 				icon = "iconCrateLarge";
