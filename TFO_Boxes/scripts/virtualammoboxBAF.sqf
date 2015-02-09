@@ -43,7 +43,8 @@ _tfo_weapons = [
 	"rhs_weap_m4a1_grip",
 	"rhs_weap_m4a1_grip2",
 	"rhs_weap_m4a1_bipod",
-
+	"CUP_smg_MP5A5",
+	"CUP_smg_MP5SD6",
 	"rhs_weap_m16a4",
 	"rhs_weap_m16a4_grip",
 	"rhs_weap_m16a4_bipod",
@@ -66,6 +67,7 @@ _tfo_magazines = [
 	"Chemlight_yellow",
 	"Chemlight_blue",
 	"CUP_10Rnd_127x99_m107",
+	"CUP_30Rnd_9x19_MP5",
 
 //5.56 mags
 	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
