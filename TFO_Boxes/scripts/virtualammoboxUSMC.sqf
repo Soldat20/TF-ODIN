@@ -41,7 +41,7 @@ _tfo_weapons = [
 	"rhs_weap_m4a1_grip",
 	"rhs_weap_m4a1_grip2",
 	"rhs_weap_m4a1_bipod",
-		
+	"CUP_launch_NLAW",	
 	"rhs_weap_m16a4",
 	"rhs_weap_m16a4_grip",
 	"rhs_weap_m16a4_bipod",
@@ -65,7 +65,8 @@ _tfo_magazines = [
 	"CUP_15Rnd_9x19_M9",
 	"CUP_10Rnd_127x99_m107",
 	"CUP_8Rnd_B_Beneli_74Slug",
-	"CUP_7Rnd_45ACP_1911",	
+	"CUP_7Rnd_45ACP_1911",
+	"Laserbatteries",
 	
 	//7.62
 	"CUP_5Rnd_762x51_M24",
@@ -145,7 +146,8 @@ _tfo_magazines = [
 	"CUP_Stinger_M",
 	"CUP_Javelin_M",
 	"CUP_MAAWS_HEAT_M",
-	"CUP_MAAWS_HEDP_M",	
+	"CUP_MAAWS_HEDP_M",
+	"CUP_NLAW_M",	
 
 //mines
 	"rhs_mine_M19_mag"
@@ -158,6 +160,7 @@ _tfo_items = [
 	"toolkit",
 	"medikit",
 	"MineDetector",
+	"CUP_SOFLAM",
 	
 	//nvg
 	"rhsusf_ANPVS_14",
@@ -268,7 +271,30 @@ _tfo_items = [
 	"H_mas_mar_helmet_ops_sf_h_w", 
 	"H_mas_mar_helmet_ops_sf_h_e", 
 	"H_mas_mar_helmet_ops_sf_h_v",
-
+	"SFG_Tac_BeardD",
+ 	"SFG_Tac_BeardB",
+ 	"SFG_Tac_BeardG",
+ 	"SFG_Tac_BeardO",
+ 	"SFG_Tac_ChopsD",
+ 	"SFG_Tac_ChopsB",
+ 	"SFG_Tac_ChopsG",
+ 	"SFG_Tac_ChopsO",
+ 	"SFG_Tac_moustacheD",
+ 	"SFG_Tac_moustacheG",
+ 	"SFG_Tac_moustacheB",
+ 	"SFG_Tac_moustacheO",
+ 	"SFG_Tac_chinlessbD",
+ 	"SFG_Tac_chinlessbG",
+ 	"SFG_Tac_chinlessbB",
+ 	"SFG_Tac_chinlessbO",
+ 	"SFG_Tac_smallBeardD",
+ 	"SFG_Tac_smallBeardG",
+ 	"SFG_Tac_smallBeardB",
+ 	"SFG_Tac_smallBeardO",
+ 	"G_Diving",
+ 	"Mask_M50",
+ 	"Mask_M40",
+ 	"Mask_M40_OD",
 	
 	
 	//goggles
@@ -428,10 +454,7 @@ _tfo_backpacks = [
 	"B_Kitbag_rgr",
 	"B_Kitbag_mcamo",
 	"B_TacticalPack_blk",
-	"B_TacticalPack_mcamo",
-	"B_mas_mar_FieldPack_blk_DiverExp",
-	"B_mas_mar_FieldPack_blk_DiverMedic",
-	"B_mas_mar_FieldPack_blk_DiverTL
+	"B_TacticalPack_mcamo"
 ];
 
 
