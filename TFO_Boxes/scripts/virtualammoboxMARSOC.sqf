@@ -437,7 +437,7 @@ _tfo_backpacks = [
 	"B_Kitbag_rgr",
 	"B_Kitbag_mcamo",
 	"B_TacticalPack_blk",
-	"B_TacticalPack_mcamo"
+	"B_TacticalPack_mcamo",
 	"B_mas_mar_FieldPack_blk_DiverExp",
 	"B_mas_mar_FieldPack_blk_DiverMedic",
 	"B_mas_mar_FieldPack_blk_DiverTL
