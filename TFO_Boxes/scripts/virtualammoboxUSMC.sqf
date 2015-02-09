@@ -1,5 +1,5 @@
 /*
-[nameOfBox,_type] call TFO_fnc_VirtualAmmoBoxUSA
+[nameOfBox,_type] call TFO_fnc_VirtualAmmoBoxUSMC
 nameOfBox - Object
 type - Number, 0: all gear, 1: only ammo
 
@@ -12,24 +12,20 @@ private["_ammoBox","_type","_tfo_magazines","_tfo_weapons","_tfo_items","_tfo_ba
 _ammoBox = _this select 0;
 _type = _this select 1;
 
-_tfo_weapons = [
-	"CUP_srifle_M40A3",
+_tfo_weapons = [	
+CUP_srifle_M40A3",
 	"CUP_hgun_Colt1911",
 	"CUP_hgun_M9",
-	"CUP_arifle_M4A1",
 	"CUP_srifle_Mk12SPR",
 	"CUP_srifle_M107_Base",
 	"CUP_srifle_M110",
 	"CUP_lmg_M240",
 	"CUP_sgun_M1014",
-	"CUP_arifle_Mk17_CQC",
-	"CUP_arifle_Mk17_STD",
 	"CUP_lmg_Mk48_des",
 	"CUP_lmg_Mk48_wdl",
 	"CUP_launch_Javelin",
 	"CUP_launch_FIM92Stinger",
 	"CUP_launch_MAAWS_Scope",
-	"CUP_lmg_M60A4",
 	"rhs_weap_M136",
 	"rhs_weap_M136_hedp",
 	"rhs_weap_M136_hp",
@@ -85,12 +81,7 @@ _tfo_magazines = [
 	"CUP_20Rnd_TE1_Red_Tracer_762x51_M110",
 	"CUP_20Rnd_TE1_Green_Tracer_762x51_M110",
 	"CUP_20Rnd_TE1_White_Tracer_762x51_M110",
-	"CUP_20Rnd_762x51_B_SCAR",
-	"CUP_20Rnd_TE1_Yellow_Tracer_762x51_SCAR",
-	"CUP_20Rnd_TE1_Red_Tracer_762x51_SCAR",
-	"CUP_20Rnd_TE1_Green_Tracer_762x51_SCAR",
-	"CUP_20Rnd_TE1_White_Tracer_762x51_SCAR",
-	
+
 //5.56 mags
 	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
 	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
