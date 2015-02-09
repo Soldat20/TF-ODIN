@@ -11,7 +11,7 @@
 
 class CfgPatches {
 	class tfo_boxes {
-		units[] = {"tfo_baf_crate", "tfo_usa_crate", "tfo_caf_crate", "tfo_mar_crate"};
+		units[] = {"tfo_baf_crate", "tfo_usa_crate", "tfo_caf_crate", "tfo_usmc_crate"};
 		weapons[] = {};
 		requiredVersion = 1.32;
 		requiredAddons[] = {};
@@ -39,8 +39,8 @@ class CfgPatches {
 						description = "[nameOfObject,type (type number: 0 - all gear, 1 - ammo only)] call tfo_fnc_virtualAmmoBoxCAF, make a object virtual ammo box with canadian gear inside";
 					};
 					class virtualAmmoBoxMAR {
-						file = "\TFO_Boxes\scripts\virtualAmmoBoxMARSOC.sqf";
-						description = "[nameOfObject,type (type number: 0 - all gear, 1 - ammo only)] call tfo_fnc_virtualAmmoBoxMAR, make a object virtual ammo box with MARSOC gear inside";
+						file = "\TFO_Boxes\scripts\virtualAmmoBoxUSMC.sqf";
+						description = "[nameOfObject,type (type number: 0 - all gear, 1 - ammo only)] call tfo_fnc_virtualAmmoBoxUSMC, make a object virtual ammo box with USMC gear inside";
 					};
 				};
 			};
