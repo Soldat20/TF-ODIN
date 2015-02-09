@@ -13,7 +13,7 @@ _ammoBox = _this select 0;
 _type = _this select 1;
 
 _tfo_weapons = [	
-CUP_srifle_M40A3",
+	"CUP_srifle_M40A3",
 	"CUP_hgun_Colt1911",
 	"CUP_hgun_M9",
 	"CUP_srifle_Mk12SPR",
