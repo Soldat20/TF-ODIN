@@ -14,7 +14,7 @@ class CfgPatches
 {
 	class PREFIX  
 		{
-			units[] = {Box_tfo_equipment};
+			units[] = {Box_tfo_equipment,Box_tfo_empty};
 			weapons[] = {};
 			requiredVersion = REQUIRED_VERSION;
 			requiredAddons[] = {"CBA_MAIN"};
@@ -29,11 +29,13 @@ class CfgPatches
 class CfgVehicles
 {
 	#include <\tfo_ammoBoxes\equip\equipConfig.hpp>
+	#include <\tfo_ammoBoxes\empty\emptyConfig.hpp>
 };
 
 class Extended_Init_EventHandlers {
 
 	#include <\tfo_ammoBoxes\equip\equipEH.hpp>
+	#include <\tfo_ammoBoxes\empty\emptyEH.hpp>
 
 };
 
