@@ -212,6 +212,7 @@ _tfo_items = [
 "ONS_V_TacVest01_ar",
 "ONS_V_TacVest02_ar",
 "ONS_V_TacVest03_ar",
+"LBT6094A_Vest",
 
 	//headgear
 "H_ons_Boonie_AR",
@@ -225,7 +226,8 @@ _tfo_items = [
 "ONS_CG634_Net_TW_B",
 "ONS_CG634_scrim_TW_B",
 "ONS_CSOG_Helmet",
-"H_Cap_headphones",
+ "H_ONS_BCAP_Back",
+ "H_ONS_BCAP",
 
 	//accessories
 	"RH_eotech553",
@@ -310,7 +312,8 @@ _tfo_items = [
 	"RH_tundra",
 	"RH_tundra_tg",
 	"RH_tundra_des",
-	"RH_tundra_wdl",	"rhsusf_acc_HAMR",
+	"RH_tundra_wdl",	
+	"rhsusf_acc_HAMR",
 	"rhsusf_acc_EOTECH",
 	"rhsusf_acc_ELCAN",
 	"rhsusf_acc_ACOG",
@@ -320,7 +323,8 @@ _tfo_items = [
 	"rhsusf_acc_anpeq15_light",
 	"rhsusf_acc_anpeq15side",
 	"rhsusf_acc_anpeq15A",
-	"muzzle_snds_M"
+	"muzzle_snds_M",
+	"CUP_muzzle_snds_M9"
 	
 ];
 

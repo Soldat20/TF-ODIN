@@ -402,7 +402,9 @@ _tfo_items = [
 ];
 
 _tfo_backpacks = [
-
+"tf_rt1523g",
+"tf_rt1523g_bwmod",
+"B_MAV_B_BACKPACK",
 	"B_AssaultPack_rgr",
 	"B_AssaultPack_mcamo",
 	"B_Kitbag_rgr",
