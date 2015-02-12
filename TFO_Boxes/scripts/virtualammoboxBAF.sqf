@@ -357,6 +357,13 @@ _tfo_items = [
  	"H_mas_uk_helmet_pro_b",
  	"H_mas_uk_helmet_pro_gog",
  	"H_mas_uk_helmet_pro_gog_b",
+	"UK_Beret_SpecialAirService",
+	"UK_BaseballCap_FlagBlack",
+	"UK_BaseballCap_FlagGreen",
+	"UK_BaseballCap_FlagRed",
+	"UK_BaseballCap_FlagTan",
+	"UK_BaseballCap_FlagWhite",
+
 
 	//accessories
 	"CUP_optic_SUSAT",
@@ -472,8 +479,9 @@ _tfo_backpacks = [
 	"B_Kitbag_mcamo",
 	"B_TacticalPack_blk",
 	"B_TacticalPack_mcamo",
-	"tf_rt1523g",
-	"tf_rt1523g_bwmod"
+"tf_rt1523g",
+"tf_rt1523g_bwmod",
+"B_MAV_B_BACKPACK"
 ];
 
 
