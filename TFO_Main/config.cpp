@@ -1,4 +1,5 @@
-TFODIN#define PREFIX tfo_main
+//TFOdin
+#define PREFIX tfo_main
 #define COMPONENT main
 #define MAJOR 1
 #define MINOR 0
