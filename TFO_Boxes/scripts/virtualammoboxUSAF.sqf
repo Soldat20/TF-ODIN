@@ -13,30 +13,47 @@ _ammoBox = _this select 0;
 _type = _this select 1;
 
 _tfo_weapons = [
-
-	"rhs_weap_m4",
-	"rhs_weap_m4_grip",
-	"rhs_weap_m4_grip2",
-	"rhs_weap_m4_bipod",
-	"rhs_weap_m4_carryhandle",
-	"rhs_weap_m4_carryhandle_pmag",
-	"rhs_m4_m320",
-	"rhs_m4a1_m320",
-	"rhs_weap_m4a1",
-	"rhs_weap_m4a1_grip",
-	"rhs_weap_m4a1_grip2",
-	"rhs_weap_m4a1_bipod",
-
-	"rhs_weap_m16a4",
-	"rhs_weap_m16a4_grip",
-	"rhs_weap_m16a4_bipod",
-	"rhs_weap_m16a4_carryhandle",
-	"rhs_weap_m16a4_carryhandle_pmag",
-	"CUP_hgun_M9"
-
+"LMG_mas_Mk48_F",
+"LMG_mas_Mk48_F_v",
+"LMG_mas_Mk48_F_d",
+"srifle_mas_m24",
+"srifle_mas_m24_v",
+"srifle_mas_m24_d",
+ "srifle_mas_mk17s",
+ "srifle_mas_m110",
+"arifle_mas_m4", 
+"arifle_mas_m4_gl",
+"arifle_mas_m4_m203",
+"arifle_mas_m4_v",
+"arifle_mas_m4_gl_v", 
+"arifle_mas_m4_m203_v",
+"arifle_mas_m4_d",
+"arifle_mas_m4_gl_d", 
+"arifle_mas_m4_m203_d",
+"arifle_mas_m4vlt",
+"arifle_mas_m4c", 
+"arifle_mas_m4_m203c",
+"arifle_mas_m4c_v", 
+"arifle_mas_m4_m203c_v",
+"arifle_mas_m4c_d",
+"arifle_mas_m4_m203c_d",
+"arifle_mas_m16",
+"arifle_mas_m16_gl",
+"arifle_mas_m1014",
+"LMG_mas_M249_F_d", 
+"LMG_mas_M249a_F",
+"LMG_mas_M240_F",
+"rhs_weap_M136",
+"rhs_weap_M136_hedp",
+"rhs_weap_M136_hp",
+"mas_launch_Stinger_F",
+"mas_launch_maaws_F",
+"srifle_mas_m107",
+"hgun_mas_m9_F"
 ];
 
 _tfo_magazines = [
+	"HandGrenade",
 	"SmokeShell",
 	"SmokeShellRed",
 	"SmokeShellGreen",
@@ -48,51 +65,71 @@ _tfo_magazines = [
 	"Chemlight_red",
 	"Chemlight_yellow",
 	"Chemlight_blue",
-	
+
 //5.56 mags
-	"rhs_mag_30Rnd_556x45_Mk318_Stanag",
-	"rhs_mag_30Rnd_556x45_Mk262_Stanag",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green",
-	"rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow",
+"30Rnd_mas_556x45_Stanag",
+"30Rnd_mas_556x45_T_Stanag",
+"30Rnd_556x45_Stanag",
+"30Rnd_556x45_Stanag_Tracer_Red",
 
 //M320 ammo
-	"CUP_1Rnd_HE_M203",
-	"CUP_1Rnd_HEDP_M203",
-	"CUP_FlareWhite_M203",
-	"CUP_FlareGreen_M203",
-	"CUP_FlareRed_M203",
-	"CUP_FlareYellow_M203",
-	"CUP_1Rnd_Smoke_M203",
-	"CUP_1Rnd_SmokeRed_M203",
-	"CUP_1Rnd_SmokeGreen_M203",
-	"CUP_1Rnd_SmokeYellow_M203",
-	"rhs_mag_M441_HE",
-	"rhs_mag_M433_HEDP",
-	"rhs_mag_M4009",
-	"rhs_mag_m576",
-	"rhs_mag_M585_white",
-	"rhs_mag_M661_green",
-	"rhs_mag_M662_red",
-	"rhs_mag_M713_red",
-	"rhs_mag_M714_white",
-	"rhs_mag_M715_green",
-	"rhs_mag_M716_yellow",
-	"1Rnd_Smoke_Grenade_shell",
-	"1Rnd_SmokeRed_Grenade_shell",
-	"1Rnd_SmokeGreen_Grenade_shell",
-	"1Rnd_SmokeYellow_Grenade_shell",
-	"1Rnd_SmokePurple_Grenade_shell",
-	"1Rnd_SmokeBlue_Grenade_shell",
-	"1Rnd_SmokeOrange_Grenade_shell",
+"1Rnd_HE_Grenade_shell",
+"UGL_FlareWhite_F",
+"UGL_FlareGreen_F",
+"UGL_FlareRed_F",
+"UGL_FlareYellow_F",
+"UGL_FlareCIR_F",
+"1Rnd_Smoke_Grenade_shell",
+"1Rnd_SmokeRed_Grenade_shell",
+"1Rnd_SmokeGreen_Grenade_shell",
+"1Rnd_SmokeYellow_Grenade_shell",
+"1Rnd_SmokePurple_Grenade_shell",
+"1Rnd_SmokeBlue_Grenade_shell", 
+"1Rnd_SmokeOrange_Grenade_shell",
 
-//9 mag
+//M249 mag
+"200Rnd_mas_556x45_Stanag",
+"200Rnd_mas_556x45_T_Stanag",
 
-"CUP_15Rnd_9x19_M9",
+//M240 mag
+"100Rnd_mas_762x51_Stanag",
+"100Rnd_mas_762x51_T_Stanag",
 
-//mines
-	"rhs_mine_M19_mag"
+//45 mag
+"12Rnd_mas_45acp_Mag",
+"10Rnd_mas_45acp_Mag",
+"8Rnd_mas_45acp_Mag",
+
+//M1014
+"7Rnd_mas_12Gauge_Slug",
+"7Rnd_mas_12Gauge_Pellets",
+
+//338 mags
+"10Rnd_mas_338_Stanag",
+"10Rnd_mas_338_T_Stanag",
+
+//50 Cal mag
+"5Rnd_mas_127x99_Stanag",
+"5Rnd_mas_127x99_dem_Stanag",
+"5Rnd_mas_127x99_T_Stanag",
+
+//9mm mags
+"15Rnd_mas_9x21_Mag",
+
+//7.62mm mag
+"20Rnd_762x51_Mag",
+"20Rnd_mas_762x51_Stanag",
+"20Rnd_mas_762x51_T_Stanag",
+"5Rnd_mas_762x51_Stanag",
+"5Rnd_mas_762x51_T_Stanag",
+
+//rockets
+	"rhs_m136_mag",
+	"rhs_m136_hedp_mag",
+	"rhs_m136_hp_mag",
+	"mas_MAAWS",
+	"mas_MAAWS_HE",
+	"mas_Stinger"
 ];
 
 _tfo_items = [
@@ -278,15 +315,6 @@ _tfo_items = [
 	"G_mas_wpn_shemag_mask",
 
 	//accessories
-	"CUP_muzzle_mfsup_SCAR_H",
-	"CUP_muzzle_snds_SCAR_H",
-	"CUP_muzzle_mfsup_SCAR_L",
-	"CUP_muzzle_snds_SCAR_L",
-	"CUP_muzzle_snds_M16",
-	"CUP_muzzle_snds_M16_camo",
-	"CUP_muzzle_snds_M9",
-	"CUP_muzzle_snds_M14",
-	"CUP_muzzle_snds_M110",
 	"RH_eotech553",
 	"RH_eotech553mag",
 	"RH_eotech553_tan",
@@ -382,7 +410,43 @@ _tfo_items = [
 	"rhsusf_acc_anpeq15_light",
 	"rhsusf_acc_anpeq15side",
 	"rhsusf_acc_anpeq15A",
-	"muzzle_snds_M"
+	"muzzle_snds_M",
+	"muzzle_mas_snds_L",
+	"muzzle_mas_snds_LM",
+	"muzzle_mas_snds_C",
+	"muzzle_mas_snds_MP5SD6",
+	"muzzle_mas_snds_Mc",
+	"muzzle_mas_snds_SM",
+	"muzzle_mas_snds_SMc",
+	"muzzle_mas_snds_SH",
+	"muzzle_mas_snds_SHc",
+	"muzzle_mas_snds_SV",
+	"muzzle_mas_snds_SVc",
+	"optic_mas_DMS_c",
+	"optic_mas_Holosight_blk",
+	"optic_mas_Holosight_camo",
+	"optic_mas_Arco_blk",
+	"optic_mas_Arco_camo",
+	"optic_mas_Hamr_camo",
+	"optic_mas_Aco_camo",
+	"optic_mas_ACO_grn_camo",
+	"optic_mas_MRCO_camo",
+	"optic_mas_zeiss", 
+	"optic_mas_zeiss_c",
+	"optic_mas_zeiss_eo",
+	"optic_mas_zeiss_eo_c",
+	"optic_mas_acog", 
+	"optic_mas_acog_c", 
+	"optic_mas_acog_eo", 
+	"optic_mas_acog_eo_c",
+	"optic_mas_acog_rd", 
+	"optic_mas_acog_rd_c",
+	"optic_mas_handle", 
+	"optic_mas_aim", 
+	"optic_mas_aim_c", 
+	"optic_mas_term",
+	"optic_mas_MRD", 
+	"optic_mas_LRPS"
 ];
 
 _tfo_backpacks = [
