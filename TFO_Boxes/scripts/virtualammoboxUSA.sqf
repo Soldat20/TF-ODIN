@@ -155,6 +155,7 @@ _tfo_items = [
 	"U_mas_usr_B_IndUniform2_v",
 	"U_mas_usr_B_IndUniform1_d",
 	"U_mas_usr_B_IndUniform2_d",
+	"U_mas_usn_B_pilot",
 
 	//vests
 	"V_mas_usr_Rangemaster_belt",
@@ -226,6 +227,8 @@ _tfo_items = [
 	"H_mas_usn_helmet_ops_sf_h_v",
 	"H_mas_usn_helmet_ops_sf_h_m",
 	"H_mas_usn_helmet_ops_sf_h_z",
+	"H_mas_usn_PilotHelmetHeli_B",
+	"H_mas_usn_CrewHelmetHeli_B",
 	
 	
 	//goggles
