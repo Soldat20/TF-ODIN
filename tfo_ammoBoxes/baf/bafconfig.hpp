@@ -745,204 +745,453 @@
 		
 //Vests
 
-			class _xx_ {
+			class _xx_V_mas_uk_Rangemaster_belt {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_Rangemaster_belt";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_BandollierB_rgr {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_BandollierB_rgr";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier1_rgr {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier1_rgr";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier2_rgr {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier2_rgr";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrierGL_rgr {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrierGL_rgr";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_ChestrigB_rgr {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_ChestrigB_rgr";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_Rangemaster_belt_d {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_Rangemaster_belt_d";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_BandollierB_rgr_d {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_BandollierB_rgr_d";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier1_rgr_d {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier1_rgr_d";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier2_rgr_d {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier2_rgr_d";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_d {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrierGL_rgr_d";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_ChestrigB_rgr_d {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_ChestrigB_rgr_d";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_Rangemaster_belt_v {
 				count = 20;
-				name = "";
+				name = V_mas_uk_Rangemaster_belt_v"";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_BandollierB_rgr_v {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_BandollierB_rgr_v";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier1_rgr_v {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier1_rgr_v";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier2_rgr_v {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier2_rgr_v";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_v {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrierGL_rgr_v";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_ChestrigB_rgr_v {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_ChestrigB_rgr_v";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier1_rgr_g {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier1_rgr_g";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_ChestrigB_rgr_g {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_ChestrigB_rgr_g";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier1_rgr_w {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier1_rgr_w";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_ChestrigB_rgr_w {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_ChestrigB_rgr_w";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_Rangemaster_belt_a {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_Rangemaster_belt_a";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_BandollierB_rgr_a {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_BandollierB_rgr_a";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier1_rgr_a {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier1_rgr_a";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrier2_rgr_a {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrier2_rgr_a";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_a {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_PlateCarrierGL_rgr_a";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_ChestrigB_rgr_a {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_ChestrigB_rgr_a";
 			};
-			class _xx_ {
+			class _xx_V_mas_uk_Rangemaster_belt_t {
 				count = 20;
-				name = "";
+				name = "V_mas_uk_Rangemaster_belt_t";
 			};
-			
+			class _xx_V_mas_uk_BandollierB_rgr_t {
+				count = 20;
+				name = "V_mas_uk_BandollierB_rgr_t";
+			};
+			class _xx_V_mas_uk_PlateCarrier1_rgr_t {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier1_rgr_t";
+			};
+			class _xx_V_mas_uk_PlateCarrier2_rgr_t {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier2_rgr_t";
+			};
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_t {
+				count = 20;
+				name = "V_mas_uk_PlateCarrierGL_rgr_t";
+			};
+			class _xx_V_mas_uk_ChestrigB_rgr_t {
+				count = 20;
+				name = "V_mas_uk_ChestrigB_rgr_t";
+			};
+			class _xx_V_mas_uk_TacVest_p {
+				count = 20;
+				name = "V_mas_uk_TacVest_p";
+			};
+			class _xx_V_mas_uk_TacVest_g {
+				count = 20;
+				name = "V_mas_uk_TacVest_g";
+			};
+			class _xx_V_RebreatherB {
+				count = 20;
+				name = "V_RebreatherB";
+			};
+			class _xx_V_RebreatherIA {
+				count = 20;
+				name = "V_RebreatherIA";
+			};
 			
 //Helmets
-			class _xx_ {
+			class _xx_H_mas_uk_beret {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_beret";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_bereta {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_bereta";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_beretn {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_beretn";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_PilotHelmetHeli_B {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_PilotHelmetHeli_B";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_CrewHelmetHeli_B {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_CrewHelmetHeli_B";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_HelmetCrew_B {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_HelmetCrew_B";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_MilCap_mcamo {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_MilCap_mcamo";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_MilCap_mcamo_v {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_MilCap_mcamo_v";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_MilCap_mcamo_d {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_MilCap_mcamo_d";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_MilCap_mcamo_m {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_MilCap_mcamo_m";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_Cap {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_Cap";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_Cap_headphones {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_Cap_headphones";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_Cap_headphones_d {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_Cap_headphones_d";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_Cap_headphones_v {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_Cap_headphones_v";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_Cap_headphones_g {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_Cap_headphones_g";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_revcapheadset_b {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_revcapheadset_b";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_patrolheadset_b {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_patrolheadset_b";
 			};
-			v
-			class _xx_ {
+			class _xx_H_mas_uk_Woolhat {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_Woolhat";
 			};
-			class _xx_ {
+			class _xx_H_mas_uk_Woolhat_c {
 				count = 5;
-				name = "";
+				name = "H_mas_uk_Woolhat_c";
 			};
-
-
+			class _xx_H_mas_uk_Woolhat_w {
+				count = 5;
+				name = "H_mas_uk_Woolhat_w";
+			};
+			class _xx_H_mas_uk_woolhat_ht {
+				count = 5;
+				name = "H_mas_uk_woolhat_ht";
+			};
+			class _xx_H_mas_uk_woolhat_ht_w {
+				count = 5;
+				name = "H_mas_uk_woolhat_ht_w";
+			};
+			class _xx_H_mas_uk_Booniehat_mult {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mult";
+			};
+			class _xx_H_mas_uk_Booniehat_mtp {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mtp";
+			};
+			class _xx_H_mas_uk_Booniehat_rgr {
+				count = 5;
+				name = "H_mas_uk_Booniehat_rgr";
+			};
+			class _xx_H_mas_uk_Booniehat_des {
+				count = 5;
+				name = "H_mas_uk_Booniehat_des";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_h {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_h";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_hm {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_hm";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_hv {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_hv";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_hd {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_hd";
+			};
+			class _xx_H_mas_uk_headset_b {
+				count = 5;
+				name = "H_mas_uk_headset_b";
+			};
+			class _xx_H_mas_uk_Bandana {
+				count = 5;
+				name = "H_mas_uk_Bandana";
+			};
+			class _xx_H_mas_uk_Bandana_h {
+				count = 5;
+				name = "H_mas_uk_Bandana_h";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_g {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_g";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_m {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_m";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_w {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_w";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_b {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_b";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_g {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_g";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_m {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_m";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_w {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_w";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_b {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_b";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_g {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_g";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_m {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_m";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_w {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_w";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_b {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_b {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_g {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_g";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_d {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_d";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_w {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_w";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_b {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_g {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_g";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_d {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_d";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_w {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_w";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_b {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_g {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_g";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_d {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_d";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_w {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_w";
+			};
+			class _xx_H_mas_uk_helmet_pro {
+				count = 5;
+				name = "H_mas_uk_helmet_pro";
+			};
+			class _xx_H_mas_uk_helmet_pro_b {
+				count = 5;
+				name = "H_mas_uk_helmet_pro_b";
+			};
+			class _xx_H_mas_uk_helmet_pro_gog {
+				count = 5;
+				name = "H_mas_uk_helmet_pro_gog";
+			};
+			class _xx_H_mas_uk_helmet_pro_gog_b {
+				count = 5;
+				name = "H_mas_uk_helmet_pro_gog_b";
+			};
+			class _xx_UK_Beret_SpecialAirService {
+				count = 5;
+				name = "UK_Beret_SpecialAirService";
+			};
+			class _xx_UK_Beret_SpecialAirService {
+				count = 5;
+				name = "UK_Beret_SpecialAirService";
+			};
+			class _xx_UK_BaseballCap_FlagGreen {
+				count = 5;
+				name = "UK_BaseballCap_FlagGreen";
+			};
+			class _xx_UK_BaseballCap_FlagRed {
+				count = 5;
+				name = "UK_BaseballCap_FlagRed";
+			};
+			class _xx_UK_BaseballCap_FlagTan {
+				count = 5;
+				name = "UK_BaseballCap_FlagTan";
+			};
+			class _xx_UK_BaseballCap_FlagWhite {
+				count = 5;
+				name = "UK_BaseballCap_FlagWhite";
+			};
+			
 //Medical
 			
 			class _xx_cse_bandage_basic {
@@ -1057,68 +1306,62 @@
 
 		
 			class TransportBackpacks
+			"B_AssaultPack_rgr",
+	"B_AssaultPack_mcamo",
+	"B_Kitbag_rgr",
+	"B_Kitbag_mcamo",
+	"B_TacticalPack_blk",
+	"B_TacticalPack_mcamo",
+	"tf_rt1523g",
+	"tf_rt1523g_bwmod",
+	"B_MAV_B_BACKPACK"
 		{
+		class _xx_B_AssaultPack_rgr
+		{
+			count = 10;
+			backpack = "B_AssaultPack_rgr";
+		};
+		class _xx_B_AssaultPack_mcamo
+		{
+			count = 10;
+			backpack = "B_AssaultPack_mcamo";
+		};
+		class _xx_B_Kitbag_rgr
+		{
+			count = 10;
+			backpack = "B_Kitbag_rgr";
+		};
+		class _xx_B_Kitbag_mcamo
+		{
+			count = 10;
+			backpack = "B_Kitbag_mcamo";
+		};
+		class _xx_B_TacticalPack_blk
+		{
+			count = 10;
+			backpack = "B_TacticalPack_blk";
+		};
+		class _xx_B_TacticalPack_mcamo
+		{
+			count = 10;
+			backpack = "B_TacticalPack_mcamo";
+		};
 		class _xx_tf_rt1523g
 		{
 			count = 10;
 			backpack = "tf_rt1523g";
 		};
-		class _xx_tf_rt1523g_big {
-			count = 5;
-			backpack = "tf_rt1523g_big";
-		};
-		class _xx_tf_rt1523g_sage {
-			count = 5;
-			backpack = "tf_rt1523g_sage";
-		};
-		class _xx_tf_rt1523g_green {
-			count = 5;
-			backpack = "tf_rt1523g_green";
-		};
-		class _xx_tf_rt1523g_black {
-			count = 5;
-			backpack = "tf_rt1523g_black";
-		};
-		class _xx_tf_rt1523g_fabric {
-			count = 5;
-			backpack = "tf_rt1523g_fabric";
-		};
-		class _xx_tf_rt1523g_bwmod {
-			count = 5;
+		class _xx_tf_rt1523g_bwmod
+		{
+			count = 10;
 			backpack = "tf_rt1523g_bwmod";
 		};
-		class _xx_tf_rt1523g_big_bwmod {
-			count = 5;
-			backpack = "tf_rt1523g_big_bwmod";
+		class _xx_B_MAV_B_BACKPACK
+		{
+			count = 10;
+			backpack = "B_MAV_B_BACKPACK";
 		};
-		class _xx_tf_rt1523g_big_rhs {
-			count = 5;
-			backpack = "tf_rt1523g_big_rhs";		
-		};
-		class _xx_tf_rt1523g_rhs {
-			count = 5;
-			backpack = "tf_rt1523g_rhs";		
-		};
-		class _xx_B_Kitbag_cbr {
-			count = 5;
-			backpack = "B_Kitbag_cbr";		
-		};
-		class _xx_B_mas_Kitbag_des {
-			count = 5;
-			backpack = "B_mas_Kitbag_des";		
-		};
-		class _xx_B_mas_Kitbag_black {
-			count = 5;
-			backpack = "B_mas_Kitbag_black";		
-		};
-		class _xx_B_mas_Kitbag_rng {
-			count = 5;
-			backpack = "B_mas_Kitbag_rng";		
-		};
-		class _xx_B_Parachute {
-			count = 5;
-			backpack = "B_Parachute";		
-		};
+		
 		
 	};
 	
