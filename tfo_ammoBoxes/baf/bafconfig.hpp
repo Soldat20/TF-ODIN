@@ -109,7 +109,7 @@
 				count = 15;
 				name = "RH_ta31rco_2D";
 			};
-			class _xx_"RH_ta31rmr
+			class _xx_RH_ta31rmr
 				count = 15;
 				name = "RH_ta31rmr";
 			};
