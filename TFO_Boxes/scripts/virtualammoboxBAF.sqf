@@ -123,6 +123,11 @@ _tfo_magazines = [
 "7Rnd_mas_12Gauge_Slug",
 "7Rnd_mas_12Gauge_Pellets",
 
+//50 Cal mag
+"5Rnd_mas_127x99_Stanag",
+"5Rnd_mas_127x99_dem_Stanag",
+"5Rnd_mas_127x99_T_Stanag",
+
 //338 mags
 "10Rnd_mas_338_Stanag",
 "10Rnd_mas_338_T_Stanag",
