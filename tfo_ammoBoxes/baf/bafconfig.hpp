@@ -1306,15 +1306,7 @@
 
 		
 			class TransportBackpacks
-			"B_AssaultPack_rgr",
-	"B_AssaultPack_mcamo",
-	"B_Kitbag_rgr",
-	"B_Kitbag_mcamo",
-	"B_TacticalPack_blk",
-	"B_TacticalPack_mcamo",
-	"tf_rt1523g",
-	"tf_rt1523g_bwmod",
-	"B_MAV_B_BACKPACK"
+			
 		{
 		class _xx_B_AssaultPack_rgr
 		{
