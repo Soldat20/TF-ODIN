@@ -139,7 +139,8 @@ _tfo_items = [
 	"toolkit",
 	"medikit",
 	"MineDetector",
-	"CUP_SOFLAM",
+	"Rangefinder",
+	"Laserdesignator",
 	
 	//nvg
 	"rhsusf_ANPVS_14",
@@ -319,15 +320,6 @@ _tfo_items = [
 	"G_mas_wpn_shemag_mask",
 
 	//accessories
-	"CUP_muzzle_mfsup_SCAR_H",
-	"CUP_muzzle_snds_SCAR_H",
-	"CUP_muzzle_mfsup_SCAR_L",
-	"CUP_muzzle_snds_SCAR_L",
-	"CUP_muzzle_snds_M16",
-	"CUP_muzzle_snds_M16_camo",
-	"CUP_muzzle_snds_M9",
-	"CUP_muzzle_snds_M14",
-	"CUP_muzzle_snds_M110",
 	"RH_eotech553",
 	"RH_eotech553mag",
 	"RH_eotech553_tan",
