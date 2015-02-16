@@ -130,6 +130,8 @@ _tfo_items = [
 	"medikit",
 	"firstaidkit",
 	"MineDetector",
+	"Rangefinder",
+	"Laserdesignator",
 	//nvg
 	"rhsusf_ANPVS_14",
 	"rhsusf_ANPVS_15",
