@@ -1,4 +1,4 @@
-#define PREFIX tfo_main
+TFODIN#define PREFIX tfo_main
 #define COMPONENT main
 #define MAJOR 1
 #define MINOR 0
@@ -45,7 +45,7 @@ class CfgSettings
 
 class CfgMods {
 	class PREFIX {
-		dir = "@MARSOC_Boxes";
+		dir = "@TFODIN";
 		name = "TF-ODIN MOD Pack";
 		picture = "";
 		hidePicture = "True";
