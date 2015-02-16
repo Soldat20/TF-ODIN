@@ -50,7 +50,7 @@ _tfo_weapons = [
 "LMG_mas_M240_F",
 "hgun_mas_usp_F",
 "hgun_mas_glocksf_F",
-"mas_launch_NLAW_F" 
+"mas_launch_NLAW_F",
 "rhs_weap_M136",
 "rhs_weap_M136_hedp",
 "rhs_weap_M136_hp",
