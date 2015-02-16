@@ -941,43 +941,7 @@
 				count = 5;
 				name = "";
 			};
-			
-			class _xx_H_CrewHelmetHeli_B {
-				count = 5;
-				name = "H_CrewHelmetHeli_B";
-			};
-			class _xx_H_PilotHelmetHeli_B {
-				count = 5;
-				name = "H_PilotHelmetHeli_B";
-			};
-			class _xx_H_mas_mar_Booniehat_des {
-				count = 20;
-				name = "H_mas_mar_Booniehat_des";
-			};
-			class _xx_H_mas_mar_Booniehat_wood {
-				count = 20;
-				name = "H_mas_mar_Booniehat_wood";
-			};
-			class _xx_H_mas_mar_Booniehat_rgr {
-				count = 20;
-				name = "H_mas_mar_Booniehat_rgr";
-			};
-			class _xx_H_mas_mar_off_d {
-				count = 20;
-				name = "H_mas_mar_off_d";
-			};
-			class _xx_H_mas_mar_off_v {
-				count = 20;
-				name = "H_mas_mar_off_v";
-			};
-			class _xx_H_mas_mar_off_g {
-				count = 20;
-				name = "H_mas_mar_off_g";
-			};
-			class _xx_H_mas_mar_off {
-				count = 20;
-				name = "H_mas_mar_off";
-			};
+
 
 //Medical
 			
