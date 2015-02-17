@@ -1375,17 +1375,186 @@
 		
 		class TransportWeapons {
 
-		class _xx_ej_m4a1 {
+			class _xx_ {
 				count = 25;
-				weapon = "ej_m4a1";
+				weapon = "";
 			};
-			class _xx_ej_m16a4 {
+			class _xx_ {
 				count = 25;
-				weapon = "ej_m16a4";
+				weapon = "";
 			};
-			class _xx_RH_m9 {
+			class _xx_ {
 				count = 25;
-				weapon = "rh_m9";
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			v
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+						class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
+			};
+			class _xx_ {
+				count = 25;
+				weapon = "";
 			};
 		};	
 		/*
