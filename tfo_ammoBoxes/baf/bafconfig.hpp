@@ -1359,202 +1359,257 @@
 	
 	
 		class TransportMagazines {
-			class _xx_RH_15Rnd_9x19_M9 {
+			class _xx_RH_12Rnd_45cal_usp {
 				count = 100;
-				magazine = "RH_15Rnd_9x19_M9";
+				magazine = "RH_12Rnd_45cal_usp";
 			};
-			class _xx_30Rnd_556x45_Mk318_Stanag {
-				count = 600;
-				magazine = "30Rnd_556x45_Mk318_Stanag";
+			class _xx_RH_15Rnd_9x19_SIG {
+				count = 100;
+				magazine = "RH_15Rnd_9x19_SIG";
 			};
-			class _xx_30Rnd_556x45_Stanag_Tracer_Red {
-				count = 600;
-				magazine = "30Rnd_556x45_Stanag_Tracer_Red";
+			class _xx_RH_17Rnd_9x19_g17  {
+				count = 100;
+				magazine = "RH_17Rnd_9x19_g17";
+			};
+			class _xx_13Rnd_mas_9x21_Mag {
+				count = 100;
+				magazine = "13Rnd_mas_9x21_Mag"
 			};
 		};
 		
 		class TransportWeapons {
 
-			class _xx_ {
+			class _xx_RH_usp {
 				count = 25;
-				weapon = "";
+				weapon = "RH_usp";
 			};
-			class _xx_ {
+			class _xx_RH_p226 {
 				count = 25;
-				weapon = "";
+				weapon = "RH_p226";
 			};
-			class _xx_ {
+			class _xx_RH_p226s {
 				count = 25;
-				weapon = "";
+				weapon = "RH_p226s";
 			};
-			class _xx_ {
+			class _xx_RH_g17 {
 				count = 25;
-				weapon = "";
+				weapon = "RH_g17";
 			};
-			class _xx_ {
+			class _xx_hgun_mas_bhp_F {
 				count = 25;
-				weapon = "";
+				weapon = "hgun_mas_bhp_F";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416 {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_hk416_gl {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_gl";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416_m203 {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_m203";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_v";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_hk416_gl_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_gl_v";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416_m203_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_m203_v";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_d";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_hk416_gl_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_gl_d";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416_m203_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_m203_d";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416c {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416c";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_hk416_m203c {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_m203c";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416c_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416c_v";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416_m203c_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_m203c_v";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_hk416c_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416c_d";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_hk416_m203c_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_hk416_m203c_d";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119 {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_l119c {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119c";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119_gl {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_gl";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119_m203 {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_m203";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_l119_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_v";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119c_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119c_v";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119_gl_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_gl_v";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_l119_m203_v {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_m203_v";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_d";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119c_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119c_d";
 			};
-						class _xx_ {
+			class _xx_arifle_mas_l119c_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119c_d";
 			};
-			class _xx_ {
+			class _xx_LMG_mas_M240_F {
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M240_F";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_l119_gl_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_gl_d";
 			};
-			v
-						class _xx_ {
+			class _xx_arifle_mas_l119_m203_d {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_l119_m203_d";
 			};
-			class _xx_ {
+			class _xx_srifle_mas_hk417 {
 				count = 25;
-				weapon = "";
+				weapon = "srifle_mas_hk417";
 			};
-			class _xx_ {
+			class _xx_arifle_mas_m1014 {
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m1014";
 			};
-						class _xx_ {
+			class _xx_LMG_mas_M249_F {
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249_F";
 			};
-			class _xx_ {
+			class _xx_LMG_mas_M249_F_v {
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249_F_v";
 			};
-			class _xx_ {
+			class _xx_LMG_mas_M249_F_d {
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249_F_d";
 			};
-						class _xx_ {
+			class _xx_LMG_mas_M249a_F {
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249a_F";
 			};
-			class _xx_ {
+			class _xx_mas_launch_NLAW_F {
 				count = 25;
-				weapon = "";
+				weapon = "mas_launch_NLAW_F";
 			};
-			class _xx_ {
+			class _xx_rhs_weap_M136 {
 				count = 25;
-				weapon = "";
+				weapon = "rhs_weap_M136";
 			};
-						class _xx_ {
+			class _xx_rhs_weap_M136_hedp {
 				count = 25;
-				weapon = "";
+				weapon = "rhs_weap_M136_hedp";
 			};
-			class _xx_ {
+			class _xx_ {rhs_weap_M136_hp
 				count = 25;
-				weapon = "";
+				weapon = "rhs_weap_M136_hp";
 			};
-			class _xx_ {
+			class _xx_mas_launch_Stinger_F {
 				count = 25;
-				weapon = "";
+				weapon = "mas_launch_Stinger_F";
+			};
+			class _xx_srifle_mas_m107 {
+				count = 25;
+				weapon = "srifle_mas_m107";
+			};
+			class _xx_srifle_mas_lrr {
+				count = 25;
+				weapon = "srifle_mas_lrr";
+			};
+			class _xx_arifle_mas_mp5 {
+				count = 25;
+				weapon = "arifle_mas_mp5";
+			};
+			class _xx_arifle_mas_mp5_v {
+				count = 25;
+				weapon = "arifle_mas_mp5_v";
+			};
+			class _xx_arifle_mas_mp5_d {
+				count = 25;
+				weapon = "arifle_mas_mp5_d";
+			};
+			class _xx_arifle_mas_mp5sd {
+				count = 25;
+				weapon = "arifle_mas_mp5sd";
+			};
+			class _xx_arifle_mas_mp5sd_ds {
+				count = 25;
+				weapon = "arifle_mas_mp5sd_ds";
+			};
+			class _xx_kio_l85a2_ugl {
+				count = 25;
+				weapon = "kio_l85a2_ugl";
+			};
+			class _xx_kio_l85a2_ris {
+				count = 25;
+				weapon = "kio_l85a2_ris";
+			};
+			class _xx_STKR_L129A1 {
+				count = 25;
+				weapon = "STKR_L129A1";
+			};
+			class _xx_STKR_L129A1_HG {
+				count = 25;
+				weapon = "STKR_L129A1_HG";
+			};
+			class _xx_STKR_L129A1_Bipod {
+				count = 25;
+				weapon = "STKR_L129A1_BipodSTKR_L129A1_Bipod";
+			};
+			class _xx_STKR_L129A1_HG_Bipod {
+				count = 25;
+				weapon = "STKR_L129A1_HG_Bipod";
 			};
 		};	
 		/*
