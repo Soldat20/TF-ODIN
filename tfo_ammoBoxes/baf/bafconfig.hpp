@@ -29,215 +29,215 @@
 				count = 15;
 				name = "RH_eotech553_tan";
 			};
-			class _xx_RH_eotech553mag_tan
+			class _xx_RH_eotech553mag_tan {
 				count = 15;
 				name = "RH_eotech553mag_tan";
 			};
-			class _xx_RH_eotexps3
+			class _xx_RH_eotexps3 {
 				count = 15;
 				name = "RH_eotexps3";
 			};
-			class _xx_RH_eotexps3_tan
+			class _xx_RH_eotexps3_tan {
 				count = 15;
 				name = "RH_eotexps3_tan";
 			};
-			class _xx_RH_eothhs1
+			class _xx_RH_eothhs1 {
 				count = 15;
 				name = "RH_eothhs1";
 			};
-			class _xx_muzzle_snds_L
+			class _xx_muzzle_snds_L {
 				count = 15;
 				name = "muzzle_snds_L";
 			};
-			class _xx_RH_eothhs1_tan
+			class _xx_RH_eothhs1_tan {
 				count = 15;
 				name = "RH_eothhs1_tan";
 			};
-			class _xx_RH_compm4s
+			class _xx_RH_compm4s {
 				count = 15;
 				name = "RH_compm4s";
 			};
-			class _xx_RH_compm2
+			class _xx_RH_compm2 {
 				count = 15;
 				name = "RH_compm2";
 			};
-			class _xx_RH_compm2l
+			class _xx_RH_compm2l {
 				count = 15;
 				name = "RH_compm2l";
 			};
-			class _xx_RH_compm2_tan
+			class _xx_RH_compm2_tan {
 				count = 15;
 				name = "RH_compm2_tan";
 			};
-			class _xx_RH_compm2l_tan
+			class _xx_RH_compm2l_tan {
 				count = 15;
 				name = "RH_compm2l_tan";
 			};
-			class _xx_RH_t1
+			class _xx_RH_t1 {
 				count = 15;
 				name = "RH_t1";
 			};
-			class _xx_RH_t1_tan
+			class _xx_RH_t1_tan {
 				count = 15;
 				name = "RH_t1_tan";
 			};
-			class _xx_RH_reflex
+			class _xx_RH_reflex {
 				count = 15;
 				name = "RH_reflex";
 			};
-			class _xx_RH_shortdot
+			class _xx_RH_shortdot {
 				count = 15;
 				name = "RH_shortdot";
 			};
-			class _xx_RH_m3lr
+			class _xx_RH_m3lr {
 				count = 15;
 				name = "RH_m3lr";
 			};
-			class _xx_RH_ta01nsn
+			class _xx_RH_ta01nsn {
 				count = 15;
 				name = "RH_ta01nsn";
 			};
-			class _xx_RH_ta01nsn_2D
+			class _xx_RH_ta01nsn_2D {
 				count = 15;
 				name = "RH_ta01nsn_2D";
 			};
-			class _xx_RH_ta31rco
+			class _xx_RH_ta31rco {
 				count = 15;
 				name = "RH_ta31rco";
 			};
-			class _xx_RH_ta31rco_2D
+			class _xx_RH_ta31rco_2D {
 				count = 15;
 				name = "RH_ta31rco_2D";
 			};
-			class _xx_RH_ta31rmr
+			class _xx_RH_ta31rmr {
 				count = 15;
 				name = "RH_ta31rmr";
 			};
-			class _xx_RH_ta31rmr_2D
+			class _xx_RH_ta31rmr_2D {
 				count = 15;
 				name = "RH_ta31rmr_2D";
 			};
-			class _xx_RH_ta01nsn_tan
+			class _xx_RH_ta01nsn_tan {
 				count = 15;
 				name = "RH_ta01nsn_tan";
 			};
-			class _xx_RH_ta01nsn_tan_2D
+			class _xx_RH_ta01nsn_tan_2D {
 				count = 15;
 				name = "RH_ta01nsn_tan_2D";
 			};
-			class _xx_RH_ta31rco_tan
+			class _xx_RH_ta31rco_tan {
 				count = 15;
 				name = "RH_ta31rco_tan";
 			};
-			class _xx_RH_ta31rco_tan_2D
+			class _xx_RH_ta31rco_tan_2D {
 				count = 15;
 				name = "RH_ta31rco_tan_2D";
 			};
-			class _xx_RH_ta31rmr_tan
+			class _xx_RH_ta31rmr_tan {
 				count = 15;
 				name = "RH_ta31rmr_tan";
 			};
-			class _xx_RH_ta31rmr_tan_2D
+			class _xx_RH_ta31rmr_tan_2D {
 				count = 15;
 				name = "RH_ta31rmr_tan_2D";
 			};
-			class _xx_RH_ta648
+			class _xx_RH_ta648 {
 				count = 15;
 				name = "RH_ta648";
 			};
-			class _xx_RH_accupoint
+			class _xx_RH_accupoint {
 				count = 15;
 				name = "RH_accupoint";
 			};
-			class _xx_RH_leu_mk4
+			class _xx_RH_leu_mk4 {
 				count = 15;
 				name = "RH_leu_mk4";
 			};
-			class _xx_RH_c79
+			class _xx_RH_c79 {
 				count = 15;
 				name = "RH_c79";
 			};
-			class _xx_RH_c79_2D
+			class _xx_RH_c79_2D {
 				count = 15;
 				name = "RH_c79_2D";
 			};
-			class _xx_RH_m145
+			class _xx_RH_m145 {
 				count = 15;
 				name = "RH_m145";
 			};
-			class _xx_RH_barska_rds
+			class _xx_RH_barska_rds {
 				count = 15;
 				name = "RH_barska_rds";
 			};
-			class _xx_RH_cmore
+			class _xx_RH_cmore {
 				count = 15;
 				name = "RH_cmore";
 			};
-			class _xx_RH_LTdocter
+			class _xx_RH_LTdocter {
 				count = 15;
 				name = "RH_LTdocter";
 			};
-			class _xx_RH_LTdocterl
+			class _xx_RH_LTdocterl {
 				count = 15;
 				name = "RH_LTdocterl";
 			};
-			class _xx_RH_zpoint
+			class _xx_RH_zpoint {
 				count = 15;
 				name = "RH_zpoint";
 			};
-			class _xx_RH_anpvs4
+			class _xx_RH_anpvs4 {
 				count = 15;
 				name = "RH_anpvs4";
 			};
-			class _xx_RH_anpvs10
+			class _xx_RH_anpvs10 {
 				count = 15;
 				name = "RH_anpvs10";
 			};
-			class _xx_RH_pas13cl
+			class _xx_RH_pas13cl {
 				count = 15;
 				name = "RH_pas13cl";
 			};
-			class _xx_RH_pas13cm
+			class _xx_RH_pas13cm {
 				count = 15;
 				name = "RH_pas13cm";
 			};
-			class _xx_RH_pas13cmg
+			class _xx_RH_pas13cmg {
 				count = 15;
 				name = "RH_pas13cmg";
 			};
-			class _xx_RH_pas13ch
+			class _xx_RH_pas13ch {
 				count = 15;
 				name = "RH_pas13ch";
 			};
-			class _xx_RH_peq15
+			class _xx_RH_peq15 {
 				count = 15;
 				name = "RH_peq15";
 			};
-			class _xx_RH_peq15_top
+			class _xx_RH_peq15_top {
 				count = 15;
 				name = "RH_peq15_top";
 			};
-			class _xx_RH_peq15b
+			class _xx_RH_peq15b {
 				count = 15;
 				name = "RH_peq15b";
 			};
-			class _xx_RH_peq15b_top
+			class _xx_RH_peq15b_top {
 				count = 15;
 				name = "RH_peq15b_top";
 			};
-			class _xx_RH_peq2
+			class _xx_RH_peq2 {
 				count = 15;
 				name = "RH_peq2";
-			};
-			class _xx_RH_peq2_top
+			}; 
+			class _xx_RH_peq2_top {
 				count = 15;
 				name = "RH_peq2_top";
 			};
-			class _xx_RH_SFM952V
+			class _xx_RH_SFM952V {
 				count = 15;
 				name = "RH_SFM952V";
 			};
-			class _xx_RH_SFM952V_tan
+			class _xx_RH_SFM952V_tan {
 				count = 15;
 				name = "RH_SFM952V_tan";
 			};
@@ -1375,6 +1375,32 @@
 				count = 100;
 				magazine = "13Rnd_mas_9x21_Mag"
 			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			v
+			v
 		};
 		
 		class TransportWeapons {
