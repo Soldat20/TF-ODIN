@@ -1114,36 +1114,10 @@
 				count = 100;
 				magazine = "mas_Stinger"
 			};
-
-			class _xx_
-				count = 100;
-				magazine = ""
-			};
-			class _xx_
-				count = 100;
-				magazine = ""
-			};
-			class _xx_
-				count = 100;
-				magazine = ""
-			};
-			class _xx_
-				count = 100;
-				magazine = ""
-			};
-			class _xx_
-				count = 100;
-				magazine = ""
-			};
-			
 		};
 		
 		class TransportWeapons {
 
-			class _xx_RH_usp {
-				count = 25;
-				weapon = "RH_usp";
-			};
 			class _xx_RH_p226 {
 				count = 25;
 				weapon = "RH_p226";
@@ -1151,10 +1125,6 @@
 			class _xx_RH_p226s {
 				count = 25;
 				weapon = "RH_p226s";
-			};
-			class _xx_RH_g17 {
-				count = 25;
-				weapon = "RH_g17";
 			};
 			class _xx_hgun_mas_bhp_F {
 				count = 25;
@@ -1276,10 +1246,6 @@
 				count = 25;
 				weapon = "arifle_mas_l119_m203_d";
 			};
-			class _xx_srifle_mas_hk417 {
-				count = 25;
-				weapon = "srifle_mas_hk417";
-			};
 			class _xx_arifle_mas_m1014 {
 				count = 25;
 				weapon = "arifle_mas_m1014";
@@ -1347,22 +1313,6 @@
 			class _xx_arifle_mas_mp5sd_ds {
 				count = 25;
 				weapon = "arifle_mas_mp5sd_ds";
-			};
-			class _xx_STKR_L129A1 {
-				count = 25;
-				weapon = "STKR_L129A1";
-			};
-			class _xx_STKR_L129A1_HG {
-				count = 25;
-				weapon = "STKR_L129A1_HG";
-			};
-			class _xx_STKR_L129A1_Bipod {
-				count = 25;
-				weapon = "STKR_L129A1_BipodSTKR_L129A1_Bipod";
-			};
-			class _xx_STKR_L129A1_HG_Bipod {
-				count = 25;
-				weapon = "STKR_L129A1_HG_Bipod";
 			};
 		};	
 		/*
