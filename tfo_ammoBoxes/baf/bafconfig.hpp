@@ -548,13 +548,13 @@
 				count = 20;
 				name = "Binocular";
 			};
-      class _xx_NVGoggles {
-			    count = 25;
-				name = "NVGoggles";
-			};	
-			class _xx_Nato_NVG {
+      			class _xx_rhsusf_ANPVS_14 {
 				count = 25;
-				name = "Nato_NVG";
+				name = "rhsusf_ANPVS_14";
+			};
+			class _xx_rhsusf_ANPVS_15 {
+				count = 25;
+				name = "rhsusf_ANPVS_15";
 			};
 			class _xx_itemctab {
 				count = 4;
@@ -1391,110 +1391,223 @@
 				count = 500;
 				magazine = "30Rnd_556x45_Stanag_Tracer_Red"
 			};
-			class _xx_ {
+			class _xx_HandGrenade {
 				count = 100;
-				magazine = ""
+				magazine = "HandGrenade"
 			};
-			class _xx_ {
+			class _xx_SmokeShell {
 				count = 100;
-				magazine = ""
+				magazine = "SmokeShell"
 			};
-			class _xx_ {
+			class _xx_SmokeShellRed {
 				count = 100;
-				magazine = ""
+				magazine = "SmokeShellRed"
 			};
-			class _xx_ {
+			class _xx_SmokeShellGreen {
 				count = 100;
-				magazine = ""
+				magazine = "SmokeShellGreen"
 			};
-			class _xx_ {
+			class _xx_SmokeShellYellow {
 				count = 100;
-				magazine = ""
+				magazine = "SmokeShellYellow"
 			};
-			class _xx_ {
+			class _xx_SmokeShellPurple {
 				count = 100;
-				magazine = ""
+				magazine = "SmokeShellPurple"
 			};
-			class _xx_ {
+			class _xx_SmokeShellBlue {
 				count = 100;
-				magazine = ""
+				magazine = "SmokeShellBlue"
 			};
-			class _xx_ {
+			class _xx_SmokeShellOrange {
 				count = 100;
-				magazine = ""
+				magazine = "SmokeShellOrange"
 			};
-			class _xx_ {
+			class _xx_Chemlight_green {
 				count = 100;
-				magazine = ""
+				magazine = "Chemlight_green"
 			};
-			class _xx_ {
+			class _xx_Chemlight_red {
 				count = 100;
-				magazine = ""
+				magazine = "Chemlight_red"
 			};
-			class _xx_ {
+			class _xx_Chemlight_yellow {
 				count = 100;
-				magazine = ""
+				magazine = "Chemlight_yellow"
 			};
-			class _xx_ {
+			class _xx_Chemlight_blue {
 				count = 100;
-				magazine = ""
+				magazine = "Chemlight_blue"
 			};
-			class _xx_ {
+			class _xx_1Rnd_HE_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_HE_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_UGL_FlareWhite_F {
 				count = 100;
-				magazine = ""
+				magazine = "UGL_FlareWhite_F"
 			};
-			class _xx_ {
+			class _xx_UGL_FlareGreen_F {
 				count = 100;
-				magazine = ""
+				magazine = "UGL_FlareGreen_F"
 			};
-			class _xx_ {
+			class _xx_UGL_FlareRed_F {
 				count = 100;
-				magazine = ""
+				magazine = "UGL_FlareRed_F"
 			};
-			class _xx_ {
+			class _xx_UGL_FlareYellow_F {
 				count = 100;
-				magazine = ""
+				magazine = "UGL_FlareYellow_F"
 			};
-			class _xx_ {
+			class _xx_UGL_FlareCIR_F {
 				count = 100;
-				magazine = ""
+				magazine = "UGL_FlareCIR_F"
 			};
-			class _xx_ {
+			class _xx_1Rnd_Smoke_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_Smoke_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_1Rnd_SmokeRed_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_SmokeRed_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_1Rnd_SmokeGreen_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_SmokeGreen_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_1Rnd_SmokeYellow_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_SmokeYellow_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_1Rnd_SmokePurple_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_SmokePurple_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_1Rnd_SmokeBlue_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_SmokeBlue_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_1Rnd_SmokeOrange_Grenade_shell {
 				count = 100;
-				magazine = ""
+				magazine = "1Rnd_SmokeOrange_Grenade_shell"
 			};
-			class _xx_ {
+			class _xx_200Rnd_mas_556x45_Stanag {
 				count = 100;
-				magazine = ""
+				magazine = "200Rnd_mas_556x45_Stanag"
 			};
+			class _xx_200Rnd_mas_556x45_T_Stanag {
+				count = 100;
+				magazine = "200Rnd_mas_556x45_T_Stanag"
+			};
+			class _xx_100Rnd_mas_762x51_Stanag {
+				count = 100;
+				magazine = "100Rnd_mas_762x51_Stanag"
+			};
+			class _xx_100Rnd_mas_762x51_T_Stanag {
+				count = 100;
+				magazine = "100Rnd_mas_762x51_T_Stanag"
+			};
+			class _xx_12Rnd_mas_45acp_Mag {
+				count = 100;
+				magazine = "12Rnd_mas_45acp_Mag"
+			};
+			class _xx_10Rnd_mas_45acp_Mag {
+				count = 100;
+				magazine = "10Rnd_mas_45acp_Mag"
+			};
+			class _xx_8Rnd_mas_45acp_Mag {
+				count = 100;
+				magazine = "8Rnd_mas_45acp_Mag"
+			};
+			class _xx_7Rnd_mas_12Gauge_Slug {
+				count = 100;
+				magazine = "7Rnd_mas_12Gauge_Slug"
+			};
+			class _xx_7Rnd_mas_12Gauge_Pellets {
+				count = 100;
+				magazine = "7Rnd_mas_12Gauge_Pellets"
+			};
+			class _xx_5Rnd_mas_127x99_Stanag {
+				count = 100;
+				magazine = "5Rnd_mas_127x99_Stanag"
+			};
+			class _xx_5Rnd_mas_127x99_dem_Stanag {
+				count = 100;
+				magazine = "5Rnd_mas_127x99_dem_Stanag"
+			};
+			class _xx_5Rnd_mas_127x99_T_Stanag {
+				count = 100;
+				magazine = "5Rnd_mas_127x99_T_Stanag"
+			};
+			class _xx_10Rnd_mas_338_Stanag {
+				count = 100;
+				magazine = "10Rnd_mas_338_Stanag"
+			};
+			class _xx_10Rnd_mas_338_T_Stanag {
+				count = 100;
+				magazine = "10Rnd_mas_338_T_Stanag"
+			};
+			class _xx_30Rnd_mas_9x21_Stanag {
+				count = 100;
+				magazine = "30Rnd_mas_9x21_Stanag"
+			};
+			class _xx_30Rnd_mas_9x21d_Stanag {
+				count = 100;
+				magazine = "30Rnd_mas_9x21d_Stanag"
+			};
+			class _xx_30Rnd_9x21_Mag {
+				count = 100;
+				magazine = "30Rnd_9x21_Mag"
+			};
+			class _xx_20Rnd_762x51_Mag {
+				count = 100;
+				magazine = 20Rnd_762x51_Mag""
+			};
+			class _xx_20Rnd_mas_762x51_Stanag {
+				count = 100;
+				magazine = "20Rnd_mas_762x51_Stanag"
+			};
+			class _xx_20Rnd_mas_762x51_T_Stanag {
+				count = 100;
+				magazine = "20Rnd_mas_762x51_T_Stanag"
+			};
+			class _xx_rhs_m136_mag {
+				count = 100;
+				magazine = "rhs_m136_mag"
+			};
+			class _xx_rhs_m136_hedp_mag {
+				count = 100;
+				magazine = "rhs_m136_hedp_mag"
+			};
+			class _xx_rhs_m136_hp_mag {
+				count = 100;
+				magazine = "rhs_m136_hp_mag"
+			};
+			class _xx_mas_MAAWS {
+				count = 100;
+				magazine = "mas_MAAWS"
+			};
+			class _xx_mas_MAAWS_HE {
+				count = 100;
+				magazine = "mas_MAAWS_HE"
+			};
+			class _xx_mas_NLAW {
+				count = 100;
+				magazine = "mas_NLAW"
+			};
+			class _xx_mas_NLAW_HE {
+				count = 100;
+				magazine = "mas_NLAW_HE"
+			};
+			class _xx_NLAW_F {
+				count = 100;
+				magazine = "NLAW_F"
+			};
+			class _xx_mas_Stinger {
+				count = 100;
+				magazine = "mas_Stinger"
+			};
+			
 		};
 		
 		class TransportWeapons {
