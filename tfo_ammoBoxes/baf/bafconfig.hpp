@@ -1375,6 +1375,42 @@
 				count = 100;
 				magazine = "13Rnd_mas_9x21_Mag"
 			};
+			class _xx_30Rnd_mas_556x45_Stanag {
+				count = 500;
+				magazine = "30Rnd_mas_556x45_Stanag"
+			};
+			class _xx_30Rnd_mas_556x45_T_Stanag {
+				count = 500;
+				magazine = "30Rnd_mas_556x45_T_Stanag"
+			};
+			class _xx_30Rnd_556x45_Stanag {
+				count = 500;
+				magazine = "30Rnd_556x45_Stanag"
+			};
+			class _xx_30Rnd_556x45_Stanag_Tracer_Red {
+				count = 500;
+				magazine = "30Rnd_556x45_Stanag_Tracer_Red"
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
 			class _xx_ {
 				count = 100;
 				magazine = ""
@@ -1399,8 +1435,66 @@
 				count = 100;
 				magazine = ""
 			};
-			v
-			v
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
+			class _xx_ {
+				count = 100;
+				magazine = ""
+			};
 		};
 		
 		class TransportWeapons {
