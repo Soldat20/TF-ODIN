@@ -1484,145 +1484,133 @@
 				count = 25;
 				weapon = "srifle_mas_m24_v";
 			};
-			class _xx_
+			class _xx_srifle_mas_mk17s
 				count = 25;
-				weapon = "";
+				weapon = "srifle_mas_mk17s";
 			};
-			class _xx_
+			class _xx_srifle_mas_m110
 				count = 25;
-				weapon = "";
+				weapon = "srifle_mas_m110";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_gl
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_gl";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_m203
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_m203";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_v
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_v";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_gl_v
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_gl_v";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_m203_v
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_m203_v";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_d
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_d";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_gl_d
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_gl_d";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_m203_d
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_m203_d";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4vlt
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4vlt";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4c
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4c";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_m203c
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_m203c";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4c_v
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4c_v";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_m203c_v
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_m203c_v";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4c_d
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4c_d";
 			};
-			class _xx_
+			class _xx_arifle_mas_m4_m203c_d
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m4_m203c_d";
 			};
-			class _xx_
+			class _xx_arifle_mas_m16
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m16";
 			};
-			class _xx_
+			class _xx_arifle_mas_m16_gl
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m16_gl";
 			};
-			class _xx_
+			class _xx_arifle_mas_m1014
 				count = 25;
-				weapon = "";
+				weapon = "arifle_mas_m1014";
 			};
-			class _xx_
+			class _xx_LMG_mas_M249_F
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249_F";
 			};
-			class _xx_
+			class _xx_LMG_mas_M249_F_v
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249_F_v";
 			};
-			class _xx_
+			class _xx_LMG_mas_M249_F_d
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249_F_d";
 			};
-			class _xx_
+			class _xx_LMG_mas_M249a_F
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M249a_F";
 			};
-			class _xx_
+			class _xx_LMG_mas_M240_F
 				count = 25;
-				weapon = "";
+				weapon = "LMG_mas_M240_F";
 			};
-			class _xx_
+			class _xx_rhs_weap_M136
 				count = 25;
-				weapon = "";
+				weapon = "rhs_weap_M136";
 			};
-			class _xx_
+			class _xx_rhs_weap_M136_hedp
 				count = 25;
-				weapon = "";
+				weapon = "rhs_weap_M136_hedp";
 			};
-			class _xx_
+			class _xx_rhs_weap_M136_hp
 				count = 25;
-				weapon = "";
+				weapon = "rhs_weap_M136_hp";
 			};
-			class _xx_
+			class _xx_mas_launch_Stinger_F
 				count = 25;
-				weapon = "";
+				weapon = "mas_launch_Stinger_F";
 			};
-			class _xx_
+			class _xx_mas_launch_maaws_F
 				count = 25;
-				weapon = "";
+				weapon = "mas_launch_maaws_F";
 			};
-			class _xx_
+			class _xx_srifle_mas_m107
 				count = 25;
-				weapon = "";
-			};
-			class _xx_
-				count = 25;
-				weapon = "";
-			};
-			class _xx_
-				count = 25;
-				weapon = "";
-			};
-			class _xx_
-				count = 25;
-				weapon = "";
+				weapon = "srifle_mas_m107";
 			};
 			class _xx_hgun_mas_glock_F {
 				count = 25;
@@ -1635,51 +1623,6 @@
 			class _xx_hgun_mas_m9_F
 				count = 25;
 				weapon = "hgun_mas_m9_F";
-			};
-			
-			class _xx_LMG_mas_M240_F {
-				count = 25;
-				weapon = "LMG_mas_M240_F";
-			};
-			class _xx_arifle_mas_m1014 {
-				count = 25;
-				weapon = "arifle_mas_m1014";
-			};
-			class _xx_LMG_mas_M249_F {
-				count = 25;
-				weapon = "LMG_mas_M249_F";
-			};
-			class _xx_LMG_mas_M249_F_v {
-				count = 25;
-				weapon = "LMG_mas_M249_F_v";
-			};
-			class _xx_LMG_mas_M249_F_d {
-				count = 25;
-				weapon = "LMG_mas_M249_F_d";
-			};
-			class _xx_LMG_mas_M249a_F {
-				count = 25;
-				weapon = "LMG_mas_M249a_F";
-			};
-			class _xx_rhs_weap_M136 {
-				count = 25;
-				weapon = "rhs_weap_M136";
-			};
-			class _xx_rhs_weap_M136_hedp {
-				count = 25;
-				weapon = "rhs_weap_M136_hedp";
-			};
-			class _xx_ {rhs_weap_M136_hp
-				count = 25;
-				weapon = "rhs_weap_M136_hp";
-			};
-			class _xx_mas_launch_Stinger_F {
-				count = 25;
-				weapon = "mas_launch_Stinger_F";
-			};
-			class _xx_srifle_mas_m107 {
-				count = 25;
-				weapon = "srifle_mas_m107";
 			};
 			class _xx_arifle_mas_mp5 {
 				count = 25;
