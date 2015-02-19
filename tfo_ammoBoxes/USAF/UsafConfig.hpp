@@ -1144,53 +1144,57 @@
 			count = 10;
 			backpack = "B_MAV_B_BACKPACK";
 		};
-		class _xx_
+		class _xx_shy_usaf_ruck_blk
 			count = 10;
-			backpack = "";
+			backpack = "shy_usaf_ruck_blk";
 		};
-		class _xx_
+		class _xx_shy_usaf_ruck_coy
 			count = 10;
-			backpack = "";
+			backpack = "shy_usaf_ruck_coy";
 		};
-		class _xx_
+		class _xx_shy_usaf_ruck_tan
 			count = 10;
-			backpack = "";
+			backpack = "shy_usaf_ruck_tan";
 		};
-		class _xx_
+		class _xx_shy_usaf_ruck_dcu
 			count = 10;
-			backpack = "";
+			backpack = "shy_usaf_ruck_dcu";
 		};
-		class _xx_
+		class _xx_shy_usaf_ruck_wdl
 			count = 10;
-			backpack = "";
+			backpack = "shy_usaf_ruck_wdl";
 		};
-		class _xx_
+		class _xx_shy_usaf_ruck_grn
 			count = 10;
-			backpack = "";
+			backpack = "shy_usaf_ruck_grn";
 		};
-		class _xx_
+		class _xx_shy_usaf_ruck_mc
 			count = 10;
-			backpack = "";
+			backpack = "shy_usaf_ruck_mc";
 		};
-		class _xx_
+		class _xx_B_AssaultPack_rgr
 			count = 10;
-			backpack = "";
+			backpack = "B_AssaultPack_rgr";
 		};
-		class _xx_
+		class _xx_B_AssaultPack_mcamo
 			count = 10;
-			backpack = "";
+			backpack = "B_AssaultPack_mcamo";
 		};
-		class _xx_
+		class _xx_B_Kitbag_rgr
 			count = 10;
-			backpack = "";
+			backpack = "B_Kitbag_rgr";
 		};
-		class _xx_
+		class _xx_B_Kitbag_mcamo
 			count = 10;
-			backpack = "";
+			backpack = "B_Kitbag_mcamo";
 		};
-		class _xx_
+		class _xx_B_TacticalPack_blk
 			count = 10;
-			backpack = "";
+			backpack = "B_TacticalPack_blk";
+		};
+		class _xx_B_TacticalPack_mcamo
+			count = 10;
+			backpack = "B_TacticalPack_mcamo";
 		};
 		
 		
