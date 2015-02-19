@@ -528,7 +528,7 @@
 				count = 20;
 				name = "Binocular";
 			};
-      class _xx_rhsusf_ANPVS_14 {
+      			class _xx_rhsusf_ANPVS_14 {
 				count = 25;
 				name = "rhsusf_ANPVS_14";
 			};
@@ -570,145 +570,355 @@
 			
 			
 //Vests
-
-			class _xx_ {
+			class _xx_shy_spcs_rgr_mc_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_mc_usflag";
+			};
+			class _xx_shy_spcs_rgr_mc_sub_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_mc_sub_usflag";
+			};
+			class _xx_shy_spcs_rgr_mc_cct {
+				count = 20;
+				name = "shy_spcs_rgr_mc_cct";
+			};
+			class _xx_shy_spcs_rgr_mc_cro {
+				count = 20;
+				name = "shy_spcs_rgr_mc_cro";
+			};
+			class _xx_shy_spcs_rgr_mc_jtac {
+				count = 20;
+				name = "shy_spcs_rgr_mc_jtac";
+			};
+			class _xx_shy_spcs_rgr_mc_pj {
+				count = 20;
+				name = "shy_spcs_rgr_mc_pj";
+			};
+			class _xx_shy_spcs_rgr_mc_sto {
+				count = 20;
+				name = "shy_spcs_rgr_mc_sto";
+			};
+			class _xx_shy_spcs_rgr_mc_sowt {
+				count = 20;
+				name = "shy_spcs_rgr_mc_sowt";
+			};
+			class _xx_shy_spcs_rgr_mc_tacp {
+				count = 20;
+				name = "shy_spcs_rgr_mc_tacp";
+			};
+			class _xx_shy_spcs_rgr_wdl_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_usflag";
+			};
+			class _xx_shy_spcs_rgr_wdl_sub_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_sub_usflag";
+			};
+			class _xx_shy_spcs_rgr_wdl_cct {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_cct";
+			};
+			class _xx_shy_spcs_rgr_wdl_cro {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_cro";
+			};
+			class _xx_shy_spcs_rgr_wdl_jtac {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_jtac";
+			};
+			class _xx_shy_spcs_rgr_wdl_pj {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_pj";
+			};
+			class _xx_shy_spcs_rgr_wdl_sto {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_sto";
+			};
+			class _xx_shy_spcs_rgr_wdl_sowt {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_sowt";
+			};
+			class _xx_shy_spcs_rgr_wdl_tacp {
+				count = 20;
+				name = "shy_spcs_rgr_wdl_tacp";
+			};
+			class _xx_shy_spcs_rgr_tan_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_tan_usflag";
+			};
+			class _xx_shy_spcs_rgr_tan_sub_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_tan_sub_usflag";
+			};
+			class _xx_shy_spcs_rgr_tan_cct {
+				count = 20;
+				name = "shy_spcs_rgr_tan_cct";
+			};
+			class _xx_shy_spcs_rgr_tan_cro {
+				count = 20;
+				name = "shy_spcs_rgr_tan_cro";
+			};
+			class _xx_shy_spcs_rgr_tan_jtac {
+				count = 20;
+				name = "shy_spcs_rgr_tan_jtac";
+			};
+			class _xx_shy_spcs_rgr_tan_pj {
+				count = 20;
+				name = "shy_spcs_rgr_tan_pj";
+			};
+			class _xx_shy_spcs_rgr_tan_sto {
+				count = 20;
+				name = "shy_spcs_rgr_tan_sto";
+			};
+			class _xx_shy_spcs_rgr_tan_sowt {
+				count = 20;
+				name = "shy_spcs_rgr_tan_sowt";
+			};
+			class _xx_shy_spcs_rgr_coy_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_coy_usflag";
+			};
+			class _xx_shy_spcs_rgr_coy_sub_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_coy_sub_usflag";
+			};
+			class _xx_shy_spcs_rgr_coy_cct {
+				count = 20;
+				name = "shy_spcs_rgr_coy_cct";
+			};
+			class _xx_shy_spcs_rgr_coy_cro {
+				count = 20;
+				name = "shy_spcs_rgr_coy_cro";
+			};
+			class _xx_shy_spcs_rgr_coy_jtac {
+				count = 20;
+				name = "shy_spcs_rgr_coy_jtac";
+			};
+			class _xx_shy_spcs_rgr_coy_pj {
+				count = 20;
+				name = "shy_spcs_rgr_coy_pj";
+			};
+			class _xx_shy_spcs_rgr_coy_sto {
+				count = 20;
+				name = "shy_spcs_rgr_coy_sto";
+			};
+			class _xx_shy_spcs_rgr_coy_sowt {
+				count = 20;
+				name = "shy_spcs_rgr_coy_sowt";
+			};
+			class _xx_shy_spcs_rgr_coy_tacp {
+				count = 20;
+				name = "shy_spcs_rgr_coy_tacp";
+			};
+			class _xx_shy_spcs_rgr_grn_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_grn_usflag";
+			};
+			class _xx_shy_spcs_rgr_grn_sub_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_grn_sub_usflag";
+			};
+			class _xx_shy_spcs_rgr_grn_cct {
+				count = 20;
+				name = "shy_spcs_rgr_grn_cct";
+			};
+			class _xx_shy_spcs_rgr_grn_cro {
+				count = 20;
+				name = "shy_spcs_rgr_grn_cro";
+			};
+			class _xx_shy_spcs_rgr_grn_jtac {
+				count = 20;
+				name = "shy_spcs_rgr_grn_jtac";
+			};
+			class _xx_shy_spcs_rgr_grn_pj {
+				count = 20;
+				name = "shy_spcs_rgr_grn_pj";
+			};
+			class _xx_shy_spcs_rgr_grn_sto {
+				count = 20;
+				name = "shy_spcs_rgr_grn_sto";
+			};
+			class _xx_shy_spcs_rgr_grn_sowt {
+				count = 20;
+				name = "shy_spcs_rgr_grn_sowt";
+			};
+			class _xx_shy_spcs_rgr_grn_tacp {
+				count = 20;
+				name = "shy_spcs_rgr_grn_tacp";
+			};
+			class _xx_shy_spcs_rgr_blk_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_blk_usflag";
+			};
+			class _xx_shy_spcs_rgr_blk_sub_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_blk_sub_usflag";
+			};
+			class _xx_shy_spcs_rgr_blk_cct {
+				count = 20;
+				name = "shy_spcs_rgr_blk_cct";
+			};
+			class _xx_shy_spcs_rgr_blk_cro {
+				count = 20;
+				name = "shy_spcs_rgr_blk_cro";
+			};
+			class _xx_shy_spcs_rgr_blk_jtac {
+				count = 20;
+				name = "shy_spcs_rgr_blk_jtac";
+			};
+			class _xx_shy_spcs_rgr_blk_pj {
+				count = 20;
+				name = "shy_spcs_rgr_blk_pj";
+			};
+			class _xx_shy_spcs_rgr_blk_sto {
+				count = 20;
+				name = "shy_spcs_rgr_blk_sto";
+			};
+			class _xx_shy_spcs_rgr_blk_sowt {
+				count = 20;
+				name = "shy_spcs_rgr_blk_sowt";
+			};
+			class _xx_shy_spcs_rgr_blk_tacp {
+				count = 20;
+				name = "shy_spcs_rgr_blk_tacp";
+			};
+			class _xx_shy_spcs_rgr_acu_usflag {
+				count = 20;
+				name = "shy_spcs_rgr_acu_usflag";
+			};
+			class _xx_shy_spcs_rgr_acu_sub_usflag {
 				count = 20;
 				name = "";
 			};
-			class _xx_ {
+			class _xx_shy_spcs_rgr_acu_cct {
 				count = 20;
+				name = "shy_spcs_rgr_acu_cct";
+			};
+			class _xx_shy_spcs_rgr_acu_cro {
+				count = 20;
+				name = "shy_spcs_rgr_acu_cro";
+			};
+			class _xx_shy_spcs_rgr_acu_jtac {
+				count = 20;
+				name = "shy_spcs_rgr_acu_jtac";
+			};
+			class _xx_shy_spcs_rgr_acu_pj {
+				count = 20;
+				name = "shy_spcs_rgr_acu_pj";
+			};
+			class _xx_shy_spcs_rgr_acu_sto {
+				count = 20;
+				name = "shy_spcs_rgr_acu_sto";
+			};
+			class _xx_shy_spcs_rgr_acu_sowt {
+				count = 20;
+				name = "shy_spcs_rgr_acu_sowt";
+			};
+			class _xx_shy_spcs_rgr_acu_tacp {
+				count = 20;
+				name = "shy_spcs_rgr_acu_tacp";
+			};
+			
+			
+			
+//Helmets
+			class _xx_ {
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
 				name = "";
 			};
 			class _xx_ {
-				count = 20;
+				count = 5;
+				name = "";
+			};
+			class _xx_ {
+				count = 5;
+				name = "";
+			};
+			class _xx_ {
+				count = 5;
+				name = "";
+			};
+			class _xx_ {
+				count = 5;
+				name = "";
+			};
+			class _xx_ {
+				count = 5;
 				name = "";
 			};
 			
-//Helmets
-			class _xx_H_ons_Boonie_AR {
-				count = 5;
-				name = "H_ons_Boonie_AR";
-			};
-			class _xx_ONS_Helmet_AR_B {
-				count = 5;
-				name = "ONS_Helmet_AR_B";
-			};
-			class _xx_ONS_CG634_AR_B {
-				count = 5;
-				name = "ONS_CG634_AR_B";
-			};
-			class _xx_ONS_CG634_Net_AR_B {
-				count = 5;
-				name = "ONS_CG634_Net_AR_B";
-			};
-			class _xx_ONS_CG634_scrim_AR_B {
-				count = 5;
-				name = "ONS_CG634_scrim_AR_B";
-			};
-			class _xx_H_ons_Boonie_TW {
-				count = 5;
-				name = "H_ons_Boonie_TW";
-			};
-			class _xx_ONS_Helmet_TW_B {
-				count = 5;
-				name = "ONS_Helmet_TW_B";
-			};
-			class _xx_ONS_CG634_TW_B {
-				count = 5;
-				name = "ONS_CG634_TW_B";
-			};
-			class _xx_ONS_CG634_Net_TW_B {
-				count = 5;
-				name = "ONS_CG634_Net_TW_B";
-			};
-			class _xx_ONS_CG634_scrim_TW_B {
-				count = 5;
-				name = "ONS_CG634_scrim_TW_B";
-			};
-			class _xx_ONS_CSOG_Helmet {
-				count = 5;
-				name = "ONS_CSOG_Helmet";
-			};
-			class _xx_H_ONS_BCAP_Back {
-				count = 5;
-				name = "H_ONS_BCAP_Back";
-			};
-			class _xx_H_ONS_BCAP {
-				count = 5;
-				name = "H_ONS_BCAP";
-			};
 			
 //Medical
 			
