@@ -822,101 +822,193 @@
 			
 			
 //Helmets
-			class _xx_ {
+			class _xx_shy_usaf_boonie_mc {
 				count = 5;
-				name = "";
+				name = "shy_usaf_boonie_mc";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_boonie_wdl {
 				count = 5;
-				name = "";
+				name = "shy_usaf_boonie_wdl";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_boonie_dcu {
 				count = 5;
-				name = "";
+				name = "shy_usaf_boonie_dcu";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_boonie_acu {
 				count = 5;
-				name = "";
+				name = "shy_usaf_boonie_acu";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_cap_mc {
 				count = 5;
-				name = "";
+				name = "shy_usaf_cap_mc";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_cap_tan {
 				count = 5;
-				name = "";
+				name = "shy_usaf_cap_tan";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_cap_grn {
 				count = 5;
-				name = "";
+				name = "shy_usaf_cap_grn";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_cap_blk {
 				count = 5;
-				name = "";
+				name = "shy_usaf_cap_blk";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_capb_headphones_blk {
 				count = 5;
-				name = "";
+				name = "shy_usaf_capb_headphones_blk";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_capb_headphones_grn {
 				count = 5;
-				name = "";
+				name = "shy_usaf_capb_headphones_grn";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_capb_headphones_tan {
 				count = 5;
-				name = "";
+				name = "shy_usaf_capb_headphones_tan";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_mc {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_mc";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_abneg {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_abneg";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_abpos {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_abpos";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_bneg {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_bneg";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_bpos {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_bpos";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_aneg {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_aneg";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_apos {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_apos";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_oneg {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_oneg";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_grn_opos {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_grn_opos";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_tan_abneg {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_tan_abneg";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_tan_abpos {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_tan_abpos";
 			};
-			class _xx_ {
+			class _xx_shy_usaf_fast_tan_bneg {
 				count = 5;
-				name = "";
+				name = "shy_usaf_fast_tan_bneg";
+			};
+			class _xx_shy_usaf_fast_tan_bpos {
+				count = 5;
+				name = "shy_usaf_fast_tan_bpos";
+			};
+			class _xx_shy_usaf_fast_tan_aneg {
+				count = 5;
+				name = "shy_usaf_fast_tan_aneg";
+			};
+			class _xx_shy_usaf_fast_tan_apos {
+				count = 5;
+				name = "shy_usaf_fast_tan_apos";
+			};
+			class _xx_shy_usaf_fast_tan_oneg {
+				count = 5;
+				name = "shy_usaf_fast_tan_oneg";
+			};
+			class _xx_shy_usaf_fast_tan_opos {
+				count = 5;
+				name = "shy_usaf_fast_tan_opos";
+			};
+			class _xx_shy_usaf_fast_coyote_abneg {
+				count = 5;
+				name = "shy_usaf_fast_coyote_abneg";
+			};
+			class _xx_shy_usaf_fast_coyote_abpos {
+				count = 5;
+				name = "shy_usaf_fast_coyote_abpos";
+			};
+			class _xx_shy_usaf_fast_coyote_bneg {
+				count = 5;
+				name = "shy_usaf_fast_coyote_bneg";
+			};
+			class _xx_shy_usaf_fast_coyote_bpos {
+				count = 5;
+				name = "shy_usaf_fast_coyote_bpos";
+			};
+			class _xx_shy_usaf_fast_coyote_aneg {
+				count = 5;
+				name = "shy_usaf_fast_coyote_aneg";
+			};
+			class _xx_shy_usaf_fast_coyote_apos {
+				count = 5;
+				name = "shy_usaf_fast_coyote_apos";
+			};
+			class _xx_shy_usaf_fast_coyote_oneg {
+				count = 5;
+				name = "shy_usaf_fast_coyote_oneg";
+			};
+			class _xx_shy_usaf_fast_coyote_opos {
+				count = 5;
+				name = "shy_usaf_fast_coyote_opos";
+			};
+			class _xx_shy_usaf_fast_wdl {
+				count = 5;
+				name = "shy_usaf_fast_wdl";
+			};
+			class _xx_shy_usaf_fast_acu {
+				count = 5;
+				name = "shy_usaf_fast_acu";
+			};
+			class _xx_shy_usaf_fast_acu_abneg {
+				count = 5;
+				name = "shy_usaf_fast_acu_abneg";
+			};
+			class _xx_shy_usaf_fast_acu_abpos {
+				count = 5;
+				name = "shy_usaf_fast_acu_abpos";
+			};
+			class _xx_shy_usaf_fast_acu_bneg {
+				count = 5;
+				name = "shy_usaf_fast_acu_bneg";
+			};
+			class _xx_shy_usaf_fast_acu_bpos {
+				count = 5;
+				name = "shy_usaf_fast_acu_bpos";
+			};
+			class _xx_shy_usaf_fast_acu_aneg {
+				count = 5;
+				name = "shy_usaf_fast_acu_aneg";
+			};
+			class _xx_shy_usaf_fast_acu_apos {
+				count = 5;
+				name = "shy_usaf_fast_acu_apos";
+			};
+			class _xx_shy_usaf_fast_acu_oneg {
+				count = 5;
+				name = "shy_usaf_fast_acu_oneg";
+			};
+			class _xx_shy_usaf_fast_acu_opos {
+				count = 5;
+				name = "shy_usaf_fast_acu_opos";
 			};
 			
 			
@@ -1052,38 +1144,55 @@
 			count = 10;
 			backpack = "B_MAV_B_BACKPACK";
 		};
-		class _xx_B_ons_Carryall
+		class _xx_
 			count = 10;
-			backpack = "B_ons_Carryall";
+			backpack = "";
 		};
-		class _xx_B_ons_Carryall_Medical
+		class _xx_
 			count = 10;
-			backpack = "B_ons_Carryall_Medical";
+			backpack = "";
 		};
-		class _xx_B_ons_Carryall_AR
+		class _xx_
 			count = 10;
-			backpack = "B_ons_Carryall_AR";
+			backpack = "";
 		};
-		class _xx_B_ons_Carryall_Medical_AR
+		class _xx_
 			count = 10;
-			backpack = "B_ons_Carryall_Medical_AR";
+			backpack = "";
 		};
-		class _xx_B_ons_Carryall_TCCC_TW
+		class _xx_
 			count = 10;
-			backpack = "B_ons_Carryall_TCCC_TW";
+			backpack = "";
 		};
-		class _xx_B_ons_Carryall_TCCC_AR
+		class _xx_
 			count = 10;
-			backpack = "B_ons_Carryall_TCCC_AR";
+			backpack = "";
 		};
-		class _xx_B_ons_AssaultPack_TW
+		class _xx_
 			count = 10;
-			backpack = "B_ons_AssaultPack_TW";
+			backpack = "";
 		};
-		class _xx_B_ons_AssaultPack_AR
+		class _xx_
 			count = 10;
-			backpack = "B_ons_AssaultPack_AR"
+			backpack = "";
 		};
+		class _xx_
+			count = 10;
+			backpack = "";
+		};
+		class _xx_
+			count = 10;
+			backpack = "";
+		};
+		class _xx_
+			count = 10;
+			backpack = "";
+		};
+		class _xx_
+			count = 10;
+			backpack = "";
+		};
+		
 		
 		
 	};
