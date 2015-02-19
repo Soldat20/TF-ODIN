@@ -2,7 +2,7 @@
 // {
 
 	//class B_CargoNet_01_ammo_F;
-	class Box_tfo_caf : B_CargoNet_01_ammo_F {
+	class Box_tfo_CAF : B_CargoNet_01_ammo_F {
 	displayname = "[TFO] CAF Box";
 		maximumLoad = 999999;
 		transportmaxmagazines = 999999;
