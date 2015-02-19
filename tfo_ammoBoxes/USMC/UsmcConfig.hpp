@@ -2,7 +2,7 @@
 // {
 
 	//class B_CargoNet_01_ammo_F;
-	class Box_tfo_usmc : B_CargoNet_01_ammo_F {
+	class Box_tfo_USMC : B_CargoNet_01_ammo_F {
 	displayname = "[TFO] USMC Box";
 		maximumLoad = 999999;
 		transportmaxmagazines = 999999;
