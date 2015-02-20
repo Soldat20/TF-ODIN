@@ -62,12 +62,15 @@ _tfo_weapons = [
 "arifle_mas_mp5_d",
 "arifle_mas_mp5sd",
 "arifle_mas_mp5sd_ds",
-"kio_l85a2_ugl",
-"kio_l85a2_ris",
+"RH_g17",
+"CUP_arifle_L85A2",
+"CUP_arifle_L85A2_GL",
+"CUP_arifle_L86A2",
 "STKR_L129A1",
 "STKR_L129A1_HG",
 "STKR_L129A1_Bipod",
-"STKR_L129A1_HG_Bipod"
+"STKR_L129A1_HG_Bipod",
+"RH_usp"
 
 ];
 
@@ -118,6 +121,7 @@ _tfo_magazines = [
 "12Rnd_mas_45acp_Mag",
 "10Rnd_mas_45acp_Mag",
 "8Rnd_mas_45acp_Mag",
+"RH_12Rnd_45cal_usp",
 
 //M1014
 "7Rnd_mas_12Gauge_Slug",
@@ -136,6 +140,7 @@ _tfo_magazines = [
 "30Rnd_mas_9x21_Stanag",
 "30Rnd_mas_9x21d_Stanag",
 "30Rnd_9x21_Mag",
+"RH_17Rnd_9x19_g17",
 
 //7.62mm mag
 "20Rnd_762x51_Mag",
@@ -167,6 +172,7 @@ _tfo_items = [
 	//nvg
 	"rhsusf_ANPVS_14",
 	"rhsusf_ANPVS_15",
+	"STKR_HMNVS",
 	
 	//goggles
 	"G_mas_wpn_gog",
@@ -393,6 +399,9 @@ _tfo_items = [
 	"UK_BaseballCap_FlagRed",
 	"UK_BaseballCap_FlagTan",
 	"UK_BaseballCap_FlagWhite",
+	"STKR_MK7",
+	"STKR_MK7_Scrim",
+	"STKR_MK7_ScrimB", 
 
 
 	//accessories
@@ -517,11 +526,19 @@ _tfo_items = [
 	"optic_mas_term",
 	"optic_mas_MRD", 
 	"optic_mas_LRPS",
-	"kio_Elcan",
- 	"kio_Elcan_reflex",
  	"kio_muzzle_sffh",
  	"kio_LLM", 
- 	"kio_muzzle_bfa"
+ 	"kio_muzzle_bfa",
+ 	"CUP_muzzle_snds_L85",
+ 	"RKSL_optic_LDS",
+ 	"RH_aacusp",
+ 	"RH_gemtech45",
+ 	"RH_osprey",
+ 	"RH_fhusp",
+ 	"RH_x2",
+ 	"RH_gemtech9",
+ 	"RH_m6x",
+ 	"RH_x300"
 	
 	
 	];
@@ -535,7 +552,11 @@ _tfo_backpacks = [
 	"B_TacticalPack_mcamo",
 	"tf_rt1523g",
 	"tf_rt1523g_bwmod",
-	"B_MAV_B_BACKPACK"
+	"B_MAV_B_BACKPACK",
+	"STKR_PackCom",
+	"STKR_Predator",
+	"STKR_PredatorBow",
+	"STKR_MLode"
 ];
 
 
