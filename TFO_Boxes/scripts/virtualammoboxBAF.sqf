@@ -402,9 +402,7 @@ _tfo_items = [
 	"STKR_MK7",
 	"STKR_MK7_Scrim",
 	"STKR_MK7_ScrimB",
-	"B_P_Beret",
-	"B_P_BeretOff",
-	"B_P_BeretRct",
+	"UK_Beret_RoyalMarines",
 
 
 	//accessories
