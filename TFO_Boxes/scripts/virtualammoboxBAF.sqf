@@ -401,7 +401,10 @@ _tfo_items = [
 	"UK_BaseballCap_FlagWhite",
 	"STKR_MK7",
 	"STKR_MK7_Scrim",
-	"STKR_MK7_ScrimB", 
+	"STKR_MK7_ScrimB",
+	"B_P_Beret",
+	"B_P_BeretOff",
+	"B_P_BeretRct",
 
 
 	//accessories
