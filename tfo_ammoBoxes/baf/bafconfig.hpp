@@ -727,7 +727,7 @@
 				count = 5;
 				name = "U_mas_uk_B_CombatUniform_des3_vest";
 			};
-			class _xx_ U_mas_uk_B_CombatUniform_sage{
+			class _xx_U_mas_uk_B_CombatUniform_sage{
 				count = 5;
 				name = "U_mas_uk_B_CombatUniform_sage";
 			};
