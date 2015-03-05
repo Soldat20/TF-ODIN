@@ -241,263 +241,263 @@
 				count = 15;
 				name = "RH_SFM952V_tan";
 			};
-			class _xx_RH_qdss_nt4
+			class _xx_RH_qdss_nt4 {
 				count = 15;
 				name = "RH_qdss_nt4";
 			};
-			class _xx_RH_qdss_nt4_tg
+			class _xx_RH_qdss_nt4_tg {
 				count = 15;
 				name = "RH_qdss_nt4_tg";
 			};
-			class _xx_RH_qdss_nt4_des
+			class _xx_RH_qdss_nt4_des {
 				count = 15;
 				name = "RH_qdss_nt4_des";
 			};
-			class _xx_RH_qdss_nt4_wdl
+			class _xx_RH_qdss_nt4_wdl {
 				count = 15;
 				name = "RH_qdss_nt4_wdl";
 			};
-			class _xx_RH_saker
+			class _xx_RH_saker {
 				count = 15;
 				name = "RH_saker";
 			};
-			class _xx_RH_saker_tg
+			class _xx_RH_saker_tg {
 				count = 15;
 				name = "RH_saker_tg";
 			};
-			class _xx_RH_saker_des
+			class _xx_RH_saker_des {
 				count = 15;
 				name = "RH_saker_des";
 			};
-			class _xx_RH_saker_wdl
+			class _xx_RH_saker_wdl {
 				count = 15;
 				name = "RH_saker_wdl";
 			};
-			class _xx_RH_Saker762
+			class _xx_RH_Saker762 {
 				count = 15;
 				name = "RH_Saker762";
 			};
-			class _xx_RH_Saker762_tg
+			class _xx_RH_Saker762_tg {
 				count = 15;
 				name = "RH_Saker762_tg";
 			};
-			class _xx_RH_Saker762_des
+			class _xx_RH_Saker762_des {
 				count = 15;
 				name = "RH_Saker762_des";
 			};
-			class _xx_RH_Saker762_wdl
+			class _xx_RH_Saker762_wdl {
 				count = 15;
 				name = "RH_Saker762_wdl";
 			};
-			class _xx_RH_fa556
+			class _xx_RH_fa556 {
 				count = 15;
 				name = "RH_fa556";
 			};
-			class _xx_RH_fa556_tg
+			class _xx_RH_fa556_tg {
 				count = 15;
 				name = "RH_fa556_tg";
 			};
-			class _xx_RH_fa556_des
+			class _xx_RH_fa556_des {
 				count = 15;
 				name = "RH_fa556_des";
 			};
-			class _xx_RH_fa556_wdl
+			class _xx_RH_fa556_wdl {
 				count = 15;
 				name = "RH_fa556_wdl";
 			};
-			class _xx_RH_fa762
+			class _xx_RH_fa762 {
 				count = 15;
 				name = "RH_fa762";
 			};
-			class _xx_RH_fa762_tg
+			class _xx_RH_fa762_tg {
 				count = 15;
 				name = "RH_fa762_tg";
 			};
-			class _xx_RH_fa762_des
+			class _xx_RH_fa762_des {
 				count = 15;
 				name = "RH_fa762_des";
 			};
-			class _xx_RH_fa762_wdl
+			class _xx_RH_fa762_wdl {
 				count = 15;
 				name = "RH_fa762_wdl";
 			};
-			class _xx_RH_spr_mbs
+			class _xx_RH_spr_mbs {
 				count = 15;
 				name = "RH_spr_mbs";
 			};
-			class _xx_RH_spr_mbs_tg
+			class _xx_RH_spr_mbs_tg {
 				count = 15;
 				name = "RH_spr_mbs_tg";
 			};
-			class _xx_RH_spr_mbs_des
+			class _xx_RH_spr_mbs_des {
 				count = 15;
 				name = "RH_spr_mbs_des";
 			};
-			class _xx_RH_spr_mbs_wdl
+			class _xx_RH_spr_mbs_wdl {
 				count = 15;
 				name = "RH_spr_mbs_wdl";
 			};
-			class _xx_RH_tundra
+			class _xx_RH_tundra {
 				count = 15;
 				name = "RH_tundra";
 			};
-			class _xx_RH_tundra_tg
+			class _xx_RH_tundra_tg {
 				count = 15;
 				name = "RH_tundra_tg";
 			};
-			class _xx_RH_tundra_des
+			class _xx_RH_tundra_des {
 				count = 15;
 				name = "RH_tundra_des";
 			};
-			class _xx_RH_tundra_wdl
+			class _xx_RH_tundra_wdl {
 				count = 15;
 				name = "RH_tundra_wdl";
 			};
-			class _xx_muzzle_snds_M
+			class _xx_muzzle_snds_M {
 				count = 15;
 				name = "muzzle_snds_M";
 			};
-			class _xx_muzzle_mas_snds_L
+			class _xx_muzzle_mas_snds_L {
 				count = 15;
 				name = "muzzle_mas_snds_L";
 			};
-			class _xx_muzzle_mas_snds_LM
+			class _xx_muzzle_mas_snds_LM {
 				count = 15;
 				name = "muzzle_mas_snds_LM";
 			};
-			class _xx_muzzle_mas_snds_C
+			class _xx_muzzle_mas_snds_C {
 				count = 15;
 				name = "muzzle_mas_snds_C";
 			};
-			class _xx_muzzle_mas_snds_MP5SD6
+			class _xx_muzzle_mas_snds_MP5SD6 {
 				count = 15;
 				name = "muzzle_mas_snds_MP5SD6";
 			};
-			class _xx_muzzle_mas_snds_Mc
+			class _xx_muzzle_mas_snds_Mc {
 				count = 15;
 				name = "muzzle_mas_snds_Mc";
 			};
-			class _xx_muzzle_mas_snds_SM
+			class _xx_muzzle_mas_snds_SM {
 				count = 15;
 				name = "muzzle_mas_snds_SM";
 			};
-			class _xx_muzzle_mas_snds_SMc
+			class _xx_muzzle_mas_snds_SMc {
 				count = 15;
 				name = "muzzle_mas_snds_SMc";
 			};
-			class _xx_muzzle_mas_snds_SH
+			class _xx_muzzle_mas_snds_SH {
 				count = 15;
 				name = "muzzle_mas_snds_SH";
 			};
-			class _xx_muzzle_mas_snds_SHc
+			class _xx_muzzle_mas_snds_SHc {
 				count = 15;
 				name = "muzzle_mas_snds_SHc";
 			};
-			class _xx_muzzle_mas_snds_SV
+			class _xx_muzzle_mas_snds_SV {
 				count = 15;
 				name = "muzzle_mas_snds_SV";
 			};
-			class _xx_muzzle_mas_snds_SVc
+			class _xx_muzzle_mas_snds_SVc {
 				count = 15;
 				name = "muzzle_mas_snds_SVc";
 			};
-			class _xx_optic_mas_DMS_c
+			class _xx_optic_mas_DMS_c {
 				count = 15;
 				name = "optic_mas_DMS_c";
 			};
-			class _xx_optic_mas_Holosight_blk
+			class _xx_optic_mas_Holosight_blk {
 				count = 15;
 				name = "optic_mas_Holosight_blk";
 			};
-			class _xx_optic_mas_Holosight_camo
+			class _xx_optic_mas_Holosight_camo {
 				count = 15;
 				name = "optic_mas_Holosight_camo";
 			};
-			class _xx_optic_mas_Arco_blk
+			class _xx_optic_mas_Arco_blk {
 				count = 15;
 				name = "optic_mas_Arco_blk";
 			};
-			class _xx_optic_mas_Arco_camo
+			class _xx_optic_mas_Arco_camo {
 				count = 15;
 				name = "optic_mas_Arco_camo";
 			};
-			class _xx_optic_mas_Hamr_camo
+			class _xx_optic_mas_Hamr_camo {
 				count = 15;
 				name = "optic_mas_Hamr_camo";
 			};
-			class _xx_optic_mas_Aco_camo
+			class _xx_optic_mas_Aco_camo {
 				count = 15;
 				name = "optic_mas_Aco_camo";
 			};
-			class _xx_optic_mas_ACO_grn_camo
+			class _xx_optic_mas_ACO_grn_camo {
 				count = 15;
 				name = "optic_mas_ACO_grn_camo";
 			};
-			class _xx_optic_mas_MRCO_camo
+			class _xx_optic_mas_MRCO_camo {
 				count = 15;
 				name = "optic_mas_MRCO_camo";
 			};
-			class _xx_optic_mas_zeiss
+			class _xx_optic_mas_zeiss {
 				count = 15;
 				name = "optic_mas_zeiss";
 			};
-			class _xx_optic_mas_zeiss_c
+			class _xx_optic_mas_zeiss_c {
 				count = 15;
 				name = "optic_mas_zeiss_c";
 			};
-			class _xx_optic_mas_zeiss_eo
+			class _xx_optic_mas_zeiss_eo {
 				count = 15;
 				name = "optic_mas_zeiss_eo";
 			};
-			class _xx_optic_mas_zeiss_eo_c
+			class _xx_optic_mas_zeiss_eo_c {
 				count = 15;
 				name = "optic_mas_zeiss_eo_c";
 			};
-			class _xx_optic_mas_acog
+			class _xx_optic_mas_acog {
 				count = 15;
 				name = "optic_mas_acog";
 			};
-			class _xx_optic_mas_acog_c
+			class _xx_optic_mas_acog_c {
 				count = 15;
 				name = "optic_mas_acog_c";
 			};
-			class _xx_optic_mas_acog_eo
+			class _xx_optic_mas_acog_eo {
 				count = 15;
 				name = "optic_mas_acog_eo";
 			};
-			class _xx_optic_mas_acog_eo_c
+			class _xx_optic_mas_acog_eo_c {
 				count = 15;
 				name = "optic_mas_acog_eo_c";
 			};
-			class _xx_optic_mas_acog_rd
+			class _xx_optic_mas_acog_rd {
 				count = 15;
 				name = "optic_mas_acog_rd";
 			};
-			class _xx_optic_mas_acog_rd_c
+			class _xx_optic_mas_acog_rd_c {
 				count = 15;
 				name = "optic_mas_acog_rd_c";
 			};
-			class _xx_optic_mas_handle
+			class _xx_optic_mas_handle {
 				count = 15;
 				name = "optic_mas_handle";
 			};
-			class _xx_optic_mas_aim
+			class _xx_optic_mas_aim {
 				count = 15;
 				name = "optic_mas_aim";
 			};
-			class _xx_optic_mas_aim_c
+			class _xx_optic_mas_aim_c {
 				count = 15;
 				name = "optic_mas_aim_c";
 			};
-			class _xx_optic_mas_term
+			class _xx_optic_mas_term {
 				count = 15;
 				name = "optic_mas_term";
 			};
-			class _xx_optic_mas_MRD
+			class _xx_optic_mas_MRD {
 				count = 15;
 				name = "optic_mas_MRD";
 			};
-			class _xx_optic_mas_LRPS
+			class _xx_optic_mas_LRPS {
 				count = 15;
 				name = "optic_mas_LRPS";
 			};
@@ -1189,26 +1189,32 @@
 			backpack = "B_MAV_B_BACKPACK";
 		};
 		class _xx_B_AssaultPack_rgr
+		{
 			count = 10;
 			backpack = "B_AssaultPack_rgr";
 		};
 		class _xx_B_AssaultPack_mcamo
+		{
 			count = 10;
 			backpack = "B_AssaultPack_mcamo";
 		};
 		class _xx_B_Kitbag_rgr
+		{
 			count = 10;
 			backpack = "B_Kitbag_rgr";
 		};
 		class _xx_B_Kitbag_mcamo
+		{
 			count = 10;
 			backpack = "B_Kitbag_mcamo";
 		};
 		class _xx_B_TacticalPack_blk
+		{
 			count = 10;
 			backpack = "B_TacticalPack_blk";
 		};
 		class _xx_B_TacticalPack_mcamo
+		{
 			count = 10;
 			backpack = "B_TacticalPack_mcamo";
 		};
@@ -1219,428 +1225,528 @@
 		
 //Grenades			
 			class _xx_HandGrenade
+		{
 				count = 100;
-				magazine = "HandGrenade"
+				magazine = "HandGrenade";
 			};
 			
 //Smoke grenades			
 			class _xx_SmokeShell
+			{
 				count = 100;
-				magazine = "SmokeShell"
+				magazine = "SmokeShell";
 			};
 			class _xx_SmokeShellRed
+		{
 				count = 100;
-				magazine = "SmokeShellRed"
+				magazine = "SmokeShellRed";
 			};
 			class _xx_SmokeShellGreen
+		{
 				count = 100;
-				magazine = "SmokeShellGreen"
+				magazine = "SmokeShellGreen";
 			};
 			class _xx_SmokeShellYellow
+		{
 				count = 100;
-				magazine = "SmokeShellYellow"
+				magazine = "SmokeShellYellow";
 			};
 			class _xx_SmokeShellPurple
+		{
 				count = 100;
-				magazine = "SmokeShellPurple"
+				magazine = "SmokeShellPurple";
 			};
 			class _xx_SmokeShellBlue
+		{
 				count = 100;
-				magazine = "SmokeShellBlue"
+				magazine = "SmokeShellBlue";
 			};
 			class _xx_SmokeShellOrange
+		{
 				count = 100;
-				magazine = "SmokeShellOrange"
+				magazine = "SmokeShellOrange";
 			};
 			
 //Chemlights			
 			class _xx_Chemlight_green
+		{
 				count = 100;
-				magazine = "Chemlight_green"
+				magazine = "Chemlight_green";
 			};
 			class _xx_Chemlight_red
+		{
 				count = 100;
-				magazine = "Chemlight_red"
+				magazine = "Chemlight_red";
 			};
 			class _xx_Chemlight_yellow
+		{
 				count = 100;
-				magazine = "Chemlight_yellow"
+				magazine = "Chemlight_yellow";
 			};
 			class _xx_Chemlight_blue
+		{
 				count = 100;
-				magazine = "Chemlight_blue"
+				magazine = "Chemlight_blue";
 			};
 			
 //5.56x45mm			
 			class _xx_30Rnd_mas_556x45_Stanag
+		{
 				count = 500;
-				magazine = "30Rnd_mas_556x45_Stanag"
+				magazine = "30Rnd_mas_556x45_Stanag";
 			};
 			class _xx_30Rnd_mas_556x45_T_Stanag
+		{
 				count = 500;
-				magazine = "30Rnd_mas_556x45_T_Stanag"
+				magazine = "30Rnd_mas_556x45_T_Stanag";
 			};
 			class _xx_30Rnd_556x45_Stanag
+		{
 				count = 500;
-				magazine = "30Rnd_556x45_Stanag"
+				magazine = "30Rnd_556x45_Stanag";
 			};
 			class _xx_30Rnd_556x45_Stanag_Tracer_Red
+		{
 				count = 500;
-				magazine = "30Rnd_556x45_Stanag_Tracer_Red"
+				magazine = "30Rnd_556x45_Stanag_Tracer_Red";
 			};
 			class _xx_200Rnd_mas_556x45_Stanag
+		{
 				count = 500;
-				magazine = "200Rnd_mas_556x45_Stanag"
+				magazine = "200Rnd_mas_556x45_Stanag";
 			};
 			class _xx_200Rnd_mas_556x45_T_Stanag
+		{
 				count = 500;
-				magazine = "200Rnd_mas_556x45_T_Stanag"
+				magazine = "200Rnd_mas_556x45_T_Stanag";
 			};
 			
 //40mm M320			
 			class _xx_1Rnd_HE_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_HE_Grenade_shell"
+				magazine = "1Rnd_HE_Grenade_shell";
 			};
 			class _xx_UGL_FlareWhite_F
+		{
 				count = 100;
-				magazine = "UGL_FlareWhite_F"
+				magazine = "UGL_FlareWhite_F";
 			};
 			class _xx_UGL_FlareGreen_F
+		{
 				count = 100;
-				magazine = "UGL_FlareGreen_F"
+				magazine = "UGL_FlareGreen_F";
 			};
 			class _xx_UGL_FlareRed_F
+		{
 				count = 100;
-				magazine = "UGL_FlareRed_F"
+				magazine = "UGL_FlareRed_F";
 			};
 			class _xx_UGL_FlareYellow_F
+		{
 				count = 100;
-				magazine = "UGL_FlareYellow_F"
+				magazine = "UGL_FlareYellow_F";
 			};
 			class _xx_UGL_FlareCIR_F
+		{
 				count = 100;
-				magazine = "UGL_FlareCIR_F"
+				magazine = "UGL_FlareCIR_F";
 			};
 			class _xx_1Rnd_Smoke_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_Smoke_Grenade_shell"
+				magazine = "1Rnd_Smoke_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeRed_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_SmokeRed_Grenade_shell"
+				magazine = "1Rnd_SmokeRed_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeGreen_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_SmokeGreen_Grenade_shell"
+				magazine = "1Rnd_SmokeGreen_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeYellow_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_SmokeYellow_Grenade_shell"
+				magazine = "1Rnd_SmokeYellow_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokePurple_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_SmokePurple_Grenade_shell"
+				magazine = "1Rnd_SmokePurple_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeBlue_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_SmokeBlue_Grenade_shell"
+				magazine = "1Rnd_SmokeBlue_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeOrange_Grenade_shell
+		{
 				count = 100;
-				magazine = "1Rnd_SmokeOrange_Grenade_shell"
+				magazine = "1Rnd_SmokeOrange_Grenade_shell";
 			};
 			
 //7.62 NATO			
 			class _xx_100Rnd_mas_762x51_Stanag
+		{
 				count = 500;
-				magazine = "100Rnd_mas_762x51_Stanag"
+				magazine = "100Rnd_mas_762x51_Stanag";
 			};
 			class _xx_100Rnd_mas_762x51_T_Stanag
+			{
 				count = 500;
-				magazine = "100Rnd_mas_762x51_T_Stanag"
+				magazine = "100Rnd_mas_762x51_T_Stanag";
 			};
 			class _xx_20Rnd_762x51_Mag
+			{
 				count = 500;
-				magazine = "20Rnd_762x51_Mag"
+				magazine = "20Rnd_762x51_Mag";
 			};
 			class _xx_20Rnd_mas_762x51_Stanag
+			{
 				count = 500;
-				magazine = "20Rnd_mas_762x51_Stanag"
+				magazine = "20Rnd_mas_762x51_Stanag";
 			};
 			class _xx_20Rnd_mas_762x51_T_Stanag
+			{
 				count = 500;
-				magazine = "20Rnd_mas_762x51_T_Stanag"
+				magazine = "20Rnd_mas_762x51_T_Stanag";
 			};
 			class _xx_5Rnd_mas_762x51_Stanag
+			{
 				count = 500;
-				magazine = "5Rnd_mas_762x51_Stanag"
+				magazine = "5Rnd_mas_762x51_Stanag";
 			};
 			class _xx_5Rnd_mas_762x51_T_Stanag
+			{
 				count = 500;
-				magazine = "5Rnd_mas_762x51_T_Stanag"
+				magazine = "5Rnd_mas_762x51_T_Stanag";
 			};
 
 //9x19mm Parabellum
 			class _xx_15Rnd_mas_9x21_Mag
+			{
 				count = 100;
-				magazine = "15Rnd_mas_9x21_Mag"
+				magazine = "15Rnd_mas_9x21_Mag";
 			};
 			
 //.45 Cal
 			class _xx_12Rnd_mas_45acp_Mag
+			{
 				count = 100;
-				magazine = "12Rnd_mas_45acp_Mag"
+				magazine = "12Rnd_mas_45acp_Mag";
 			};
 			class _xx_10Rnd_mas_45acp_Mag
+			{
 				count = 100;
-				magazine = "10Rnd_mas_45acp_Mag"
+				magazine = "10Rnd_mas_45acp_Mag";
 			};
 			class _xx_8Rnd_mas_45acp_Mag
+			{
 				count = 100;
-				magazine = "8Rnd_mas_45acp_Mag"
+				magazine = "8Rnd_mas_45acp_Mag";
 			};
 			
 //12 Gauge
 			class _xx_7Rnd_mas_12Gauge_Slug
+			{
 				count = 500;
-				magazine = "7Rnd_mas_12Gauge_Slug"
+				magazine = "7Rnd_mas_12Gauge_Slug";
 			};
 			class _xx_7Rnd_mas_12Gauge_Pellets
+			{
 				count = 500;
-				magazine = "7Rnd_mas_12Gauge_Pellets"
+				magazine = "7Rnd_mas_12Gauge_Pellets";
 			};
 			
 //.338 Lapua
 			class _xx_10Rnd_mas_338_Stanag
+			{
 				count = 100;
-				magazine = "10Rnd_mas_338_Stanag"
+				magazine = "10Rnd_mas_338_Stanag";
 			};
 			class _xx_10Rnd_mas_338_T_Stanag
+			{
 				count = 100;
-				magazine = "10Rnd_mas_338_T_Stanag"
+				magazine = "10Rnd_mas_338_T_Stanag";
 			};
 			
 //12.7x99mm /.50 BMG			
 			class _xx_5Rnd_mas_127x99_Stanag
+			{
 				count = 100;
-				magazine = "5Rnd_mas_127x99_Stanag"
+				magazine = "5Rnd_mas_127x99_Stanag";
 			};
 			class _xx_5Rnd_mas_127x99_dem_Stanag
+			{
 				count = 100;
-				magazine = "5Rnd_mas_127x99_dem_Stanag"
+				magazine = "5Rnd_mas_127x99_dem_Stanag";
 			};
 			class _xx_5Rnd_mas_127x99_T_Stanag
+			{
 				count = 100;
-				magazine = "5Rnd_mas_127x99_T_Stanag"
+				magazine = "5Rnd_mas_127x99_T_Stanag";
 			};
 
 //Rockets			
 			class _xx_rhs_m136_mag
+			{
 				count = 100;
-				magazine = "rhs_m136_mag"
+				magazine = "rhs_m136_mag";
 			};
 			class _xx_rhs_m136_hedp_mag
+			{
 				count = 100;
-				magazine = "rhs_m136_hedp_mag"
+				magazine = "rhs_m136_hedp_mag";
 			};
 			class _xx_rhs_m136_hp_mag
+			{
 				count = 100;
-				magazine = "rhs_m136_hp_mag"
+				magazine = "rhs_m136_hp_mag";
 			};
 			class _xx_mas_MAAWS
+			{
 				count = 100;
-				magazine = "mas_MAAWS"
+				magazine = "mas_MAAWS";
 			};
 			class _xx_mas_MAAWS_HE
+			{
 				count = 100;
-				magazine = "mas_MAAWS_HE"
+				magazine = "mas_MAAWS_HE";
 			};
 			class _xx_mas_Stinger
+			{
 				count = 100;
-				magazine = "mas_Stinger"
+				magazine = "mas_Stinger";
 			};
 		};
 		
 		class TransportWeapons {
 
 			class _xx_LMG_mas_Mk48_F
+			{
 				count = 25;
 				weapon = "LMG_mas_Mk48_F";
 			};
 			class _xx_LMG_mas_Mk48_F_v
+			{
 				count = 25;
 				weapon = "LMG_mas_Mk48_F_v";
 			};
 			class _xx_LMG_mas_Mk48_F_d
+			{
 				count = 25;
 				weapon = "LMG_mas_Mk48_F_d";
 			};
 			class _xx_srifle_mas_m24
+			{
 				count = 25;
 				weapon = "srifle_mas_m24";
 			};
 			class _xx_srifle_mas_m24_v
+			{
 				count = 25;
 				weapon = "srifle_mas_m24_v";
 			};
 			class _xx_srifle_mas_mk17s
+			{
 				count = 25;
 				weapon = "srifle_mas_mk17s";
 			};
 			class _xx_srifle_mas_m110
+			{
 				count = 25;
 				weapon = "srifle_mas_m110";
 			};
 			class _xx_arifle_mas_m4
+			{
 				count = 25;
 				weapon = "arifle_mas_m4";
 			};
 			class _xx_arifle_mas_m4_gl
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_gl";
 			};
 			class _xx_arifle_mas_m4_m203
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_m203";
 			};
 			class _xx_arifle_mas_m4_v
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_v";
 			};
 			class _xx_arifle_mas_m4_gl_v
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_gl_v";
 			};
 			class _xx_arifle_mas_m4_m203_v
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_m203_v";
 			};
 			class _xx_arifle_mas_m4_d
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_d";
 			};
 			class _xx_arifle_mas_m4_gl_d
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_gl_d";
 			};
 			class _xx_arifle_mas_m4_m203_d
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_m203_d";
 			};
 			class _xx_arifle_mas_m4vlt
+			{
 				count = 25;
 				weapon = "arifle_mas_m4vlt";
 			};
 			class _xx_arifle_mas_m4c
+			{
 				count = 25;
 				weapon = "arifle_mas_m4c";
 			};
 			class _xx_arifle_mas_m4_m203c
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_m203c";
 			};
 			class _xx_arifle_mas_m4c_v
+			{
 				count = 25;
 				weapon = "arifle_mas_m4c_v";
 			};
 			class _xx_arifle_mas_m4_m203c_v
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_m203c_v";
 			};
 			class _xx_arifle_mas_m4c_d
+			{
 				count = 25;
 				weapon = "arifle_mas_m4c_d";
 			};
 			class _xx_arifle_mas_m4_m203c_d
+			{
 				count = 25;
 				weapon = "arifle_mas_m4_m203c_d";
 			};
 			class _xx_arifle_mas_m16
+			{
 				count = 25;
 				weapon = "arifle_mas_m16";
 			};
 			class _xx_arifle_mas_m16_gl
+			{
 				count = 25;
 				weapon = "arifle_mas_m16_gl";
 			};
 			class _xx_arifle_mas_m1014
+			{
 				count = 25;
 				weapon = "arifle_mas_m1014";
 			};
 			class _xx_LMG_mas_M249_F
+			{
 				count = 25;
 				weapon = "LMG_mas_M249_F";
 			};
 			class _xx_LMG_mas_M249_F_v
+			{
 				count = 25;
 				weapon = "LMG_mas_M249_F_v";
 			};
 			class _xx_LMG_mas_M249_F_d
+			{
 				count = 25;
 				weapon = "LMG_mas_M249_F_d";
 			};
 			class _xx_LMG_mas_M249a_F
+			{
 				count = 25;
 				weapon = "LMG_mas_M249a_F";
 			};
 			class _xx_LMG_mas_M240_F
+			{
 				count = 25;
 				weapon = "LMG_mas_M240_F";
 			};
 			class _xx_rhs_weap_M136
+			{
 				count = 25;
 				weapon = "rhs_weap_M136";
 			};
 			class _xx_rhs_weap_M136_hedp
+			{
 				count = 25;
 				weapon = "rhs_weap_M136_hedp";
 			};
 			class _xx_rhs_weap_M136_hp
+			{
 				count = 25;
 				weapon = "rhs_weap_M136_hp";
 			};
 			class _xx_mas_launch_Stinger_F
+			{
 				count = 25;
 				weapon = "mas_launch_Stinger_F";
 			};
 			class _xx_mas_launch_maaws_F
+			{
 				count = 25;
 				weapon = "mas_launch_maaws_F";
 			};
 			class _xx_srifle_mas_m107
+			{
 				count = 25;
 				weapon = "srifle_mas_m107";
 			};
-			class _xx_hgun_mas_glock_F {
+			class _xx_hgun_mas_glock_F
+			{
 				count = 25;
 				weapon = "hgun_mas_glock_F";
 			};
-			class _xx_hgun_mas_glocksf_F {
+			class _xx_hgun_mas_glocksf_F
+			{
 				count = 25;
 				weapon = "hgun_mas_glocksf_F"
 			}
 			class _xx_hgun_mas_m9_F
+			{
 				count = 25;
 				weapon = "hgun_mas_m9_F";
 			};
-			class _xx_arifle_mas_mp5 {
+			class _xx_arifle_mas_mp5
+			{
 				count = 25;
 				weapon = "arifle_mas_mp5";
 			};
-			class _xx_arifle_mas_mp5_v {
+			class _xx_arifle_mas_mp5_v
+			{
 				count = 25;
 				weapon = "arifle_mas_mp5_v";
 			};
-			class _xx_arifle_mas_mp5_d {
+			class _xx_arifle_mas_mp5_d
+			{
 				count = 25;
 				weapon = "arifle_mas_mp5_d";
 			};
-			class _xx_arifle_mas_mp5sd {
+			class _xx_arifle_mas_mp5sd
+			{
 				count = 25;
 				weapon = "arifle_mas_mp5sd";
 			};
-			class _xx_arifle_mas_mp5sd_ds {
+			class _xx_arifle_mas_mp5sd_ds
+			{
 				count = 25;
 				weapon = "arifle_mas_mp5sd_ds";
 			};
