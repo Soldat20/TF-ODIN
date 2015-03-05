@@ -2,8 +2,8 @@
 // {
 
 	//class B_CargoNet_01_ammo_F;
-	class Box_tfo_CAF : B_CargoNet_01_ammo_F {
-	displayname = "[TFO] CAF Box";
+	class Box_tfo_BAF : B_CargoNet_01_ammo_F {
+		displayname = "[TFO] BAF Box";
 		maximumLoad = 999999;
 		transportmaxmagazines = 999999;
 		transportmaxweapons = 999999;
@@ -241,267 +241,357 @@
 				count = 15;
 				name = "RH_SFM952V_tan";
 			};
-			class _xx_RH_qdss_nt4 {
+			class _xx_RH_qdss_nt4
+			{
 				count = 15;
 				name = "RH_qdss_nt4";
 			};
-			class _xx_RH_qdss_nt4_tg {
+			class _xx_RH_qdss_nt4_tg
+			{
 				count = 15;
 				name = "RH_qdss_nt4_tg";
 			};
-			class _xx_RH_qdss_nt4_des {
+			class _xx_RH_qdss_nt4_des
+			{
 				count = 15;
 				name = "RH_qdss_nt4_des";
 			};
-			class _xx_RH_qdss_nt4_wdl {
+			class _xx_RH_qdss_nt4_wdl
+			{
 				count = 15;
 				name = "RH_qdss_nt4_wdl";
 			};
-			class _xx_RH_saker {
+			class _xx_RH_saker
+			{
 				count = 15;
 				name = "RH_saker";
 			};
-			class _xx_RH_saker_tg {
+			class _xx_RH_saker_tg
+			{
 				count = 15;
 				name = "RH_saker_tg";
 			};
-			class _xx_RH_saker_des {
+			class _xx_RH_saker_des
+			{
 				count = 15;
 				name = "RH_saker_des";
 			};
-			class _xx_RH_saker_wdl {
+			class _xx_RH_saker_wdl
+			{
 				count = 15;
 				name = "RH_saker_wdl";
 			};
-			class _xx_RH_Saker762 {
+			class _xx_RH_Saker762
+			{
 				count = 15;
 				name = "RH_Saker762";
 			};
-			class _xx_RH_Saker762_tg {
+			class _xx_RH_Saker762_tg
+			{
 				count = 15;
 				name = "RH_Saker762_tg";
 			};
-			class _xx_RH_Saker762_des {
+			class _xx_RH_Saker762_des
+			{
 				count = 15;
 				name = "RH_Saker762_des";
 			};
-			class _xx_RH_Saker762_wdl {
+			class _xx_RH_Saker762_wdl
+			{
 				count = 15;
 				name = "RH_Saker762_wdl";
 			};
-			class _xx_RH_fa556 {
+			class _xx_RH_fa556
+			{
 				count = 15;
 				name = "RH_fa556";
 			};
-			class _xx_RH_fa556_tg {
+			class _xx_RH_fa556_tg
+			{
 				count = 15;
 				name = "RH_fa556_tg";
 			};
-			class _xx_RH_fa556_des {
+			class _xx_RH_fa556_des
+			{
 				count = 15;
 				name = "RH_fa556_des";
 			};
-			class _xx_RH_fa556_wdl {
+			class _xx_RH_fa556_wdl
+			{
 				count = 15;
 				name = "RH_fa556_wdl";
 			};
-			class _xx_RH_fa762 {
+			class _xx_RH_fa762
+			{
 				count = 15;
 				name = "RH_fa762";
 			};
-			class _xx_RH_fa762_tg {
+			class _xx_RH_fa762_tg
+			{
 				count = 15;
 				name = "RH_fa762_tg";
 			};
-			class _xx_RH_fa762_des {
+			class _xx_RH_fa762_des
+			{
 				count = 15;
 				name = "RH_fa762_des";
 			};
-			class _xx_RH_fa762_wdl {
+			class _xx_RH_fa762_wdl
+			{
 				count = 15;
 				name = "RH_fa762_wdl";
 			};
-			class _xx_RH_spr_mbs {
+			class _xx_RH_spr_mbs
+			{
 				count = 15;
 				name = "RH_spr_mbs";
 			};
-			class _xx_RH_spr_mbs_tg {
+			class _xx_RH_spr_mbs_tg
+			{
 				count = 15;
 				name = "RH_spr_mbs_tg";
 			};
-			class _xx_RH_spr_mbs_des {
+			class _xx_RH_spr_mbs_des
+			{
 				count = 15;
 				name = "RH_spr_mbs_des";
 			};
-			class _xx_RH_spr_mbs_wdl {
+			class _xx_RH_spr_mbs_wdl
+			{
 				count = 15;
 				name = "RH_spr_mbs_wdl";
 			};
-			class _xx_RH_tundra {
+			class _xx_RH_tundra
+			{
 				count = 15;
 				name = "RH_tundra";
 			};
-			class _xx_RH_tundra_tg {
+			class _xx_RH_tundra_tg
+			{
 				count = 15;
 				name = "RH_tundra_tg";
 			};
-			class _xx_RH_tundra_des {
+			class _xx_RH_tundra_des
+			{
 				count = 15;
 				name = "RH_tundra_des";
 			};
-			class _xx_RH_tundra_wdl {
+			class _xx_RH_tundra_wdl
+			{
 				count = 15;
 				name = "RH_tundra_wdl";
 			};
-			class _xx_muzzle_snds_M {
+			class _xx_muzzle_snds_M
+			{
 				count = 15;
 				name = "muzzle_snds_M";
 			};
-			class _xx_muzzle_mas_snds_L {
+			class _xx_muzzle_mas_snds_L
+			{
 				count = 15;
 				name = "muzzle_mas_snds_L";
 			};
-			class _xx_muzzle_mas_snds_LM {
+			class _xx_muzzle_mas_snds_LM
+			{
 				count = 15;
 				name = "muzzle_mas_snds_LM";
 			};
-			class _xx_muzzle_mas_snds_C {
+			class _xx_muzzle_mas_snds_C
+			{
 				count = 15;
 				name = "muzzle_mas_snds_C";
 			};
-			class _xx_muzzle_mas_snds_MP5SD6 {
+			class _xx_muzzle_mas_snds_MP5SD6
+			{
 				count = 15;
 				name = "muzzle_mas_snds_MP5SD6";
 			};
-			class _xx_muzzle_mas_snds_Mc {
+			class _xx_muzzle_mas_snds_Mc
+			{
 				count = 15;
 				name = "muzzle_mas_snds_Mc";
 			};
-			class _xx_muzzle_mas_snds_SM {
+			class _xx_muzzle_mas_snds_SM
+			{
 				count = 15;
 				name = "muzzle_mas_snds_SM";
 			};
-			class _xx_muzzle_mas_snds_SMc {
+			class _xx_muzzle_mas_snds_SMc
+			{
 				count = 15;
 				name = "muzzle_mas_snds_SMc";
 			};
-			class _xx_muzzle_mas_snds_SH {
+			class _xx_muzzle_mas_snds_SH
+			{
 				count = 15;
 				name = "muzzle_mas_snds_SH";
 			};
-			class _xx_muzzle_mas_snds_SHc {
+			class _xx_muzzle_mas_snds_SHc
+			{
 				count = 15;
 				name = "muzzle_mas_snds_SHc";
 			};
-			class _xx_muzzle_mas_snds_SV {
+			class _xx_muzzle_mas_snds_SV
+			{
 				count = 15;
 				name = "muzzle_mas_snds_SV";
 			};
-			class _xx_muzzle_mas_snds_SVc {
+			class _xx_muzzle_mas_snds_SVc
+			{
 				count = 15;
 				name = "muzzle_mas_snds_SVc";
 			};
-			class _xx_optic_mas_DMS_c {
+			class _xx_optic_mas_DMS_c
+			{
 				count = 15;
 				name = "optic_mas_DMS_c";
 			};
-			class _xx_optic_mas_Holosight_blk {
+			class _xx_optic_mas_Holosight_blk
+			{
 				count = 15;
 				name = "optic_mas_Holosight_blk";
 			};
-			class _xx_optic_mas_Holosight_camo {
+			class _xx_optic_mas_Holosight_camo
+			{
 				count = 15;
 				name = "optic_mas_Holosight_camo";
 			};
-			class _xx_optic_mas_Arco_blk {
+			class _xx_optic_mas_Arco_blk
+			{
 				count = 15;
 				name = "optic_mas_Arco_blk";
 			};
-			class _xx_optic_mas_Arco_camo {
+			class _xx_optic_mas_Arco_camo
+			{
 				count = 15;
 				name = "optic_mas_Arco_camo";
 			};
-			class _xx_optic_mas_Hamr_camo {
+			class _xx_optic_mas_Hamr_camo
+			{
 				count = 15;
 				name = "optic_mas_Hamr_camo";
 			};
-			class _xx_optic_mas_Aco_camo {
+			class _xx_optic_mas_Aco_camo
+			{
 				count = 15;
 				name = "optic_mas_Aco_camo";
 			};
-			class _xx_optic_mas_ACO_grn_camo {
+			class _xx_optic_mas_ACO_grn_camo
+			{
 				count = 15;
 				name = "optic_mas_ACO_grn_camo";
 			};
-			class _xx_optic_mas_MRCO_camo {
+			class _xx_optic_mas_MRCO_camo
+			{
 				count = 15;
 				name = "optic_mas_MRCO_camo";
 			};
-			class _xx_optic_mas_zeiss {
+			class _xx_optic_mas_zeiss
+			{
 				count = 15;
 				name = "optic_mas_zeiss";
 			};
-			class _xx_optic_mas_zeiss_c {
+			class _xx_optic_mas_zeiss_c
+			{
 				count = 15;
 				name = "optic_mas_zeiss_c";
 			};
-			class _xx_optic_mas_zeiss_eo {
+			class _xx_optic_mas_zeiss_eo
+			{
 				count = 15;
 				name = "optic_mas_zeiss_eo";
 			};
-			class _xx_optic_mas_zeiss_eo_c {
+			class _xx_optic_mas_zeiss_eo_c
+			{
 				count = 15;
 				name = "optic_mas_zeiss_eo_c";
 			};
-			class _xx_optic_mas_acog {
+			class _xx_optic_mas_acog
+			{
 				count = 15;
 				name = "optic_mas_acog";
 			};
-			class _xx_optic_mas_acog_c {
+			class _xx_optic_mas_acog_c
+			{
 				count = 15;
 				name = "optic_mas_acog_c";
 			};
-			class _xx_optic_mas_acog_eo {
+			class _xx_optic_mas_acog_eo
+			{
 				count = 15;
 				name = "optic_mas_acog_eo";
 			};
-			class _xx_optic_mas_acog_eo_c {
+			class _xx_optic_mas_acog_eo_c
+			{
 				count = 15;
 				name = "optic_mas_acog_eo_c";
 			};
-			class _xx_optic_mas_acog_rd {
+			class _xx_optic_mas_acog_rd
+			{
 				count = 15;
 				name = "optic_mas_acog_rd";
 			};
-			class _xx_optic_mas_acog_rd_c {
+			class _xx_optic_mas_acog_rd_c
+			{
 				count = 15;
 				name = "optic_mas_acog_rd_c";
 			};
-			class _xx_optic_mas_handle {
+			class _xx_optic_mas_handle
+			{
 				count = 15;
 				name = "optic_mas_handle";
 			};
-			class _xx_optic_mas_aim {
+			class _xx_optic_mas_aim
+			{
 				count = 15;
 				name = "optic_mas_aim";
 			};
-			class _xx_optic_mas_aim_c {
+			class _xx_optic_mas_aim_c
+			{
 				count = 15;
 				name = "optic_mas_aim_c";
 			};
-			class _xx_optic_mas_term {
+			class _xx_optic_mas_term
+			{
 				count = 15;
 				name = "optic_mas_term";
 			};
-			class _xx_optic_mas_MRD {
+			class _xx_optic_mas_MRD
+			{
 				count = 15;
 				name = "optic_mas_MRD";
 			};
-			class _xx_optic_mas_LRPS {
+			class _xx_optic_mas_LRPS
+			{
 				count = 15;
 				name = "optic_mas_LRPS";
 			};
-			
+			class _xx_kio_Elcan
+			{
+				count = 15;
+				name = "kio_Elcan";
+			};
+			class _xx_kio_Elcan_reflex
+			{
+				count = 15;
+				name = "kio_Elcan_reflex";
+			};
+			class _xx_kio_muzzle_sffh
+			{
+				count = 15;
+				name = "kio_muzzle_sffh";
+			};
+			class _xx_kio_LLM
+			{
+				count = 15;
+				name = "kio_LLM";
+			};
+			class _xx_kio_muzzle_bfa
+			{
+				count = 15;
+				name = "kio_muzzle_bfa";
+			};
+
 // ACCESSORIES
 			class _xx_ItemWatch {
 				count = 20;
@@ -549,154 +639,626 @@
 			};
 			
 // UNIFORMS			
-			class _xx_U_ons_uniform1_cadpatAR {
+			class _xx_U_mas_uk_B_CombatUniform_mtp {
 				count = 5;
-				name = "U_ons_uniform1_cadpatAR";
+				name = "U_mas_uk_B_CombatUniform_mtp";
 			};
-			class _xx_U_ons_uniform2_cadpatAR {
+			class _xx_U_mas_uk_B_CombatUniform_mtp_tshirt {
 				count = 5;
-				name = "U_ons_uniform2_cadpatAR";
+				name = "U_mas_uk_B_CombatUniform_mtp_tshirt";
 			};
-			class _xx_U_ons_uniform3_cadpatAR {
+			class _xx_U_mas_uk_B_CombatUniform_mtp_vest {
 				count = 5;
-				name = "U_ons_uniform3_cadpatAR";
+				name = "U_mas_uk_B_CombatUniform_mtp_vest";
 			};
-			class _xx_U_ons_uniform4_cadpatAR {
+			class _xx_U_mas_uk_B_CombatUniform_mcam {
 				count = 5;
-				name = "U_ons_uniform4_cadpatAR";
+				name = "U_mas_uk_B_CombatUniform_mcam";
 			};
-			class _xx_U_ons_uniform5_cadpatAR {
+			class _xx_U_mas_uk_B_CombatUniform_mcam_tshirt {
 				count = 5;
-				name = "U_ons_uniform5_cadpatAR";
+				name = "U_mas_uk_B_CombatUniform_mcam_tshirt";
 			};
-			class _xx_U_ons_GhilleSuit_ar {
+			class _xx_U_mas_uk_B_CombatUniform_mcam_vest {
 				count = 5;
-				name = "U_ons_GhilleSuit_ar";
+				name = "U_mas_uk_B_CombatUniform_mcam_vest";
 			};
-			class _xx_U_ons_uniform1_cadpatTW {
+			class _xx_U_mas_uk_B_CombatUniform_mcam1_vest {
 				count = 5;
-				name = "U_ons_uniform1_cadpatTW";
+				name = "U_mas_uk_B_CombatUniform_mcam1_vest";
 			};
-			class _xx_U_ons_uniform2_cadpatTW {
+			class _xx_U_mas_uk_B_CombatUniform_mcam2_vest {
 				count = 5;
-				name = "U_ons_uniform2_cadpatTW";
+				name = "U_mas_uk_B_CombatUniform_mcam2_vest";
 			};
-			class _xx_U_ons_uniform3_cadpatTW {
+			class _xx_U_mas_uk_B_CombatUniform_mcam3_vest {
 				count = 5;
-				name = "U_ons_uniform3_cadpatTW";
+				name = "U_mas_uk_B_CombatUniform_mcam3_vest";
 			};
-			class _xx_U_ons_uniform4_cadpatTW {
+			class _xx_U_mas_uk_B_CombatUniform_mcam4_vest {
 				count = 5;
-				name = "U_ons_uniform4_cadpatTW";
+				name = "U_mas_uk_B_CombatUniform_mcam4_vest";
 			};
-			class _xx_U_ons_uniform5_cadpatTW {
+			class _xx_U_mas_uk_B_CombatUniform_veg {
 				count = 5;
-				name = "U_ons_uniform5_cadpatTW";
+				name = "U_mas_uk_B_CombatUniform_veg";
 			};
-			class _xx_U_ons_GhilleSuit_tw {
+			class _xx_U_mas_uk_B_CombatUniform_veg_tshirt {
 				count = 5;
-				name = "U_ons_GhilleSuit_tw";
+				name = "U_mas_uk_B_CombatUniform_veg_tshirt";
 			};
-			class _xx_ons_csog_multicam {
+			class _xx_U_mas_uk_B_CombatUniform_veg_vest {
 				count = 5;
-				name = "ons_csog_multicam";
+				name = "U_mas_uk_B_CombatUniform_veg_vest";
 			};
-			class _xx_ons_csog_multicam2 {
+			class _xx_U_mas_uk_B_CombatUniform_veg1_vest {
 				count = 5;
-				name = "ons_csog_multicam2";
+				name = "U_mas_uk_B_CombatUniform_veg1_vest";
 			};
-			
+			class _xx_U_mas_uk_B_CombatUniform_veg2_vest {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_veg2_vest";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_veg3_vest {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_veg3_vest";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_des {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_des";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_des_tshirt {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_des_tshirt";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_des_vest {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_des_vest";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_des1_vest {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_des1_vest";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_des2_vest {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_des2_vest";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_des3_vest {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_des3_vest";
+			};
+			class _xx_ U_mas_uk_B_CombatUniform_sage{
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_sage";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_sage_tshirt {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_sage_tshirt";
+			};
+			class _xx_U_mas_uk_B_CombatUniform_sage_vest {
+				count = 5;
+				name = "U_mas_uk_B_CombatUniform_sage_vest";
+			};
+			class _xx_U_mas_uk_B_CRW {
+				count = 5;
+				name = "U_mas_uk_B_CRW";
+			};
+			class _xx_U_mas_uk_B_wint {
+				count = 5;
+				name = "U_mas_uk_B_wint";
+			};
+			class _xx_U_mas_uk_B_pilot {
+				count = 5;
+				name = "U_mas_uk_B_pilot";
+			};
+			class _xx_U_mas_uk_B_Wetsuit {
+				count = 5;
+				name = "U_mas_uk_B_Wetsuit";
+			};
+			class _xx_U_mas_uk_B_GhillieSuit {
+				count = 5;
+				name = "U_mas_uk_B_GhillieSuit";
+			};
+			class _xx_U_mas_uk_B_GhillieSuit_v {
+				count = 5;
+				name = "U_mas_uk_B_GhillieSuit_v";
+			};
+			class _xx_U_mas_uk_B_GhillieSuit_d {
+				count = 5;
+				name = "U_mas_uk_B_GhillieSuit_d";
+			};
+			class _xx_U_mas_uk_B_GhillieSuit_w {
+				count = 5;
+				name = "U_mas_uk_B_GhillieSuit_w";
+			};
+			class _xx_U_mas_uk_B_IndUniform1_o {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform1_o";
+			};
+			class _xx_U_mas_uk_B_IndUniform2_o {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform2_o";
+			};
+			class _xx_U_mas_uk_B_IndUniform1_m {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform1_m";
+			};
+			class _xx_U_mas_uk_B_IndUniform2_m {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform2_m";
+			};
+			class _xx_U_mas_uk_B_IndUniform1_v {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform1_v";
+			};
+			class _xx_U_mas_uk_B_IndUniform2_v {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform2_v";
+			};
+			class _xx_U_mas_uk_B_IndUniformx1 {
+				count = 5;
+				name = "U_mas_uk_B_IndUniformx1";
+			};
+			class _xx_U_mas_uk_B_IndUniformx2 {
+				count = 5;
+				name = "U_mas_uk_B_IndUniformx2";
+			};
+			class _xx_U_mas_uk_B_IndUniform1_d {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform1_d";
+			};
+			class _xx_U_mas_uk_B_IndUniform2_d {
+				count = 5;
+				name = "U_mas_uk_B_IndUniform2_d";
+			};
+		
 //Vests
 
-			class _xx_ons_csog_vest {
+			class _xx_V_mas_uk_Rangemaster_belt {
 				count = 20;
-				name = "ons_csog_vest";
+				name = "V_mas_uk_Rangemaster_belt";
 			};
-			class _xx_ons_csog_vest2 {
+			class _xx_V_mas_uk_BandollierB_rgr {
 				count = 20;
-				name = "ons_csog_vest2";
+				name = "V_mas_uk_BandollierB_rgr";
 			};
-			class _xx_ONS_V_TacVest01_TW {
+			class _xx_V_mas_uk_PlateCarrier1_rgr {
 				count = 20;
-				name = "ONS_V_TacVest01_TW";
+				name = "V_mas_uk_PlateCarrier1_rgr";
 			};
-			class _xx_ONS_V_TacVest02_TW {
+			class _xx_V_mas_uk_PlateCarrier2_rgr {
 				count = 20;
-				name = "ONS_V_TacVest02_TW";
+				name = "V_mas_uk_PlateCarrier2_rgr";
 			};
-			class _xx_ONS_V_TacVest03_TW {
+			class _xx_V_mas_uk_PlateCarrierGL_rgr {
 				count = 20;
-				name = "ONS_V_TacVest03_TW";
+				name = "V_mas_uk_PlateCarrierGL_rgr";
 			};
-			class _xx_ONS_V_TacVest01_ar {
+			class _xx_V_mas_uk_ChestrigB_rgr {
 				count = 20;
-				name = "ONS_V_TacVest01_ar";
+				name = "V_mas_uk_ChestrigB_rgr";
 			};
-			class _xx_ONS_V_TacVest02_ar {
+			class _xx_V_mas_uk_Rangemaster_belt_d {
 				count = 20;
-				name = "ONS_V_TacVest02_ar";
+				name = "V_mas_uk_Rangemaster_belt_d";
 			};
-			class _xx_ONS_V_TacVest03_ar {
+			class _xx_V_mas_uk_BandollierB_rgr_d {
 				count = 20;
-				name = "ONS_V_TacVest03_ar";
+				name = "V_mas_uk_BandollierB_rgr_d";
 			};
-			class _xx_LBT6094A_Vest {
+			class _xx_V_mas_uk_PlateCarrier1_rgr_d {
 				count = 20;
-				name = "LBT6094A_Vest";
+				name = "V_mas_uk_PlateCarrier1_rgr_d";
+			};
+			class _xx_V_mas_uk_PlateCarrier2_rgr_d {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier2_rgr_d";
+			};
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_d {
+				count = 20;
+				name = "V_mas_uk_PlateCarrierGL_rgr_d";
+			};
+			class _xx_V_mas_uk_ChestrigB_rgr_d {
+				count = 20;
+				name = "V_mas_uk_ChestrigB_rgr_d";
+			};
+			class _xx_V_mas_uk_Rangemaster_belt_v {
+				count = 20;
+				name = V_mas_uk_Rangemaster_belt_v"";
+			};
+			class _xx_V_mas_uk_BandollierB_rgr_v {
+				count = 20;
+				name = "V_mas_uk_BandollierB_rgr_v";
+			};
+			class _xx_V_mas_uk_PlateCarrier1_rgr_v {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier1_rgr_v";
+			};
+			class _xx_V_mas_uk_PlateCarrier2_rgr_v {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier2_rgr_v";
+			};
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_v {
+				count = 20;
+				name = "V_mas_uk_PlateCarrierGL_rgr_v";
+			};
+			class _xx_V_mas_uk_ChestrigB_rgr_v {
+				count = 20;
+				name = "V_mas_uk_ChestrigB_rgr_v";
+			};
+			class _xx_V_mas_uk_PlateCarrier1_rgr_g {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier1_rgr_g";
+			};
+			class _xx_V_mas_uk_ChestrigB_rgr_g {
+				count = 20;
+				name = "V_mas_uk_ChestrigB_rgr_g";
+			};
+			class _xx_V_mas_uk_PlateCarrier1_rgr_w {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier1_rgr_w";
+			};
+			class _xx_V_mas_uk_ChestrigB_rgr_w {
+				count = 20;
+				name = "V_mas_uk_ChestrigB_rgr_w";
+			};
+			class _xx_V_mas_uk_Rangemaster_belt_a {
+				count = 20;
+				name = "V_mas_uk_Rangemaster_belt_a";
+			};
+			class _xx_V_mas_uk_BandollierB_rgr_a {
+				count = 20;
+				name = "V_mas_uk_BandollierB_rgr_a";
+			};
+			class _xx_V_mas_uk_PlateCarrier1_rgr_a {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier1_rgr_a";
+			};
+			class _xx_V_mas_uk_PlateCarrier2_rgr_a {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier2_rgr_a";
+			};
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_a {
+				count = 20;
+				name = "V_mas_uk_PlateCarrierGL_rgr_a";
+			};
+			class _xx_V_mas_uk_ChestrigB_rgr_a {
+				count = 20;
+				name = "V_mas_uk_ChestrigB_rgr_a";
+			};
+			class _xx_V_mas_uk_Rangemaster_belt_t {
+				count = 20;
+				name = "V_mas_uk_Rangemaster_belt_t";
+			};
+			class _xx_V_mas_uk_BandollierB_rgr_t {
+				count = 20;
+				name = "V_mas_uk_BandollierB_rgr_t";
+			};
+			class _xx_V_mas_uk_PlateCarrier1_rgr_t {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier1_rgr_t";
+			};
+			class _xx_V_mas_uk_PlateCarrier2_rgr_t {
+				count = 20;
+				name = "V_mas_uk_PlateCarrier2_rgr_t";
+			};
+			class _xx_V_mas_uk_PlateCarrierGL_rgr_t {
+				count = 20;
+				name = "V_mas_uk_PlateCarrierGL_rgr_t";
+			};
+			class _xx_V_mas_uk_ChestrigB_rgr_t {
+				count = 20;
+				name = "V_mas_uk_ChestrigB_rgr_t";
+			};
+			class _xx_V_mas_uk_TacVest_p {
+				count = 20;
+				name = "V_mas_uk_TacVest_p";
+			};
+			class _xx_V_mas_uk_TacVest_g {
+				count = 20;
+				name = "V_mas_uk_TacVest_g";
+			};
+			class _xx_V_RebreatherB {
+				count = 20;
+				name = "V_RebreatherB";
+			};
+			class _xx_V_RebreatherIA {
+				count = 20;
+				name = "V_RebreatherIA";
 			};
 			
 //Helmets
-			class _xx_H_ons_Boonie_AR {
+			class _xx_H_mas_uk_beret {
 				count = 5;
-				name = "H_ons_Boonie_AR";
+				name = "H_mas_uk_beret";
 			};
-			class _xx_ONS_Helmet_AR_B {
+			class _xx_H_mas_uk_bereta {
 				count = 5;
-				name = "ONS_Helmet_AR_B";
+				name = "H_mas_uk_bereta";
 			};
-			class _xx_ONS_CG634_AR_B {
+			class _xx_H_mas_uk_beretn {
 				count = 5;
-				name = "ONS_CG634_AR_B";
+				name = "H_mas_uk_beretn";
 			};
-			class _xx_ONS_CG634_Net_AR_B {
+			class _xx_H_mas_uk_PilotHelmetHeli_B {
 				count = 5;
-				name = "ONS_CG634_Net_AR_B";
+				name = "H_mas_uk_PilotHelmetHeli_B";
 			};
-			class _xx_ONS_CG634_scrim_AR_B {
+			class _xx_H_mas_uk_CrewHelmetHeli_B {
 				count = 5;
-				name = "ONS_CG634_scrim_AR_B";
+				name = "H_mas_uk_CrewHelmetHeli_B";
 			};
-			class _xx_H_ons_Boonie_TW {
+			class _xx_H_mas_uk_HelmetCrew_B {
 				count = 5;
-				name = "H_ons_Boonie_TW";
+				name = "H_mas_uk_HelmetCrew_B";
 			};
-			class _xx_ONS_Helmet_TW_B {
+			class _xx_H_mas_uk_MilCap_mcamo {
 				count = 5;
-				name = "ONS_Helmet_TW_B";
+				name = "H_mas_uk_MilCap_mcamo";
 			};
-			class _xx_ONS_CG634_TW_B {
+			class _xx_H_mas_uk_MilCap_mcamo_v {
 				count = 5;
-				name = "ONS_CG634_TW_B";
+				name = "H_mas_uk_MilCap_mcamo_v";
 			};
-			class _xx_ONS_CG634_Net_TW_B {
+			class _xx_H_mas_uk_MilCap_mcamo_d {
 				count = 5;
-				name = "ONS_CG634_Net_TW_B";
+				name = "H_mas_uk_MilCap_mcamo_d";
 			};
-			class _xx_ONS_CG634_scrim_TW_B {
+			class _xx_H_mas_uk_MilCap_mcamo_m {
 				count = 5;
-				name = "ONS_CG634_scrim_TW_B";
+				name = "H_mas_uk_MilCap_mcamo_m";
 			};
-			class _xx_ONS_CSOG_Helmet {
+			class _xx_H_mas_uk_Cap {
 				count = 5;
-				name = "ONS_CSOG_Helmet";
+				name = "H_mas_uk_Cap";
 			};
-			class _xx_H_ONS_BCAP_Back {
+			class _xx_H_mas_uk_Cap_headphones {
 				count = 5;
-				name = "H_ONS_BCAP_Back";
+				name = "H_mas_uk_Cap_headphones";
 			};
-			class _xx_H_ONS_BCAP {
+			class _xx_H_mas_uk_Cap_headphones_d {
 				count = 5;
-				name = "H_ONS_BCAP";
+				name = "H_mas_uk_Cap_headphones_d";
+			};
+			class _xx_H_mas_uk_Cap_headphones_v {
+				count = 5;
+				name = "H_mas_uk_Cap_headphones_v";
+			};
+			class _xx_H_mas_uk_Cap_headphones_g {
+				count = 5;
+				name = "H_mas_uk_Cap_headphones_g";
+			};
+			class _xx_H_mas_uk_revcapheadset_b {
+				count = 5;
+				name = "H_mas_uk_revcapheadset_b";
+			};
+			class _xx_H_mas_uk_patrolheadset_b {
+				count = 5;
+				name = "H_mas_uk_patrolheadset_b";
+			};
+			class _xx_H_mas_uk_Woolhat {
+				count = 5;
+				name = "H_mas_uk_Woolhat";
+			};
+			class _xx_H_mas_uk_Woolhat_c {
+				count = 5;
+				name = "H_mas_uk_Woolhat_c";
+			};
+			class _xx_H_mas_uk_Woolhat_w {
+				count = 5;
+				name = "H_mas_uk_Woolhat_w";
+			};
+			class _xx_H_mas_uk_woolhat_ht {
+				count = 5;
+				name = "H_mas_uk_woolhat_ht";
+			};
+			class _xx_H_mas_uk_woolhat_ht_w {
+				count = 5;
+				name = "H_mas_uk_woolhat_ht_w";
+			};
+			class _xx_H_mas_uk_Booniehat_mult {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mult";
+			};
+			class _xx_H_mas_uk_Booniehat_mtp {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mtp";
+			};
+			class _xx_H_mas_uk_Booniehat_rgr {
+				count = 5;
+				name = "H_mas_uk_Booniehat_rgr";
+			};
+			class _xx_H_mas_uk_Booniehat_des {
+				count = 5;
+				name = "H_mas_uk_Booniehat_des";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_h {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_h";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_hm {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_hm";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_hv {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_hv";
+			};
+			class _xx_H_mas_uk_Booniehat_mul_hd {
+				count = 5;
+				name = "H_mas_uk_Booniehat_mul_hd";
+			};
+			class _xx_H_mas_uk_headset_b {
+				count = 5;
+				name = "H_mas_uk_headset_b";
+			};
+			class _xx_H_mas_uk_Bandana {
+				count = 5;
+				name = "H_mas_uk_Bandana";
+			};
+			class _xx_H_mas_uk_Bandana_h {
+				count = 5;
+				name = "H_mas_uk_Bandana_h";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_g {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_g";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_m {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_m";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_w {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_w";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_b {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_b";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_g {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_g";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_m {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_m";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_w {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_w";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_gog_b {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_gog_b";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_g {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_g";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_m {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_m";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_w {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_w";
+			};
+			class _xx_H_mas_uk_helmet_mich_sf_h_b {
+				count = 5;
+				name = "H_mas_uk_helmet_mich_sf_h_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_b {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_g {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_g";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_d {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_d";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_w {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_w";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_b {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_g {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_g";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_d {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_d";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_gog_w {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_gog_w";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_b {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_b";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_g {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_g";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_d {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_d";
+			};
+			class _xx_H_mas_uk_helmet_ops_sf_h_w {
+				count = 5;
+				name = "H_mas_uk_helmet_ops_sf_h_w";
+			};
+			class _xx_H_mas_uk_helmet_pro {
+				count = 5;
+				name = "H_mas_uk_helmet_pro";
+			};
+			class _xx_H_mas_uk_helmet_pro_b {
+				count = 5;
+				name = "H_mas_uk_helmet_pro_b";
+			};
+			class _xx_H_mas_uk_helmet_pro_gog {
+				count = 5;
+				name = "H_mas_uk_helmet_pro_gog";
+			};
+			class _xx_H_mas_uk_helmet_pro_gog_b {
+				count = 5;
+				name = "H_mas_uk_helmet_pro_gog_b";
+			};
+			class _xx_UK_Beret_SpecialAirService {
+				count = 5;
+				name = "UK_Beret_SpecialAirService";
+			};
+			class _xx_UK_Beret_SpecialAirService {
+				count = 5;
+				name = "UK_Beret_SpecialAirService";
+			};
+			class _xx_UK_BaseballCap_FlagGreen {
+				count = 5;
+				name = "UK_BaseballCap_FlagGreen";
+			};
+			class _xx_UK_BaseballCap_FlagRed {
+				count = 5;
+				name = "UK_BaseballCap_FlagRed";
+			};
+			class _xx_UK_BaseballCap_FlagTan {
+				count = 5;
+				name = "UK_BaseballCap_FlagTan";
+			};
+			class _xx_UK_BaseballCap_FlagWhite {
+				count = 5;
+				name = "UK_BaseballCap_FlagWhite";
 			};
 			
 //Medical
@@ -815,7 +1377,36 @@
 			class TransportBackpacks
 			
 		{
-		
+		class _xx_B_AssaultPack_rgr
+		{
+			count = 10;
+			backpack = "B_AssaultPack_rgr";
+		};
+		class _xx_B_AssaultPack_mcamo
+		{
+			count = 10;
+			backpack = "B_AssaultPack_mcamo";
+		};
+		class _xx_B_Kitbag_rgr
+		{
+			count = 10;
+			backpack = "B_Kitbag_rgr";
+		};
+		class _xx_B_Kitbag_mcamo
+		{
+			count = 10;
+			backpack = "B_Kitbag_mcamo";
+		};
+		class _xx_B_TacticalPack_blk
+		{
+			count = 10;
+			backpack = "B_TacticalPack_blk";
+		};
+		class _xx_B_TacticalPack_mcamo
+		{
+			count = 10;
+			backpack = "B_TacticalPack_mcamo";
+		};
 		class _xx_tf_rt1523g
 		{
 			count = 10;
@@ -831,292 +1422,269 @@
 			count = 10;
 			backpack = "B_MAV_B_BACKPACK";
 		};
-		class _xx_B_ons_Carryall
-			count = 10;
-			backpack = "B_ons_Carryall";
-		};
-		class _xx_B_ons_Carryall_Medical
-			count = 10;
-			backpack = "B_ons_Carryall_Medical";
-		};
-		class _xx_B_ons_Carryall_AR
-			count = 10;
-			backpack = "B_ons_Carryall_AR";
-		};
-		class _xx_B_ons_Carryall_Medical_AR
-			count = 10;
-			backpack = "B_ons_Carryall_Medical_AR";
-		};
-		class _xx_B_ons_Carryall_TCCC_TW
-			count = 10;
-			backpack = "B_ons_Carryall_TCCC_TW";
-		};
-		class _xx_B_ons_Carryall_TCCC_AR
-			count = 10;
-			backpack = "B_ons_Carryall_TCCC_AR";
-		};
-		class _xx_B_ons_AssaultPack_TW
-			count = 10;
-			backpack = "B_ons_AssaultPack_TW";
-		};
-		class _xx_B_ons_AssaultPack_AR
-			count = 10;
-			backpack = "B_ons_AssaultPack_AR"
-		};
 		
 		
 	};
 	
 	
 		class TransportMagazines {
-		
-//Grenades			
-			class _xx_HandGrenade
+			class _xx_RH_12Rnd_45cal_usp {
 				count = 100;
-				magazine = "HandGrenade"
+				magazine = "RH_12Rnd_45cal_usp";
 			};
-			
-//Smoke grenades			
-			class _xx_SmokeShell
+			class _xx_RH_15Rnd_9x19_SIG {
 				count = 100;
-				magazine = "SmokeShell"
+				magazine = "RH_15Rnd_9x19_SIG";
 			};
-			class _xx_SmokeShellRed
+			class _xx_RH_17Rnd_9x19_g17  {
 				count = 100;
-				magazine = "SmokeShellRed"
+				magazine = "RH_17Rnd_9x19_g17";
 			};
-			class _xx_SmokeShellGreen
+			class _xx_13Rnd_mas_9x21_Mag {
 				count = 100;
-				magazine = "SmokeShellGreen"
+				magazine = "13Rnd_mas_9x21_Mag"
 			};
-			class _xx_SmokeShellYellow
-				count = 100;
-				magazine = "SmokeShellYellow"
-			};
-			class _xx_SmokeShellPurple
-				count = 100;
-				magazine = "SmokeShellPurple"
-			};
-			class _xx_SmokeShellBlue
-				count = 100;
-				magazine = "SmokeShellBlue"
-			};
-			class _xx_SmokeShellOrange
-				count = 100;
-				magazine = "SmokeShellOrange"
-			};
-			
-//Chemlights			
-			class _xx_Chemlight_green
-				count = 100;
-				magazine = "Chemlight_green"
-			};
-			class _xx_Chemlight_red
-				count = 100;
-				magazine = "Chemlight_red"
-			};
-			class _xx_Chemlight_yellow
-				count = 100;
-				magazine = "Chemlight_yellow"
-			};
-			class _xx_Chemlight_blue
-				count = 100;
-				magazine = "Chemlight_blue"
-			};
-			
-//5.56x45mm			
-			class _xx_30Rnd_mas_556x45_Stanag
+			class _xx_30Rnd_mas_556x45_Stanag {
 				count = 500;
 				magazine = "30Rnd_mas_556x45_Stanag"
 			};
-			class _xx_30Rnd_mas_556x45_T_Stanag
+			class _xx_30Rnd_mas_556x45_T_Stanag {
 				count = 500;
 				magazine = "30Rnd_mas_556x45_T_Stanag"
 			};
-			class _xx_30Rnd_556x45_Stanag
+			class _xx_30Rnd_556x45_Stanag {
 				count = 500;
 				magazine = "30Rnd_556x45_Stanag"
 			};
-			class _xx_30Rnd_556x45_Stanag_Tracer_Red
+			class _xx_30Rnd_556x45_Stanag_Tracer_Red {
 				count = 500;
 				magazine = "30Rnd_556x45_Stanag_Tracer_Red"
 			};
-			class _xx_200Rnd_mas_556x45_Stanag
-				count = 500;
-				magazine = "200Rnd_mas_556x45_Stanag"
+			class _xx_HandGrenade {
+				count = 100;
+				magazine = "HandGrenade"
 			};
-			class _xx_200Rnd_mas_556x45_T_Stanag
-				count = 500;
-				magazine = "200Rnd_mas_556x45_T_Stanag"
+			class _xx_SmokeShell {
+				count = 100;
+				magazine = "SmokeShell"
 			};
-			
-//40mm M320			
-			class _xx_1Rnd_HE_Grenade_shell
+			class _xx_SmokeShellRed {
+				count = 100;
+				magazine = "SmokeShellRed"
+			};
+			class _xx_SmokeShellGreen {
+				count = 100;
+				magazine = "SmokeShellGreen"
+			};
+			class _xx_SmokeShellYellow {
+				count = 100;
+				magazine = "SmokeShellYellow"
+			};
+			class _xx_SmokeShellPurple {
+				count = 100;
+				magazine = "SmokeShellPurple"
+			};
+			class _xx_SmokeShellBlue {
+				count = 100;
+				magazine = "SmokeShellBlue"
+			};
+			class _xx_SmokeShellOrange {
+				count = 100;
+				magazine = "SmokeShellOrange"
+			};
+			class _xx_Chemlight_green {
+				count = 100;
+				magazine = "Chemlight_green"
+			};
+			class _xx_Chemlight_red {
+				count = 100;
+				magazine = "Chemlight_red"
+			};
+			class _xx_Chemlight_yellow {
+				count = 100;
+				magazine = "Chemlight_yellow"
+			};
+			class _xx_Chemlight_blue {
+				count = 100;
+				magazine = "Chemlight_blue"
+			};
+			class _xx_1Rnd_HE_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_HE_Grenade_shell"
 			};
-			class _xx_UGL_FlareWhite_F
+			class _xx_UGL_FlareWhite_F {
 				count = 100;
 				magazine = "UGL_FlareWhite_F"
 			};
-			class _xx_UGL_FlareGreen_F
+			class _xx_UGL_FlareGreen_F {
 				count = 100;
 				magazine = "UGL_FlareGreen_F"
 			};
-			class _xx_UGL_FlareRed_F
+			class _xx_UGL_FlareRed_F {
 				count = 100;
 				magazine = "UGL_FlareRed_F"
 			};
-			class _xx_UGL_FlareYellow_F
+			class _xx_UGL_FlareYellow_F {
 				count = 100;
 				magazine = "UGL_FlareYellow_F"
 			};
-			class _xx_UGL_FlareCIR_F
+			class _xx_UGL_FlareCIR_F {
 				count = 100;
 				magazine = "UGL_FlareCIR_F"
 			};
-			class _xx_1Rnd_Smoke_Grenade_shell
+			class _xx_1Rnd_Smoke_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_Smoke_Grenade_shell"
 			};
-			class _xx_1Rnd_SmokeRed_Grenade_shell
+			class _xx_1Rnd_SmokeRed_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_SmokeRed_Grenade_shell"
 			};
-			class _xx_1Rnd_SmokeGreen_Grenade_shell
+			class _xx_1Rnd_SmokeGreen_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_SmokeGreen_Grenade_shell"
 			};
-			class _xx_1Rnd_SmokeYellow_Grenade_shell
+			class _xx_1Rnd_SmokeYellow_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_SmokeYellow_Grenade_shell"
 			};
-			class _xx_1Rnd_SmokePurple_Grenade_shell
+			class _xx_1Rnd_SmokePurple_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_SmokePurple_Grenade_shell"
 			};
-			class _xx_1Rnd_SmokeBlue_Grenade_shell
+			class _xx_1Rnd_SmokeBlue_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_SmokeBlue_Grenade_shell"
 			};
-			class _xx_1Rnd_SmokeOrange_Grenade_shell
+			class _xx_1Rnd_SmokeOrange_Grenade_shell {
 				count = 100;
 				magazine = "1Rnd_SmokeOrange_Grenade_shell"
 			};
-			
-//7.62 NATO			
-			class _xx_100Rnd_mas_762x51_Stanag
-				count = 500;
+			class _xx_200Rnd_mas_556x45_Stanag {
+				count = 100;
+				magazine = "200Rnd_mas_556x45_Stanag"
+			};
+			class _xx_200Rnd_mas_556x45_T_Stanag {
+				count = 100;
+				magazine = "200Rnd_mas_556x45_T_Stanag"
+			};
+			class _xx_100Rnd_mas_762x51_Stanag {
+				count = 100;
 				magazine = "100Rnd_mas_762x51_Stanag"
 			};
-			class _xx_100Rnd_mas_762x51_T_Stanag
-				count = 500;
+			class _xx_100Rnd_mas_762x51_T_Stanag {
+				count = 100;
 				magazine = "100Rnd_mas_762x51_T_Stanag"
 			};
-			class _xx_20Rnd_762x51_Mag
-				count = 500;
-				magazine = "20Rnd_762x51_Mag"
-			};
-			class _xx_20Rnd_mas_762x51_Stanag
-				count = 500;
-				magazine = "20Rnd_mas_762x51_Stanag"
-			};
-			class _xx_20Rnd_mas_762x51_T_Stanag
-				count = 500;
-				magazine = "20Rnd_mas_762x51_T_Stanag"
-			};
-			class _xx_5Rnd_mas_762x51_Stanag
-				count = 500;
-				magazine = "5Rnd_mas_762x51_Stanag"
-			};
-			class _xx_5Rnd_mas_762x51_T_Stanag
-				count = 500;
-				magazine = "5Rnd_mas_762x51_T_Stanag"
-			};
-
-//9x19mm Parabellum
-			class _xx_15Rnd_mas_9x21_Mag
-				count = 100;
-				magazine = "15Rnd_mas_9x21_Mag"
-			};
-			
-//.45 Cal
-			class _xx_12Rnd_mas_45acp_Mag
+			class _xx_12Rnd_mas_45acp_Mag {
 				count = 100;
 				magazine = "12Rnd_mas_45acp_Mag"
 			};
-			class _xx_10Rnd_mas_45acp_Mag
+			class _xx_10Rnd_mas_45acp_Mag {
 				count = 100;
 				magazine = "10Rnd_mas_45acp_Mag"
 			};
-			class _xx_8Rnd_mas_45acp_Mag
+			class _xx_8Rnd_mas_45acp_Mag {
 				count = 100;
 				magazine = "8Rnd_mas_45acp_Mag"
 			};
-			
-//12 Gauge
-			class _xx_7Rnd_mas_12Gauge_Slug
-				count = 500;
+			class _xx_7Rnd_mas_12Gauge_Slug {
+				count = 100;
 				magazine = "7Rnd_mas_12Gauge_Slug"
 			};
-			class _xx_7Rnd_mas_12Gauge_Pellets
-				count = 500;
+			class _xx_7Rnd_mas_12Gauge_Pellets {
+				count = 100;
 				magazine = "7Rnd_mas_12Gauge_Pellets"
 			};
-			
-//.338 Lapua
-			class _xx_10Rnd_mas_338_Stanag
-				count = 100;
-				magazine = "10Rnd_mas_338_Stanag"
-			};
-			class _xx_10Rnd_mas_338_T_Stanag
-				count = 100;
-				magazine = "10Rnd_mas_338_T_Stanag"
-			};
-			
-//12.7x99mm /.50 BMG			
-			class _xx_5Rnd_mas_127x99_Stanag
+			class _xx_5Rnd_mas_127x99_Stanag {
 				count = 100;
 				magazine = "5Rnd_mas_127x99_Stanag"
 			};
-			class _xx_5Rnd_mas_127x99_dem_Stanag
+			class _xx_5Rnd_mas_127x99_dem_Stanag {
 				count = 100;
 				magazine = "5Rnd_mas_127x99_dem_Stanag"
 			};
-			class _xx_5Rnd_mas_127x99_T_Stanag
+			class _xx_5Rnd_mas_127x99_T_Stanag {
 				count = 100;
 				magazine = "5Rnd_mas_127x99_T_Stanag"
 			};
-
-//Rockets			
-			class _xx_rhs_m136_mag
+			class _xx_10Rnd_mas_338_Stanag {
+				count = 100;
+				magazine = "10Rnd_mas_338_Stanag"
+			};
+			class _xx_10Rnd_mas_338_T_Stanag {
+				count = 100;
+				magazine = "10Rnd_mas_338_T_Stanag"
+			};
+			class _xx_30Rnd_mas_9x21_Stanag {
+				count = 100;
+				magazine = "30Rnd_mas_9x21_Stanag"
+			};
+			class _xx_30Rnd_mas_9x21d_Stanag {
+				count = 100;
+				magazine = "30Rnd_mas_9x21d_Stanag"
+			};
+			class _xx_30Rnd_9x21_Mag {
+				count = 100;
+				magazine = "30Rnd_9x21_Mag"
+			};
+			class _xx_20Rnd_762x51_Mag {
+				count = 100;
+				magazine = "20Rnd_762x51_Mag"
+			};
+			class _xx_20Rnd_mas_762x51_Stanag {
+				count = 100;
+				magazine = "20Rnd_mas_762x51_Stanag"
+			};
+			class _xx_20Rnd_mas_762x51_T_Stanag {
+				count = 100;
+				magazine = "20Rnd_mas_762x51_T_Stanag"
+			};
+			class _xx_rhs_m136_mag {
 				count = 100;
 				magazine = "rhs_m136_mag"
 			};
-			class _xx_rhs_m136_hedp_mag
+			class _xx_rhs_m136_hedp_mag {
 				count = 100;
 				magazine = "rhs_m136_hedp_mag"
 			};
-			class _xx_rhs_m136_hp_mag
+			class _xx_rhs_m136_hp_mag {
 				count = 100;
 				magazine = "rhs_m136_hp_mag"
 			};
-			class _xx_mas_MAAWS
+			class _xx_mas_MAAWS {
 				count = 100;
 				magazine = "mas_MAAWS"
 			};
-			class _xx_mas_MAAWS_HE
+			class _xx_mas_MAAWS_HE {
 				count = 100;
 				magazine = "mas_MAAWS_HE"
 			};
-			class _xx_mas_Stinger
+			class _xx_mas_NLAW {
+				count = 100;
+				magazine = "mas_NLAW"
+			};
+			class _xx_mas_NLAW_HE {
+				count = 100;
+				magazine = "mas_NLAW_HE"
+			};
+			class _xx_NLAW_F {
+				count = 100;
+				magazine = "NLAW_F"
+			};
+			class _xx_mas_Stinger {
 				count = 100;
 				magazine = "mas_Stinger"
 			};
+			
 		};
 		
 		class TransportWeapons {
 
+			class _xx_RH_usp {
+				count = 25;
+				weapon = "RH_usp";
+			};
 			class _xx_RH_p226 {
 				count = 25;
 				weapon = "RH_p226";
@@ -1124,6 +1692,10 @@
 			class _xx_RH_p226s {
 				count = 25;
 				weapon = "RH_p226s";
+			};
+			class _xx_RH_g17 {
+				count = 25;
+				weapon = "RH_g17";
 			};
 			class _xx_hgun_mas_bhp_F {
 				count = 25;
@@ -1245,6 +1817,10 @@
 				count = 25;
 				weapon = "arifle_mas_l119_m203_d";
 			};
+			class _xx_srifle_mas_hk417 {
+				count = 25;
+				weapon = "srifle_mas_hk417";
+			};
 			class _xx_arifle_mas_m1014 {
 				count = 25;
 				weapon = "arifle_mas_m1014";
@@ -1313,6 +1889,41 @@
 				count = 25;
 				weapon = "arifle_mas_mp5sd_ds";
 			};
+			class _xx_kio_l85a2_ugl {
+				count = 25;
+				weapon = "kio_l85a2_ugl";
+			};
+			class _xx_kio_l85a2_ris {
+				count = 25;
+				weapon = "kio_l85a2_ris";
+			};
+			class _xx_STKR_L129A1 {
+				count = 25;
+				weapon = "STKR_L129A1";
+			};
+			class _xx_STKR_L129A1_HG {
+				count = 25;
+				weapon = "STKR_L129A1_HG";
+			};
+			class _xx_STKR_L129A1_Bipod {
+				count = 25;
+				weapon = "STKR_L129A1_BipodSTKR_L129A1_Bipod";
+			};
+			class _xx_STKR_L129A1_HG_Bipod {
+				count = 25;
+				weapon = "STKR_L129A1_HG_Bipod";
+			};
 		};	
+		/*
+         class TransportBackpacks {	
+         class TransportBackpacks {	
+			class _xx_tf_rt1523g {
+		       count = 50;
+			   backpack = "rt_1523g";
+			 };  
+		}; 
+		*/
 	};
 
+	
+// Dont need this};
