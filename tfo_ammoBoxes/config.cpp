@@ -30,13 +30,19 @@ class CfgVehicles
 {
 	#include <\tfo_ammoBoxes\equip\equipConfig.hpp>
 	#include <\tfo_ammoBoxes\empty\emptyConfig.hpp>
+	#include <\tfo_ammoBoxes\baf\bafConfig.hpp>
+	#include <\tfo_ammoBoxes\caf\cafConfig.hpp>
+	#include <\tfo_ammoBoxes\USAF\UsafConfig.hpp>
+	#include <\tfo_ammoBoxes\USMC\UsmcConfig.hpp>
 };
 
 class Extended_Init_EventHandlers {
 
 	#include <\tfo_ammoBoxes\equip\equipEH.hpp>
 	#include <\tfo_ammoBoxes\empty\emptyEH.hpp>
+	#include <\tfo_ammoBoxes\baf\equipEH.hpp>
+	#include <\tfo_ammoBoxes\caf\equipEH.hpp>
+	#include <\tfo_ammoBoxes\USAF\equipEH.hpp>
+	#include <\tfo_ammoBoxes\USMC\equipEH.hpp>
 
 };
-
-
