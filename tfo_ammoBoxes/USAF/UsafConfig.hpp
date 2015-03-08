@@ -1221,299 +1221,311 @@
 			class _xx_HandGrenade
 			{
 				count = 100;
-				magazine = "HandGrenade"
+				magazine = "HandGrenade";
 			};
 			
 //Smoke grenades			
 			class _xx_SmokeShell
 			{
 				count = 100;
-				magazine = "SmokeShell"
+				magazine = "SmokeShell";
 			};
 			class _xx_SmokeShellRed
 			{
 				count = 100;
-				magazine = "SmokeShellRed"
+				magazine = "SmokeShellRed";
 			};
 			class _xx_SmokeShellGreen
 			{
 				count = 100;
-				magazine = "SmokeShellGreen"
+				magazine = "SmokeShellGreen";
 			};
 			class _xx_SmokeShellYellow
 			{
 				count = 100;
-				magazine = "SmokeShellYellow"
+				magazine = "SmokeShellYellow";
 			};
 			class _xx_SmokeShellPurple
 			{
 				count = 100;
-				magazine = "SmokeShellPurple"
+				magazine = "SmokeShellPurple";
 			};
 			class _xx_SmokeShellBlue
 			{
 				count = 100;
-				magazine = "SmokeShellBlue"
+				magazine = "SmokeShellBlue";
 			};
 			class _xx_SmokeShellOrange
 			{
 				count = 100;
-				magazine = "SmokeShellOrange"
+				magazine = "SmokeShellOrange";
 			};
 			
 //Chemlights			
 			class _xx_Chemlight_green
 			{
 				count = 100;
-				magazine = "Chemlight_green"
+				magazine = "Chemlight_green";
 			};
 			class _xx_Chemlight_red
 			{
 				count = 100;
-				magazine = "Chemlight_red"
+				magazine = "Chemlight_red";
 			};
 			class _xx_Chemlight_yellow
 			{
 				count = 100;
-				magazine = "Chemlight_yellow"
+				magazine = "Chemlight_yellow";
 			};
 			class _xx_Chemlight_blue
 			{
 				count = 100;
-				magazine = "Chemlight_blue"
+				magazine = "Chemlight_blue";
 			};
 			
 //5.56x45mm			
 			class _xx_30Rnd_mas_556x45_Stanag
 			{
 				count = 500;
-				magazine = "30Rnd_mas_556x45_Stanag"
+				magazine = "30Rnd_mas_556x45_Stanag";
 			};
 			class _xx_30Rnd_mas_556x45_T_Stanag
 			{
 				count = 500;
-				magazine = "30Rnd_mas_556x45_T_Stanag"
+				magazine = "30Rnd_mas_556x45_T_Stanag";
 			};
 			class _xx_30Rnd_556x45_Stanag
 			{
 				count = 500;
-				magazine = "30Rnd_556x45_Stanag"
+				magazine = "30Rnd_556x45_Stanag";
 			};
 			class _xx_30Rnd_556x45_Stanag_Tracer_Red
 			{
 				count = 500;
-				magazine = "30Rnd_556x45_Stanag_Tracer_Red"
+				magazine = "30Rnd_556x45_Stanag_Tracer_Red";
 			};
 			class _xx_200Rnd_mas_556x45_Stanag
 			{
 				count = 500;
-				magazine = "200Rnd_mas_556x45_Stanag"
+				magazine = "200Rnd_mas_556x45_Stanag";
 			};
 			class _xx_200Rnd_mas_556x45_T_Stanag
 			{
 				count = 500;
-				magazine = "200Rnd_mas_556x45_T_Stanag"
+				magazine = "200Rnd_mas_556x45_T_Stanag";
 			};
 			
 //40mm M320			
 			class _xx_1Rnd_HE_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_HE_Grenade_shell"
+				magazine = "1Rnd_HE_Grenade_shell";
 			};
 			class _xx_UGL_FlareWhite_F
 			{
 				count = 100;
-				magazine = "UGL_FlareWhite_F"
+				magazine = "UGL_FlareWhite_F";
 			};
 			class _xx_UGL_FlareGreen_F
 			{
 				count = 100;
-				magazine = "UGL_FlareGreen_F"
+				magazine = "UGL_FlareGreen_F";
 			};
 			class _xx_UGL_FlareRed_F
 			{
 				count = 100;
-				magazine = "UGL_FlareRed_F"
+				magazine = "UGL_FlareRed_F";
 			};
 			class _xx_UGL_FlareYellow_F
 			{
 				count = 100;
-				magazine = "UGL_FlareYellow_F"
+				magazine = "UGL_FlareYellow_F";
 			};
 			class _xx_UGL_FlareCIR_F
 			{
 				count = 100;
-				magazine = "UGL_FlareCIR_F"
+				magazine = "UGL_FlareCIR_F";
 			};
 			class _xx_1Rnd_Smoke_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_Smoke_Grenade_shell"
+				magazine = "1Rnd_Smoke_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeRed_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_SmokeRed_Grenade_shell"
+				magazine = "1Rnd_SmokeRed_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeGreen_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_SmokeGreen_Grenade_shell"
+				magazine = "1Rnd_SmokeGreen_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeYellow_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_SmokeYellow_Grenade_shell"
+				magazine = "1Rnd_SmokeYellow_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokePurple_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_SmokePurple_Grenade_shell"
+				magazine = "1Rnd_SmokePurple_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeBlue_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_SmokeBlue_Grenade_shell"
+				magazine = "1Rnd_SmokeBlue_Grenade_shell";
 			};
 			class _xx_1Rnd_SmokeOrange_Grenade_shell
 			{
 				count = 100;
-				magazine = "1Rnd_SmokeOrange_Grenade_shell"
+				magazine = "1Rnd_SmokeOrange_Grenade_shell";
 			};
 			
 //7.62 NATO			
 			class _xx_100Rnd_mas_762x51_Stanag
 			{
 				count = 500;
-				magazine = "100Rnd_mas_762x51_Stanag"
+				magazine = "100Rnd_mas_762x51_Stanag";
 			};
 			class _xx_100Rnd_mas_762x51_T_Stanag
 			{
 				count = 500;
-				magazine = "100Rnd_mas_762x51_T_Stanag"
+				magazine = "100Rnd_mas_762x51_T_Stanag";
 			};
 			class _xx_20Rnd_762x51_Mag
 			{
 				count = 500;
-				magazine = "20Rnd_762x51_Mag"
+				magazine = "20Rnd_762x51_Mag";
 			};
 			class _xx_20Rnd_mas_762x51_Stanag
 			{
 				count = 500;
-				magazine = "20Rnd_mas_762x51_Stanag"
+				magazine = "20Rnd_mas_762x51_Stanag";
 			};
 			class _xx_20Rnd_mas_762x51_T_Stanag
 			{
 				count = 500;
-				magazine = "20Rnd_mas_762x51_T_Stanag"
+				magazine = "20Rnd_mas_762x51_T_Stanag";
 			};
 			class _xx_5Rnd_mas_762x51_Stanag
 			{
 				count = 500;
-				magazine = "5Rnd_mas_762x51_Stanag"
+				magazine = "5Rnd_mas_762x51_Stanag";
 			};
 			class _xx_5Rnd_mas_762x51_T_Stanag
 			{
 				count = 500;
-				magazine = "5Rnd_mas_762x51_T_Stanag"
+				magazine = "5Rnd_mas_762x51_T_Stanag";
 			};
 
 //9x19mm Parabellum
 			class _xx_15Rnd_mas_9x21_Mag
 			{
 				count = 100;
-				magazine = "15Rnd_mas_9x21_Mag"
+				magazine = "15Rnd_mas_9x21_Mag";
 			};
 			
 //.45 Cal
 			class _xx_12Rnd_mas_45acp_Mag
 			{
 				count = 100;
-				magazine = "12Rnd_mas_45acp_Mag"
+				magazine = "12Rnd_mas_45acp_Mag";
 			};
 			class _xx_10Rnd_mas_45acp_Mag
 			{
 				count = 100;
-				magazine = "10Rnd_mas_45acp_Mag"
+				magazine = "10Rnd_mas_45acp_Mag";
 			};
 			class _xx_8Rnd_mas_45acp_Mag
 			{
 				count = 100;
-				magazine = "8Rnd_mas_45acp_Mag"
+				magazine = "8Rnd_mas_45acp_Mag";
 			};
 			
 //12 Gauge
 			class _xx_7Rnd_mas_12Gauge_Slug
 			{
 				count = 500;
-				magazine = "7Rnd_mas_12Gauge_Slug"
+				magazine = "7Rnd_mas_12Gauge_Slug";
 			};
 			class _xx_7Rnd_mas_12Gauge_Pellets
 			{
 				count = 500;
-				magazine = "7Rnd_mas_12Gauge_Pellets"
+				magazine = "7Rnd_mas_12Gauge_Pellets";
 			};
 			
 //.338 Lapua
 			class _xx_10Rnd_mas_338_Stanag
 			{
 				count = 100;
-				magazine = "10Rnd_mas_338_Stanag"
+				magazine = "10Rnd_mas_338_Stanag";
 			};
 			class _xx_10Rnd_mas_338_T_Stanag
 			{
 				count = 100;
-				magazine = "10Rnd_mas_338_T_Stanag"
+				magazine = "10Rnd_mas_338_T_Stanag";
 			};
 			
 //12.7x99mm /.50 BMG			
 			class _xx_5Rnd_mas_127x99_Stanag
 			{
 				count = 100;
-				magazine = "5Rnd_mas_127x99_Stanag"
+				magazine = "5Rnd_mas_127x99_Stanag";
 			};
 			class _xx_5Rnd_mas_127x99_dem_Stanag
 			{
 				count = 100;
-				magazine = "5Rnd_mas_127x99_dem_Stanag"
+				magazine = "5Rnd_mas_127x99_dem_Stanag";
 			};
 			class _xx_5Rnd_mas_127x99_T_Stanag
 			{
 				count = 100;
-				magazine = "5Rnd_mas_127x99_T_Stanag"
+				magazine = "5Rnd_mas_127x99_T_Stanag";
 			};
 
 //Rockets			
 			class _xx_rhs_m136_mag
 			{
 				count = 100;
-				magazine = "rhs_m136_mag"
+				magazine = "rhs_m136_mag";
 			};
 			class _xx_rhs_m136_hedp_mag
 			{
 				count = 100;
-				magazine = "rhs_m136_hedp_mag"
+				magazine = "rhs_m136_hedp_mag";
 			};
 			class _xx_rhs_m136_hp_mag
 			{
 				count = 100;
-				magazine = "rhs_m136_hp_mag"
+				magazine = "rhs_m136_hp_mag";
 			};
 			class _xx_mas_MAAWS
 			{
 				count = 100;
-				magazine = "mas_MAAWS"
+				magazine = "mas_MAAWS";
 			};
 			class _xx_mas_MAAWS_HE
 			{
 				count = 100;
-				magazine = "mas_MAAWS_HE"
+				magazine = "mas_MAAWS_HE";
 			};
 			class _xx_mas_Stinger
 			{
 				count = 100;
-				magazine = "mas_Stinger"
+				magazine = "mas_Stinger";
+			};
+			class _xx_rhs_mag_mk84 {
+				count = 100;
+				magazine = "rhs_mag_mk84";
+			};
+			class _xx_rhs_mag_m7a3_cs {
+				count = 100;
+				magazine = "rhs_mag_m7a3_cs";
+			};
+			class _xx_rhs_mag_an_m14_th3 {
+				count = 100;
+				magazine = "rhs_mag_an_m14_th3";
 			};
 		};
 		
@@ -1675,7 +1687,7 @@
 				count = 25;
 				weapon = "rhs_weap_M136_hedp";
 			};
-			class _xx_ {rhs_weap_M136_hp
+			class _xx_rhs_weap_M136_hp {
 				count = 25;
 				weapon = "rhs_weap_M136_hp";
 			};
