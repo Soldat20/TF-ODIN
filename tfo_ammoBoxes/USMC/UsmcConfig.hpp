@@ -608,67 +608,67 @@
 			};
 			class _xx_U_mas_mar_B_CombatUniform_sage_tshirt {
 				count = 5;
-				name = "U_mas_mar_B_CombatUniform_sage_tshirt"
+				name = "U_mas_mar_B_CombatUniform_sage_tshirt";
 			};
 			class _xx_U_mas_mar_B_CombatUniform_sage_vest {
 				count = 5;
-				name = "U_mas_mar_B_CombatUniform_sage_vest"
+				name = "U_mas_mar_B_CombatUniform_sage_vest";
 			};
 			class _xx_U_mas_mar_B_IndUniform1_o {
 				count = 5;
-				name = "U_mas_mar_B_IndUniform1_o"
+				name = "U_mas_mar_B_IndUniform1_o";
 			};
 			class _xx_U_mas_mar_B_IndUniform2_o {
 				count = 5;
-				name = "U_mas_mar_B_IndUniform2_o"
+				name = "U_mas_mar_B_IndUniform2_o";
 			};
 			class _xx_U_mas_mar_B_IndUniform1_v {
 				count = 5;
-				name = "U_mas_mar_B_IndUniform1_v"
+				name = "U_mas_mar_B_IndUniform1_v";
 			};
 			class _xx_U_mas_mar_B_IndUniform2_v {
 				count = 5;
-				name = "U_mas_mar_B_IndUniform2_v"
+				name = "U_mas_mar_B_IndUniform2_v";
 			};
 			class _xx_U_mas_mar_B_IndUniform1_d {
 				count = 5;
-				name = "U_mas_mar_B_IndUniform1_d"
+				name = "U_mas_mar_B_IndUniform1_d";
 			};
 			class _xx_U_mas_mar_B_IndUniform2_d {
 				count = 5;
-				name = "U_mas_mar_B_IndUniform2_d"
+				name = "U_mas_mar_B_IndUniform2_d";
 			};
 			class _xx_U_mas_mar_B_MAR {
 				count = 5;
-				name = "U_mas_mar_B_MAR"
+				name = "U_mas_mar_B_MAR";
 			};
 			class _xx_U_mas_mar_B_pilot {
 				count = 5;
-				name = "U_mas_mar_B_pilot"
+				name = "U_mas_mar_B_pilot";
 			};
 			class _xx_U_mas_mar_B_wint {
 				count = 5;
-				name = "U_mas_mar_B_wint"
+				name = "U_mas_mar_B_wint";
 			};
 			class _xx_U_mas_mar_B_Wetsuit {
 				count = 5;
-				name = "U_mas_mar_B_Wetsuit"
+				name = "U_mas_mar_B_Wetsuit";
 			};
 			class _xx_U_mas_mar_B_GhillieSuit {
 				count = 5;
-				name = "U_mas_mar_B_GhillieSuit"
+				name = "U_mas_mar_B_GhillieSuit";
 			};
 			class _xx_U_mas_mar_B_GhillieSuit_v {
 				count = 5;
-				name = "U_mas_mar_B_GhillieSuit_v"
+				name = "U_mas_mar_B_GhillieSuit_v";
 			};
 			class _xx_U_mas_mar_B_GhillieSuit_d {
 				count = 5;
-				name = "U_mas_mar_B_GhillieSuit_d"
+				name = "U_mas_mar_B_GhillieSuit_d";
 			};
 			class _xx_U_mas_mar_B_GhillieSuit_w {
 				count = 5;
-				name = "U_mas_mar_B_GhillieSuit_w"
+				name = "U_mas_mar_B_GhillieSuit_w";
 			};
 			
 //Vests
@@ -950,10 +950,6 @@
 			class _xx_H_mas_mar_helmet_ops_sf_h_e {
 				count = 5;
 				name = "H_mas_mar_helmet_ops_sf_h_e";
-			};
-			class _xx_H_mas_mar_helmet_ops_sf_h_v {
-				count = 5;
-				name = "H_mas_mar_helmet_ops_sf_h_v";
 			};
 			class _xx_H_mas_mar_helmet_ops_sf_h_v {
 				count = 5;
@@ -1521,6 +1517,18 @@
 				count = 100;
 				magazine = "mas_Stinger";
 			};
+			class _xx_rhs_mag_mk84 {
+				count = 100;
+				magazine = "rhs_mag_mk84";
+			};
+			class _xx_rhs_mag_m7a3_cs {
+				count = 100;
+				magazine = "rhs_mag_m7a3_cs";
+			};
+			class _xx_rhs_mag_an_m14_th3 {
+				count = 100;
+				magazine = "rhs_mag_an_m14_th3";
+			};
 		};
 		
 		class TransportWeapons {
@@ -1718,7 +1726,7 @@
 			class _xx_hgun_mas_glocksf_F
 			{
 				count = 25;
-				weapon = "hgun_mas_glocksf_F"
+				weapon = "hgun_mas_glocksf_F";
 			}
 			class _xx_hgun_mas_m9_F
 			{
