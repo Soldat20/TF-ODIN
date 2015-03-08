@@ -880,7 +880,7 @@
 		
 //Grenades			
 			class _xx_HandGrenade
-		    {
+			{
 				count = 100;
 				magazine = "HandGrenade";
 			};
@@ -1111,6 +1111,7 @@
 				magazine = "7Rnd_mas_12Gauge_Slug";
 			};
 			class _xx_7Rnd_mas_12Gauge_Pellets
+			{
 				count = 500;
 				magazine = "7Rnd_mas_12Gauge_Pellets";
 			};
@@ -1174,6 +1175,18 @@
 			{
 				count = 100;
 				magazine = "mas_Stinger";
+			};
+			class _xx_rhs_mag_mk84 {
+				count = 100;
+				magazine = "rhs_mag_mk84";
+			};
+			class _xx_rhs_mag_m7a3_cs {
+				count = 100;
+				magazine = "rhs_mag_m7a3_cs";
+			};
+			class _xx_rhs_mag_an_m14_th3 {
+				count = 100;
+				magazine = "rhs_mag_an_m14_th3";
 			};
 		};
 		
@@ -1291,10 +1304,6 @@
 				count = 25;
 				weapon = "arifle_mas_l119c_d";
 			};
-			class _xx_arifle_mas_l119c_d {
-				count = 25;
-				weapon = "arifle_mas_l119c_d";
-			};
 			class _xx_LMG_mas_M240_F {
 				count = 25;
 				weapon = "LMG_mas_M240_F";
@@ -1339,7 +1348,7 @@
 				count = 25;
 				weapon = "rhs_weap_M136_hedp";
 			};
-			class _xx_ {rhs_weap_M136_hp
+			class _xx_rhs_weap_M136_hp {
 				count = 25;
 				weapon = "rhs_weap_M136_hp";
 			};
