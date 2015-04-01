@@ -1,0 +1,1 @@
+call compile preprocessFileLineNumbers "\TFO_main\lomgr\player_init.sqf";
