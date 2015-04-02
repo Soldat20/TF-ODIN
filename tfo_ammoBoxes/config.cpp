@@ -27,8 +27,6 @@ class CfgVehicles{
 	
 	class Box_tfo_csor : B_CargoNet_01_ammo_F {
 		displayname = "[TFO] CSOR Box";
-		icon = "iconCrateLarge";
-		model = "\A3\weapons_F\AmmoBoxes\WpnsBox_large_F";
 		scope = 2;
 		transportmaxmagazines = 999999;
 		transportmaxweapons = 999999;
