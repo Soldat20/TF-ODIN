@@ -28,10 +28,11 @@ class CfgVehicles{
 	class Box_tfo_csor : B_CargoNet_01_ammo_F {
 		displayname = "[TFO] CSOR Box";
 		scope = 2;
-		transportmaxmagazines = 999999;
-		transportmaxweapons = 999999;
+		MaximumLoad = 999999;
+		transportMaxMagazines = 999999;
+		transportMaxWeapons = 999999;
 		transportMaxBackpacks = 999999;
-		transportMaxitems = 999999;
+		transportMaxItems = 999999;
 		SLX_XEH_DISABLED = 0;
 
 
@@ -1348,10 +1349,11 @@ class CfgVehicles{
 		class Box_tfo_bas: B_CargoNet_01_ammo_F {
 		displayname = "[TFO] Battalion Aid Station ";
 		scope=2;
-		transportmaxmagazines = 999999;
-		transportmaxweapons = 999999;
+		MaximumLoad = 999999;
+		transportMaxMagazines = 999999;
+		transportMaxWeapons = 999999;
 		transportMaxBackpacks = 999999;
-		transportMaxitems = 999999;
+		transportMaxItems = 999999;
 		SLX_XEH_DISABLED = 0;
 
 
@@ -2341,10 +2343,11 @@ class CfgVehicles{
 	class Box_tfo_inf : B_CargoNet_01_ammo_F {
 		displayname = "[TFO] Infantry Box";
 		scope = 2;
-		transportmaxmagazines = 999999;
-		transportmaxweapons = 999999;
+		MaximumLoad = 999999;
+		transportMaxMagazines = 999999;
+		transportMaxWeapons = 999999;
 		transportMaxBackpacks = 999999;
-		transportMaxitems = 999999;
+		transportMaxItems = 999999;
 		SLX_XEH_DISABLED = 0;
 
 		class TransportItems {
@@ -3337,10 +3340,11 @@ class CfgVehicles{
 	class Box_tfo_tanks : B_CargoNet_01_ammo_F {
 		scope=2;
 		displayname = "[TFO] Crewman Box";
-		transportmaxmagazines = 999999;
-		transportmaxweapons = 999999;
+		MaximumLoad = 999999;
+		transportMaxMagazines = 999999;
+		transportMaxWeapons = 999999;
 		transportMaxBackpacks = 999999;
-		transportMaxitems = 999999;
+		transportMaxItems = 999999;
 		SLX_XEH_DISABLED = 0;
 		class TransportItems {
 		
@@ -4336,10 +4340,11 @@ class CfgVehicles{
 	class Box_tfo_suply: B_CargoNet_01_ammo_F {
 		displayname = "[TFO] Resupply ALPHA";
 		scope =2;
-		transportmaxmagazines = 999999;
-		transportmaxweapons = 999999;
+		MaximumLoad = 999999;
+		transportMaxMagazines = 999999;
+		transportMaxWeapons = 999999;
 		transportMaxBackpacks = 999999;
-		transportMaxitems = 999999;
+		transportMaxItems = 999999;
 		SLX_XEH_DISABLED = 0;
 		
 
@@ -4817,10 +4822,11 @@ class CfgVehicles{
 	{
 		displayname = "[TFO] Boats";
 		scope=2;
-		transportmaxmagazines = 999999;
-		transportmaxweapons = 999999;
+		MaximumLoad = 999999;
+		transportMaxMagazines = 999999;
+		transportMaxWeapons = 999999;
 		transportMaxBackpacks = 999999;
-		transportMaxitems = 999999;
+		transportMaxItems = 999999;
 		SLX_XEH_DISABLED = 0;
 		class TransportItems{};
 		class TransportMagazines{};
@@ -4831,10 +4837,11 @@ class CfgVehicles{
 	{
 		displayname = "[TFO] Box Empty";
 		scope = 2;
-		transportmaxmagazines = 999999;
-		transportmaxweapons = 999999;
+		MaximumLoad = 999999;
+		transportMaxMagazines = 999999;
+		transportMaxWeapons = 999999;
 		transportMaxBackpacks = 999999;
-		transportMaxitems = 999999;
+		transportMaxItems = 999999;
 		SLX_XEH_DISABLED = 0;
 		class TransportItems{};
 		class TransportMagazines{};
