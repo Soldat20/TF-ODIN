@@ -1155,8 +1155,8 @@ class CfgVehicles{
 				magazine = "15Rnd_mas_9x21_Mag";
 			};
 			class _xx_RH_15Rnd_9x19_SIG {
-				count = 300;
-				name = "RH_15Rnd_9x19_SIG";
+				count = 100;
+				magazine = "RH_15Rnd_9x19_SIG";
 			};
 			
 //.45 Cal
@@ -1269,6 +1269,11 @@ class CfgVehicles{
 				count = 25;
 				weapon = "srifle_mas_m110";
 			};
+			class _xx_RH_p226
+			{
+				count = 25;
+				weapon = "RH_p226";
+			};
 			class _xx_arifle_mas_m4
 			{
 				count = 25;
@@ -1338,10 +1343,6 @@ class CfgVehicles{
 			{
 				count = 25;
 				weapon = "srifle_mas_m107";
-			};
-			class _xx_RH_p226 {
-				count = 25;
-				name = "RH_p226";
 			};
 		};
 	};
@@ -3278,6 +3279,11 @@ class CfgVehicles{
 			{
 				count = 25;
 				weapon = "arifle_mas_m16_gl";
+			};
+			class _xx_ej_iar30
+			{
+				count = 25;
+				weapon = "ej_iar30";
 			};
 			class _xx_arifle_mas_m1014
 			{
